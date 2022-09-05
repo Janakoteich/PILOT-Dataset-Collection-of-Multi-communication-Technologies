@@ -1,0 +1,1482 @@
+Time,ssid,bssid,sec,channel,rssi
+21:40:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-48
+21:40:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-53
+21:40:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:40:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:40:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:40:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:40:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:40:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:41:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:41:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:41:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+21:41:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:41:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:41:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:41:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:41:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:41:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:41:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:41:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:41:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:41:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:41:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:41:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:41:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:41:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:41:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:41:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:41:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:41:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:41:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:41:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:41:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:41:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:41:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:41:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:41:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:41:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:42:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:42:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:42:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:42:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:42:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:42:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:42:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:42:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:42:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:42:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:42:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:42:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:42:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:42:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:42:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:42:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:42:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:42:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:42:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:42:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:42:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:42:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:42:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:42:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:42:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:42:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:42:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:42:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:42:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:42:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:42:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:43:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:43:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:43:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:43:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-80
+21:43:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:43:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:43:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:43:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:43:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:43:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:43:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:43:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:43:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-55
+21:43:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:43:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:43:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:43:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-80
+21:43:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:43:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:43:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:43:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:43:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:43:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:43:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:43:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:43:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:43:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:43:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:43:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:44:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:44:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:44:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:44:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:44:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:44:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:44:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:44:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:44:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:44:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:44:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:44:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:44:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:44:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:44:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:44:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:44:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:44:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:44:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-79
+21:44:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:44:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:44:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:44:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:44:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:44:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:44:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:44:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:44:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-81
+21:44:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:45:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:45:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:45:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:45:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:45:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:45:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:45:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:45:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:45:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:45:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:45:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-85
+21:45:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:45:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:45:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:45:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:45:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-81
+21:45:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:45:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:45:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:45:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:45:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:45:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:45:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:45:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:45:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:45:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:45:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:45:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:45:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:45:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:45:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:46:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:46:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:46:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:46:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:46:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:46:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:46:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:46:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:46:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:46:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:46:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:46:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:46:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:46:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:46:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:46:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:46:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:46:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:46:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:46:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:46:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:46:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:46:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:46:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:46:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:46:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:46:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:46:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:46:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:46:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:46:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:46:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:47:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:47:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:47:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:47:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:47:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:47:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:47:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:47:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:47:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:47:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:47:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:47:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:47:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:47:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:47:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:47:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:47:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:47:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:47:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:47:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:47:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:47:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:47:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:47:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:47:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:47:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:47:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:47:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:47:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:47:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:47:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:48:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:48:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:48:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:48:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:48:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:48:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:48:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:48:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:48:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-82
+21:48:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:48:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:48:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:48:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:48:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-56
+21:48:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:48:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:48:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:48:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:48:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:48:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:48:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:48:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:48:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:48:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:48:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:48:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:48:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:48:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:48:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:48:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:48:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:49:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:49:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:49:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:49:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:49:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:49:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:49:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:49:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:49:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:49:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:49:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:49:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:49:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:49:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:49:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:49:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:49:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:49:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:49:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:49:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:49:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:49:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:49:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:49:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:49:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:49:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:49:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:49:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:49:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:49:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:49:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:50:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:50:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+21:50:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:50:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:50:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:50:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:50:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:50:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:50:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:50:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:50:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:50:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:50:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:50:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:50:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:50:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+21:50:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:50:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:50:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:50:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:50:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:50:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:50:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:50:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:50:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:50:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:50:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:50:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:50:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:50:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+21:51:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:51:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:51:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:51:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:51:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:51:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:51:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:51:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:51:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:51:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:51:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:51:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:51:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:51:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:51:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-84
+21:51:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:51:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:51:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:51:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:51:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:51:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:51:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:51:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:51:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:51:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:51:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:51:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:51:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:51:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:51:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:52:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:52:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:52:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-86
+21:52:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:52:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:52:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+21:52:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:52:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:52:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:52:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:52:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:52:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:52:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:52:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:52:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:52:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:52:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:52:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:52:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:52:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:52:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:52:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:52:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:52:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:52:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:52:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:52:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:52:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:52:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:52:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-79
+21:52:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:53:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:53:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:53:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-46
+21:53:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:53:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:53:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:53:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:53:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:53:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:53:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:53:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+21:53:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:53:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:53:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:53:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-81
+21:53:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:53:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:53:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:53:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:53:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:53:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:53:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:53:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+21:53:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:53:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:53:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:53:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:53:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:53:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:54:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:54:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:54:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:54:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:54:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:54:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:54:12,HOTSPOT_LeroyMerlin,b'\xd4 \xb0&\xc9c',0,6,-90
+21:54:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:54:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:54:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-53
+21:54:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-56
+21:54:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:54:23,BYOD-ADEO,b'\xd4 \xb0&\xc9e',0,6,-93
+21:54:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:54:28,BYOD-ADEO,b'\xd4 \xb0&\xc9e',0,6,-89
+21:54:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:54:30,BYOD-ADEO,b'\xd4 \xb0&\xc9e',0,6,-93
+21:54:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:54:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:54:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:54:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:54:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:54:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:54:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:54:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:54:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:54:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:54:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:54:51,BYOD-ADEO,b'\xd4\xdc\tq\x96\xb5',0,11,-92
+21:54:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:54:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:54:54,BYOD-ADEO,b'\xd4 \xb0&\xc2\xa5',0,6,-94
+21:54:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:55:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:55:00,BYOD-ADEO,b'\xd4 \xb0&\xc2\xa5',0,6,-94
+21:55:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:55:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:55:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:55:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:55:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:55:13,BYOD-ADEO,b'\xd4 \xb0&\xc9e',0,6,-94
+21:55:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:55:15,BYOD-ADEO,b'\xd4 \xb0&\xc9e',0,6,-92
+21:55:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:55:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:55:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:55:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+21:55:22,BYOD-ADEO,b'\xd4 \xb0\x7fu%',0,11,-96
+21:55:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:55:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:55:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:55:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:55:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:55:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:55:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:55:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:55:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:55:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:55:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:55:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:55:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+21:55:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:55:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:55:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:55:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:55:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:56:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:56:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:56:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:56:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-84
+21:56:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:56:10,BYOD-ADEO,b'\xd4 \xb0&\xcd\xe5',0,1,-94
+21:56:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:56:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:56:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:56:15,BYOD-ADEO,b'\xd4 \xb0&\xbe%',0,1,-96
+21:56:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:56:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+21:56:19,BYOD-ADEO,b'\xd4 \xb0\x7fu%',0,11,-96
+21:56:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:56:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:56:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:56:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:56:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:56:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:56:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:56:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:56:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:56:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:56:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:56:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:56:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:56:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:56:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:56:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:56:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:56:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:56:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:56:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:56:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:57:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:57:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:57:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:57:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:57:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:57:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:57:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:57:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:57:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:57:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:57:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:57:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:57:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:57:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:57:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:57:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+21:57:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:57:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:57:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:57:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:57:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:57:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:57:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:57:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+21:57:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:57:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:57:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:57:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:57:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:58:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:58:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:58:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:58:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:58:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:58:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:58:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:58:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+21:58:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:58:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:58:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:58:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:58:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:58:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:58:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:58:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-43
+21:58:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-44
+21:58:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-53
+21:58:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:58:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:58:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:58:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:58:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:58:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:58:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:58:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:58:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:58:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:58:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:58:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:58:56,KFC_LIV,b'h\x924\x0fC{',3,12,-93
+21:58:56,WIFI_KFC,b'h\x924OC{',0,12,-96
+21:58:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:59:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+21:59:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:59:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:59:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:59:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-56
+21:59:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-80
+21:59:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:59:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+21:59:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:59:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+21:59:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+21:59:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:59:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+21:59:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+21:59:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+21:59:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+21:59:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:59:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+21:59:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:59:33,KFC_LIV,b'h\x924\x0fC{',3,12,-87
+21:59:33,WIFI_KFC,b'h\x924OC{',0,12,-87
+21:59:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+21:59:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:59:37,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-93
+21:59:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+21:59:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+21:59:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+21:59:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:59:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+21:59:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+21:59:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+21:59:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+21:59:53,TP-LINK_42AF90,b'\xf4\xf2m\xe8`\x02',3,1,-94
+21:59:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+21:59:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:00:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:00:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:00:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:00:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:00:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:00:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:00:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:00:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:00:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:00:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:00:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:00:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:00:21,WIFI_KFC,b'h\x924OC{',0,12,-84
+22:00:21,KFC_LIV,b'h\x924\x0fC{',3,12,-85
+22:00:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:00:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:00:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:00:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:00:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:00:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:00:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:00:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:00:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:00:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:00:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:00:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:00:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:00:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:00:49,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-91
+22:00:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:00:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:00:54,lightweight_PC,b'\xac#\x16U7\xa1',3,6,-93
+22:00:54,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-93
+22:00:54,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-93
+22:00:54,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-94
+22:00:54,LMIOT,b'\xac#\x16U7\xa3',3,6,-94
+22:00:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:00:56,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-92
+22:00:56,lightweight_PC,b'\xac#\x16U7\xa1',3,6,-93
+22:00:56,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-94
+22:00:56,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-94
+22:00:56,LMIOT,b'\xac#\x16U7\xa3',3,6,-96
+22:00:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:01:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:01:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:01:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:01:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:01:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:01:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:01:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:01:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:01:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:01:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:01:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:01:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:01:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:01:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:01:24,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-86
+22:01:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:01:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:01:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:01:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:01:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:01:33,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-84
+22:01:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:01:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:01:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:01:41,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-92
+22:01:41,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-93
+22:01:41,LMIOT,b'\xac#\x16U3\xb3',3,11,-93
+22:01:41,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-94
+22:01:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:01:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:01:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:01:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:01:48,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-94
+22:01:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:01:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:01:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:01:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:01:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:01:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:02:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:02:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:02:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:02:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:02:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:02:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:02:10,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-91
+22:02:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:02:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:02:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:02:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:02:21,lightweight_PC,b'\xac#\x16U7\xa1',3,6,-92
+22:02:21,LMIOT,b'\xac#\x16U7\xa3',3,6,-92
+22:02:21,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-93
+22:02:21,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-95
+22:02:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:02:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:02:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:02:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:02:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:02:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:02:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:02:34,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-91
+22:02:34,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-91
+22:02:34,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-92
+22:02:34,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-94
+22:02:34,LMIOT,b'\xac#\x16U3\xb3',3,11,-94
+22:02:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:02:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:02:38,Admin - OMD-014,b'\x02\xa3\x03\xd8d\x00',3,8,-95
+22:02:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:02:40,LMIOT,b'\xac#\x16U3\xb3',3,11,-91
+22:02:40,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-91
+22:02:40,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-91
+22:02:40,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-92
+22:02:40,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-93
+22:02:40,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-94
+22:02:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:02:42,LMIOT,b'\xac#\x16U3\xb3',3,11,-91
+22:02:42,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-94
+22:02:42,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-95
+22:02:42,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-95
+22:02:42,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-95
+22:02:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:02:44,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-88
+22:02:44,LMIOT,b'\xac#\x16U3\xb3',3,11,-88
+22:02:44,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-88
+22:02:44,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-95
+22:02:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:02:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:02:48,LMIOT,b'\xac#\x16UV\xf3',3,1,-89
+22:02:48,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-90
+22:02:48,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-90
+22:02:48,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-90
+22:02:48,LMIOT,b'\xac#\x16U3\xb3',3,11,-90
+22:02:48,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-91
+22:02:48,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-91
+22:02:48,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-91
+22:02:48,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-93
+22:02:48,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-93
+22:02:48,LMIOT,b'\xac#\x16U7\xa3',3,6,-94
+22:02:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:02:50,LMIOT,b'\xac#\x16U7\xa3',3,6,-92
+22:02:50,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-92
+22:02:50,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-93
+22:02:50,lightweight_PC,b'\xac#\x16U7\xa1',3,6,-94
+22:02:50,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-95
+22:02:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:02:52,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-89
+22:02:52,lightweight_PC,b'\xac#\x16U7\xa1',3,6,-90
+22:02:52,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-91
+22:02:52,LMIOT,b'\xac#\x16U7\xa3',3,6,-91
+22:02:52,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-92
+22:02:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:02:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:02:55,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-93
+22:02:55,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-94
+22:02:55,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-95
+22:02:55,LMIOT,b'\xac#\x16UV\xf3',3,1,-95
+22:02:55,LMIOT,b'\xac#\x16U3\xb3',3,11,-96
+22:02:55,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-96
+22:02:55,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-97
+22:02:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:02:57,lightweight_PC,b'\xac#\x16U7\xa1',3,6,-93
+22:02:57,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-94
+22:02:57,LMIOT,b'\xac#\x16U7\xa3',3,6,-96
+22:02:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:03:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:03:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:03:03,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-92
+22:03:03,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-92
+22:03:03,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-93
+22:03:03,LMIOT,b'\xac#\x16UV\xf3',3,1,-94
+22:03:03,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-94
+22:03:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:03:05,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-91
+22:03:05,LMIOT,b'\xac#\x16U7\xa3',3,6,-91
+22:03:05,lightweight_PC,b'\xac#\x16U7\xa1',3,6,-92
+22:03:05,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-93
+22:03:05,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-95
+22:03:07,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-90
+22:03:07,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-91
+22:03:07,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-92
+22:03:07,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-92
+22:03:07,LMIOT,b'\xac#\x16U3\xb3',3,11,-92
+22:03:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:03:09,GROUPEADEO,b'\xac#\x16U7\xa2',5,6,-91
+22:03:09,LMFRMOBILE,b'\xac#\x16U7\xa4',5,6,-93
+22:03:09,HOTSPOT_LeroyMerlin,b'\xac#\x16U7\xa5',0,6,-94
+22:03:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:03:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:03:13,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-90
+22:03:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:03:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:03:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:03:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:03:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:03:22,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-92
+22:03:22,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-93
+22:03:22,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-93
+22:03:22,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-93
+22:03:22,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-93
+22:03:22,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-94
+22:03:22,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-94
+22:03:22,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-94
+22:03:22,LMIOT,b'\xac#\x16U3\xb3',3,11,-94
+22:03:22,LMIOT,b'\xac#\x16UV\xf3',3,1,-95
+22:03:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:03:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:03:26,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-94
+22:03:26,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-95
+22:03:26,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-95
+22:03:26,LMIOT,b'\xac#\x16U3\xb3',3,11,-96
+22:03:26,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-97
+22:03:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:03:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:03:30,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-92
+22:03:30,LMIOT,b'\xac#\x16UV\xf3',3,1,-95
+22:03:30,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-95
+22:03:30,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-96
+22:03:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:03:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:03:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:03:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-80
+22:03:37,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-90
+22:03:37,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-91
+22:03:37,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-91
+22:03:37,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-93
+22:03:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:03:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:03:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:03:43,lightweight_PC,b'\xac#\x16U3\xb1',3,11,-94
+22:03:43,LMIOT,b'\xac#\x16U3\xb3',3,11,-94
+22:03:43,LMFRMOBILE,b'\xac#\x16U3\xb4',5,11,-94
+22:03:43,HOTSPOT_LeroyMerlin,b'\xac#\x16U3\xb5',0,11,-94
+22:03:43,GROUPEADEO,b'\xac#\x16U3\xb2',5,11,-95
+22:03:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:03:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-79
+22:03:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:03:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:03:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:03:54,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-91
+22:03:54,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-93
+22:03:54,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-93
+22:03:54,LMIOT,b'\xac#\x16UV\xc3',3,6,-93
+22:03:54,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-93
+22:03:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-79
+22:03:56,lightweight_PC,b'\xac#\x16U.\x11',3,6,-90
+22:03:56,LMIOT,b'\xac#\x16U.\x13',3,6,-90
+22:03:56,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-90
+22:03:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:04:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:04:00,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-90
+22:04:00,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-91
+22:04:00,LMIOT,b'\xac#\x16UV\xc3',3,6,-91
+22:04:00,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-91
+22:04:00,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-92
+22:04:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:04:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:04:03,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-90
+22:04:03,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-93
+22:04:03,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-94
+22:04:03,LMIOT,b'\xac#\x16UV\xf3',3,1,-94
+22:04:03,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-94
+22:04:03,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-95
+22:04:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:04:05,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-88
+22:04:05,lightweight_PC,b'\xac#\x16U.\x11',3,6,-91
+22:04:05,LMIOT,b'\xac#\x16U.\x13',3,6,-91
+22:04:05,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-91
+22:04:05,GROUPEADEO,b'\xac#\x16U>2',5,1,-92
+22:04:05,lightweight_PC,b'\xac#\x16U>1',3,1,-94
+22:04:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+22:04:07,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-89
+22:04:07,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-90
+22:04:07,LMIOT,b'\xac#\x16UV\xc3',3,6,-90
+22:04:07,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-90
+22:04:07,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-91
+22:04:07,LMIOT,b'\xac#\x16UV\xf3',3,1,-91
+22:04:07,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-92
+22:04:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:04:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:04:11,lightweight_PC,b'\xac#\x16U.\x11',3,6,-92
+22:04:11,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-92
+22:04:11,LMIOT,b'\xac#\x16U.\x13',3,6,-92
+22:04:11,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-92
+22:04:11,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-93
+22:04:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:04:13,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-93
+22:04:13,LMIOT,b'\xac#\x16UV\xf3',3,1,-93
+22:04:13,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-93
+22:04:13,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-95
+22:04:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:04:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:04:17,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-81
+22:04:17,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-82
+22:04:17,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-82
+22:04:17,LMIOT,b'\xac#\x16UV\xf3',3,1,-83
+22:04:17,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-83
+22:04:17,LMIOT,b'\xac#\x16UV\xc3',3,6,-89
+22:04:17,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-89
+22:04:17,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-90
+22:04:17,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-92
+22:04:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:04:19,GROUPEADEO,b'\xac#\x16U8b',5,6,-92
+22:04:19,LMIOT,b'\xac#\x16U8c',3,6,-92
+22:04:19,lightweight_PC,b'\xac#\x16U8a',3,6,-93
+22:04:19,LMFRMOBILE,b'\xac#\x16U8d',5,6,-94
+22:04:19,HOTSPOT_LeroyMerlin,b'\xac#\x16U8e',0,6,-94
+22:04:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-82
+22:04:21,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-83
+22:04:21,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-84
+22:04:21,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-84
+22:04:21,LMIOT,b'\xac#\x16UV\xc3',3,6,-85
+22:04:21,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-85
+22:04:21,LMIOT,b'\xac#\x16U8c',3,6,-91
+22:04:21,lightweight_PC,b'\xac#\x16U>1',3,1,-93
+22:04:23,LMIOT,b'\xac#\x16U>3',3,1,-87
+22:04:23,GROUPEADEO,b'\xac#\x16U>2',5,1,-88
+22:04:23,LMIOT,b'\xac#\x16UV\xc3',3,6,-88
+22:04:23,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-89
+22:04:23,lightweight_PC,b'\xac#\x16U>1',3,1,-90
+22:04:23,LMFRMOBILE,b'\xac#\x16U>4',5,1,-90
+22:04:23,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-90
+22:04:23,LMIOT,b'\xac#\x16UV\xf3',3,1,-91
+22:04:23,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-92
+22:04:23,BMW 01531 CarPlay,b'l\xc3tM\xf7v',3,11,-96
+22:04:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+22:04:25,LMIOT,b'\xac#\x16UV\xf3',3,1,-94
+22:04:25,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-94
+22:04:27,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-84
+22:04:27,LMIOT,b'\xac#\x16UV\xc3',3,6,-84
+22:04:27,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-84
+22:04:27,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-85
+22:04:27,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-89
+22:04:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:04:29,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-85
+22:04:29,LMIOT,b'\xac#\x16UV\xc3',3,6,-85
+22:04:29,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-86
+22:04:29,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-86
+22:04:29,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-86
+22:04:29,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-88
+22:04:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:04:31,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-81
+22:04:31,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-81
+22:04:31,LMIOT,b'\xac#\x16UV\xc3',3,6,-82
+22:04:31,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-83
+22:04:31,LMFRMOBILE,b'\xac#\x16U>4',5,1,-93
+22:04:31,lightweight_PC,b'\xac#\x16U>1',3,1,-94
+22:04:31,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-94
+22:04:31,LMIOT,b'\xac#\x16U>3',3,1,-96
+22:04:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:04:33,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-81
+22:04:33,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-87
+22:04:33,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-88
+22:04:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:04:35,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-82
+22:04:35,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-84
+22:04:35,LMIOT,b'\xac#\x16U>3',3,1,-85
+22:04:35,LMFRMOBILE,b'\xac#\x16U>4',5,1,-85
+22:04:35,lightweight_PC,b'\xac#\x16U>1',3,1,-86
+22:04:35,GROUPEADEO,b'\xac#\x16U>2',5,1,-88
+22:04:37,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-81
+22:04:37,lightweight_PC,b'\xac#\x16UV\xc1',3,6,-84
+22:04:37,LMIOT,b'\xac#\x16UV\xc3',3,6,-84
+22:04:37,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-85
+22:04:37,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-86
+22:04:37,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-89
+22:04:37,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-89
+22:04:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:04:39,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-83
+22:04:39,LMIOT,b'\xac#\x16UV\xc3',3,6,-84
+22:04:39,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-84
+22:04:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:04:40,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-77
+22:04:40,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-87
+22:04:40,GROUPEADEO,b'\xac#\x16U>2',5,1,-89
+22:04:40,LMIOT,b'\xac#\x16U.\x13',3,6,-90
+22:04:40,lightweight_PC,b'\xac#\x16U>1',3,1,-91
+22:04:40,LMIOT,b'\xac#\x16U>3',3,1,-92
+22:04:40,lightweight_PC,b'\xac#\x16U.\x11',3,6,-92
+22:04:40,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-92
+22:04:40,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-95
+22:04:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:04:42,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-81
+22:04:42,lightweight_PC,b'\xac#\x16U.\x11',3,6,-87
+22:04:42,LMIOT,b'\xac#\x16U.\x13',3,6,-88
+22:04:42,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-89
+22:04:42,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-90
+22:04:42,GROUPEADEO,b'\xac#\x16U>2',5,1,-91
+22:04:42,LMIOT,b'\xac#\x16U>3',3,1,-91
+22:04:42,lightweight_PC,b'\xac#\x16U>1',3,1,-92
+22:04:42,LMFRMOBILE,b'\xac#\x16U>4',5,1,-93
+22:04:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:04:45,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-81
+22:04:45,GROUPEADEO,b'\xac#\x16U>2',5,1,-85
+22:04:45,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-86
+22:04:45,LMIOT,b'\xac#\x16U.\x13',3,6,-86
+22:04:45,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-86
+22:04:45,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-86
+22:04:45,lightweight_PC,b'\xac#\x16U>1',3,1,-89
+22:04:45,LMIOT,b'\xac#\x16U>3',3,1,-89
+22:04:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:04:47,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-85
+22:04:47,lightweight_PC,b'\xac#\x16U.\x11',3,6,-87
+22:04:47,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-88
+22:04:47,LMIOT,b'\xac#\x16U.\x13',3,6,-88
+22:04:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:04:48,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-83
+22:04:48,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-91
+22:04:48,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-92
+22:04:48,GROUPEADEO,b'\xac#\x16UV\xf2',5,1,-94
+22:04:48,lightweight_PC,b'\xac#\x16UV\xf1',3,1,-95
+22:04:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:04:50,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-82
+22:04:50,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-88
+22:04:50,LMIOT,b'\xac#\x16U.\x13',3,6,-89
+22:04:50,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-89
+22:04:52,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-93
+22:04:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:04:56,GROUPEADEO,b'\xac#\x16U8b',5,6,-91
+22:04:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:04:58,lightweight_PC,b'\xac#\x16U>1',3,1,-93
+22:04:58,GROUPEADEO,b'\xac#\x16U>2',5,1,-93
+22:04:58,LMIOT,b'\xac#\x16U>3',3,1,-95
+22:05:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:05:00,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-78
+22:05:00,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-84
+22:05:00,LMFRMOBILE,b'\xac#\x16U>4',5,1,-85
+22:05:00,LMIOT,b'\xac#\x16U.\x13',3,6,-85
+22:05:00,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-86
+22:05:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:05:02,LMIOT,b'\xac#\x16U.\x13',3,6,-87
+22:05:02,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-87
+22:05:02,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-88
+22:05:02,LMIOT,b'\xac#\x16U>3',3,1,-89
+22:05:02,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-89
+22:05:02,lightweight_PC,b'\xac#\x16U.\x11',3,6,-90
+22:05:02,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-90
+22:05:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:05:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:05:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:05:07,LMIOT,b'\xac#\x16U.\x13',3,6,-88
+22:05:07,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-88
+22:05:07,lightweight_PC,b'\xac#\x16U.\x11',3,6,-89
+22:05:07,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-90
+22:05:07,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-90
+22:05:07,LMFRMOBILE,b'\xac#\x16UV\xf4',5,1,-94
+22:05:07,LMIOT,b'\xac#\x16UV\xf3',3,1,-95
+22:05:07,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xf5',0,1,-96
+22:05:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:05:09,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-91
+22:05:09,Galaxy A21s409C,b'j&\xd3|\xf2!',3,11,-93
+22:05:09,GROUPEADEO,b'\xac#\x16U?\xb2',5,11,-93
+22:05:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:05:11,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-88
+22:05:11,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-88
+22:05:11,lightweight_PC,b'\xac#\x16U.\x11',3,6,-89
+22:05:11,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-89
+22:05:11,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-91
+22:05:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:05:13,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-86
+22:05:13,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-86
+22:05:13,lightweight_PC,b'\xac#\x16U.\x11',3,6,-87
+22:05:13,LMIOT,b'\xac#\x16U.\x13',3,6,-87
+22:05:13,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-88
+22:05:13,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-88
+22:05:13,LMIOT,b'\xac#\x16U>3',3,1,-90
+22:05:13,lightweight_PC,b'\xac#\x16U>1',3,1,-93
+22:05:13,GROUPEADEO,b'\xac#\x16U>2',5,1,-93
+22:05:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:05:15,lightweight_PC,b'\xac#\x16U.\x11',3,6,-85
+22:05:15,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-85
+22:05:15,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-86
+22:05:15,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-87
+22:05:19,lightweight_PC,b'\xac#\x16U>1',3,1,-88
+22:05:19,LMIOT,b'\xac#\x16U>3',3,1,-88
+22:05:19,LMFRMOBILE,b'\xac#\x16U>4',5,1,-88
+22:05:19,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-88
+22:05:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:05:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:05:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:05:25,HOTSPOT_LeroyMerlin,b'\xac#\x16UV\xc5',0,6,-91
+22:05:25,LMIOT,b'\xac#\x16UV\xc3',3,6,-92
+22:05:25,GROUPEADEO,b'\xac#\x16UV\xc2',5,6,-93
+22:05:25,LMFRMOBILE,b'\xac#\x16UV\xc4',5,6,-94
+22:05:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-55
+22:05:27,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-87
+22:05:27,lightweight_PC,b'\xac#\x16U.\x11',3,6,-88
+22:05:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:05:28,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-81
+22:05:28,LMIOT,b'\xac#\x16U.\x13',3,6,-91
+22:05:28,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-92
+22:05:28,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-92
+22:05:28,lightweight_PC,b'\xac#\x16U>1',3,1,-94
+22:05:28,GROUPEADEO,b'\xac#\x16U>2',5,1,-94
+22:05:28,LMFRMOBILE,b'\xac#\x16U>4',5,1,-94
+22:05:30,GROUPEADEO,b'\xac#\x16U>2',5,1,-84
+22:05:30,LMIOT,b'\xac#\x16U.\x13',3,6,-85
+22:05:30,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-85
+22:05:30,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-86
+22:05:30,lightweight_PC,b'\xac#\x16U>1',3,1,-87
+22:05:30,LMIOT,b'\xac#\x16U>3',3,1,-87
+22:05:30,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-87
+22:05:32,Galaxy A12E089,b'2\x02\x9f\xe5+~',3,6,-86
+22:05:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:05:34,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-88
+22:05:34,lightweight_PC,b'\xac#\x16U.\x11',3,6,-90
+22:05:34,LMIOT,b'\xac#\x16U.\x13',3,6,-90
+22:05:34,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-90
+22:05:34,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-90
+22:05:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:05:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:05:38,HOTSPOT_LeroyMerlin,b'\xac#\x16U>5',0,1,-95
+22:05:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:05:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:05:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:05:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:05:46,GROUPEADEO,b'\xac#\x16U.\x12',5,6,-87
+22:05:46,lightweight_PC,b'\xac#\x16U.\x11',3,6,-88
+22:05:46,LMIOT,b'\xac#\x16U.\x13',3,6,-88
+22:05:46,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-88
+22:05:46,LMFRMOBILE,b'\xac#\x16U.\x14',5,6,-90
+22:05:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:05:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:05:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:05:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:05:53,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-91
+22:05:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:05:55,Galaxy A02s8b71,b'\xfa\xd3\xb6\xdc\xc6\x15',3,6,-76
+22:05:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:05:57,Galaxy A02s8b71,b'\xfa\xd3\xb6\xdc\xc6\x15',3,6,-83
+22:05:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:06:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:06:04,HOTSPOT_LeroyMerlin,b'\xac#\x16U.\x15',0,6,-90
+22:06:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:06:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-80
+22:06:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:06:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:06:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:06:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:06:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:06:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-56
+22:06:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:06:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+22:06:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:06:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:06:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:06:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:06:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:06:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:06:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:06:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:06:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:06:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:06:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:06:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:06:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:06:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:06:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:07:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-53
+22:07:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:07:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:07:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:07:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:07:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:07:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:07:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:07:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:07:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:07:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-76
+22:07:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:07:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:07:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:07:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-81
+22:07:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:07:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:07:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:07:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:07:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-79
+22:07:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:07:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:07:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:07:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:07:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:07:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:07:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+22:07:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:08:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:08:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:08:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:08:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:08:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:08:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:08:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:08:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:08:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:08:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:08:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:08:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-55
+22:08:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:08:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:08:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:08:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:08:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:08:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:08:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:08:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:08:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:08:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:08:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:08:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:08:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:08:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:08:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:08:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:08:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+22:08:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:08:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:09:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:09:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:09:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:09:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:09:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:09:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:09:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:09:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-56
+22:09:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:09:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+22:09:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:09:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:09:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:09:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:09:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:09:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:09:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-77
+22:09:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:09:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:09:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:09:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:09:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:09:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:09:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:09:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:09:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-46
+22:09:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-50
+22:09:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-50
+22:09:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:09:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-48
+22:09:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-54
+22:09:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-55
+22:09:58,System_NameTg751,b'\xae\xc3X\x1b*\xed',3,1,-94
+22:10:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:10:00,toulouse,b'4\x08\x04\x97\x86Q',3,13,-91
+22:10:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-79
+22:10:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:10:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:10:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:10:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:10:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:10:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:10:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-80
+22:10:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:10:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:10:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:10:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-55
+22:10:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:10:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:10:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:10:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:10:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:10:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:10:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:10:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:10:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:10:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:10:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:10:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:10:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:10:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:10:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:10:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:10:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:11:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:11:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:11:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:11:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:11:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:11:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:11:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:11:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-43
+22:11:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-52
+22:11:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:11:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-55
+22:11:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:11:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-53
+22:11:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-50
+22:11:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:11:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:11:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:11:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:11:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:11:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:11:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:11:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:11:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:11:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:11:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:11:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:11:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:11:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:12:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:12:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:12:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:12:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:12:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:12:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:12:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:12:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:12:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:12:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:12:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:12:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:12:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-70
+22:12:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:12:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+22:12:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-64
+22:12:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:12:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-78
+22:12:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:12:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:12:37,iPhone,b'\x8eL :\xd7\xbc',3,6,-55
+22:12:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:12:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-80
+22:12:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:12:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:12:46,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:12:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:12:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:12:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:12:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:12:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:12:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:12:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:13:03,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:13:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:13:06,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:13:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:13:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:13:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:13:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-56
+22:13:16,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:13:18,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:13:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:13:21,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:13:23,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:13:25,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:13:27,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:13:29,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:13:31,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:13:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:13:34,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:13:36,iPhone,b'\x8eL :\xd7\xbc',3,6,-51
+22:13:38,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:13:40,iPhone,b'\x8eL :\xd7\xbc',3,6,-85
+22:13:42,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:13:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:13:45,iPhone,b'\x8eL :\xd7\xbc',3,6,-56
+22:13:47,iPhone,b'\x8eL :\xd7\xbc',3,6,-73
+22:13:49,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:13:51,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:13:53,iPhone,b'\x8eL :\xd7\xbc',3,6,-58
+22:13:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:13:56,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:13:58,iPhone,b'\x8eL :\xd7\xbc',3,6,-59
+22:14:00,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:14:02,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:14:04,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:14:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-47
+22:14:09,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:14:09,eduroam,b'X\xf3\x9c\xb9N\xd0',5,1,-85
+22:14:09,ULILLE-ACCUEIL,b'X\xf3\x9c\xb9N\xd1',0,1,-87
+22:14:09,eduroam,b'X\xf3\x9c\xb9T@',5,1,-91
+22:14:09,ULILLE-ACCUEIL,b'X\xf3\x9c\xb9TA',0,1,-91
+22:14:11,iPhone,b'\x8eL :\xd7\xbc',3,6,-66
+22:14:13,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:14:15,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:14:17,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:14:19,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:14:20,iPhone,b'\x8eL :\xd7\xbc',3,6,-61
+22:14:22,iPhone,b'\x8eL :\xd7\xbc',3,6,-65
+22:14:24,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:14:26,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:14:28,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:14:30,iPhone,b'\x8eL :\xd7\xbc',3,6,-75
+22:14:32,iPhone,b'\x8eL :\xd7\xbc',3,6,-54
+22:14:33,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:14:35,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:14:39,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:14:41,iPhone,b'\x8eL :\xd7\xbc',3,6,-69
+22:14:43,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:14:44,iPhone,b'\x8eL :\xd7\xbc',3,6,-71
+22:14:48,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:14:50,iPhone,b'\x8eL :\xd7\xbc',3,6,-74
+22:14:52,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:14:54,iPhone,b'\x8eL :\xd7\xbc',3,6,-62
+22:14:55,iPhone,b'\x8eL :\xd7\xbc',3,6,-57
+22:14:57,iPhone,b'\x8eL :\xd7\xbc',3,6,-41
+22:14:59,iPhone,b'\x8eL :\xd7\xbc',3,6,-52
+22:15:01,iPhone,b'\x8eL :\xd7\xbc',3,6,-41
+22:15:05,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:15:07,iPhone,b'\x8eL :\xd7\xbc',3,6,-63
+22:15:08,iPhone,b'\x8eL :\xd7\xbc',3,6,-68
+22:15:10,iPhone,b'\x8eL :\xd7\xbc',3,6,-60
+22:15:12,iPhone,b'\x8eL :\xd7\xbc',3,6,-72
+22:15:14,iPhone,b'\x8eL :\xd7\xbc',3,6,-67
+22:15:18,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-58
+22:15:18,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-89
+22:15:18,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-89
+22:15:19,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-54
+22:15:21,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-56
+22:15:23,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-56
+22:15:23,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-68
+22:15:23,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-69
+22:15:23,DIRECT-EC-HP PageWide MFP P57750,b'\xfe?\xdb\xd0\xb6\xec',3,6,-80
+22:15:23,ULILLE-ACCUEIL,b'X\xf3\x9c\xccAq',0,6,-81
+22:15:25,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-50
+22:15:25,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-70
+22:15:25,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-70
+22:15:25,DIRECT-EC-HP PageWide MFP P57750,b'\xfe?\xdb\xd0\xb6\xec',3,6,-72
+22:15:25,eduroam,b'X\xf3\x9c\xccAp',5,6,-77
+22:15:25,ULILLE-ACCUEIL,b'X\xf3\x9c\xccAq',0,6,-77
+22:15:27,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-44
+22:15:27,eduroam,b'X\xf3\x9c\xccAp',5,6,-67
+22:15:27,ULILLE-ACCUEIL,b'X\xf3\x9c\xccAq',0,6,-68
+22:15:27,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-78
+22:15:29,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-37
+22:15:29,DIRECT-EC-HP PageWide MFP P57750,b'\xfe?\xdb\xd0\xb6\xec',3,6,-67
+22:15:29,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-83
+22:15:29,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-84
+22:15:29,ULILLE-ACCUEIL,b'X\xf3\x9c\xccAq',0,6,-84
+22:15:29,eduroam,b'|\x0e\xce\x0e\x9e\x80',5,1,-86
+22:15:29,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x9e\x81',0,1,-87
+22:15:31,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-56
+22:15:31,eduroam,b'X\xf3\x9c\xccAp',5,6,-86
+22:15:31,ULILLE-ACCUEIL,b'X\xf3\x9c\xccAq',0,6,-87
+22:15:31,eduroam,b'|\x0e\xce\x0e\x9e\x80',5,1,-91
+22:15:31,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x9e\x81',0,1,-93
+22:15:33,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-58
+22:15:33,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-82
+22:15:33,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-83
+22:15:33,DIRECT-EC-HP PageWide MFP P57750,b'\xfe?\xdb\xd0\xb6\xec',3,6,-88
+22:15:33,eduroam,b'|\x0e\xce\x0e\x9e\x80',5,1,-89
+22:15:33,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x9e\x81',0,1,-89
+22:15:35,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-63
+22:15:35,DIRECT-EC-HP PageWide MFP P57750,b'\xfe?\xdb\xd0\xb6\xec',3,6,-76
+22:15:35,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-83
+22:15:35,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-83
+22:15:35,eduroam,b'|\x0e\xce\x0e\x9e\x80',5,1,-88
+22:15:35,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x9e\x81',0,1,-88
+22:15:37,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-64
+22:15:37,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x9e\x81',0,1,-92
+22:15:39,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-72
+22:15:39,VPLFCF152B90693,b'\xbc0}-\x08k',1,1,-92
+22:15:39,ULILLE-ACCUEIL,b'X\xf3\x9c\xccE\xc1',0,6,-92
+22:15:41,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-64
+22:15:41,eduroam,b'X\xf3\x9c\xccE\xc0',5,6,-86
+22:15:41,ULILLE-ACCUEIL,b'X\xf3\x9c\xccE\xc1',0,6,-87
+22:15:41,eduroam,b'|\x0e\xce\x0e\x95\xd0',5,1,-89
+22:15:41,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-90
+22:15:42,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-64
+22:15:42,ULILLE-ACCUEIL,b'X\xf3\x9c\xccE\xc1',0,6,-83
+22:15:42,eduroam,b'X\xf3\x9c\xccE\xc0',5,6,-84
+22:15:42,ULILLE-ACCUEIL,b'|\x0e\xce\x1c\x97\x01',0,1,-86
+22:15:42,ULILLE-ACCUEIL,b'|\x0e\xce\x0e\x95\xd1',0,1,-89
+22:15:44,iPhone,b'B\xd9Ef\xdc\x8b',3,6,-63
+22:15:44,ULILLE-ACCUEIL,b'X\xf3\x9c\xccE\xc1',0,6,-79
+22:15:44,eduroam,b'X\xf3\x9c\xccE\xc0',5,6,-79
+22:15:44,ULILLE-ACCUEIL,b'|\x0e\xce\x1c\x97\x01',0,1,-84
+22:15:44,eduroam,b'|\x0e\xce\x1c\x97\x00',5,1,-85

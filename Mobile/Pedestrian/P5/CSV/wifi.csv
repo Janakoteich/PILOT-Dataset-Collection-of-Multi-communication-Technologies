@@ -1,0 +1,943 @@
+Time,ssid,bssid,sec,channel,rssi
+13:02:44,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:02:44,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-71
+13:02:44,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-75
+13:02:44,Modem-SBD,b'\x80\xd0\x9b\xad\xdcq',0,8,-88
+13:02:44,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-95
+13:02:46,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:02:46,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-73
+13:02:46,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-76
+13:02:48,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:02:48,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-72
+13:02:48,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-85
+13:02:48,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-93
+13:02:50,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:02:50,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-70
+13:02:50,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-75
+13:02:50,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-94
+13:02:52,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:02:52,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-67
+13:02:52,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-69
+13:02:54,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:02:54,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-62
+13:02:54,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-67
+13:02:54,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-84
+13:02:55,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:02:55,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-67
+13:02:55,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-75
+13:02:57,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:02:57,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-72
+13:02:57,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-76
+13:02:57,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-89
+13:02:59,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:02:59,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-67
+13:02:59,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-68
+13:03:01,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:03:01,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-70
+13:03:01,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-74
+13:03:01,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-92
+13:03:03,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:03:03,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-71
+13:03:03,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-72
+13:03:03,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-82
+13:03:05,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:03:05,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-65
+13:03:05,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-76
+13:03:07,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:03:07,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-64
+13:03:07,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-70
+13:03:07,Modem-SBD,b'\x80\xd0\x9b\xad\xdcq',0,8,-84
+13:03:09,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:03:09,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-64
+13:03:09,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-76
+13:03:11,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:03:11,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-72
+13:03:11,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-73
+13:03:13,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:03:13,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-67
+13:03:13,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-71
+13:03:13,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,1,-93
+13:03:14,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:03:14,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-67
+13:03:14,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-75
+13:03:16,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:03:16,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-67
+13:03:16,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-71
+13:03:18,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:03:18,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-65
+13:03:18,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-74
+13:03:18,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-91
+13:03:20,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:03:20,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-65
+13:03:20,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-74
+13:03:20,Clos des Capucins,"b',\xc5\xd3328'",3,1,-85
+13:03:22,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:03:22,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-70
+13:03:22,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-71
+13:03:22,Clos des Capucins,"b',\xc5\xd3328'",3,1,-85
+13:03:22,Clos des Capucins,"b',\xc5\xd33\x05h'",3,1,-93
+13:03:22,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-95
+13:03:24,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-36
+13:03:24,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-66
+13:03:24,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-70
+13:03:26,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:03:26,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-66
+13:03:26,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-74
+13:03:26,Modem-SBD,b'\x80\xd0\x9b\xad\xdcq',0,8,-83
+13:03:26,Clos des Capucins,"b',\xc5\xd3328'",3,1,-86
+13:03:28,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:03:28,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-67
+13:03:28,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-79
+13:03:28,Modem-SBD,b'\x80\xd0\x9b\xad\xdcq',0,8,-85
+13:03:28,Clos des Capucins,"b',\xc5\xd3328'",3,1,-87
+13:03:30,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:03:30,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-69
+13:03:30,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-73
+13:03:30,Clos des Capucins,"b',\xc5\xd3328'",3,1,-86
+13:03:32,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:03:32,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-67
+13:03:32,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-84
+13:03:32,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-93
+13:03:34,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:03:34,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-59
+13:03:34,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-66
+13:03:34,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-91
+13:03:36,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:03:36,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-67
+13:03:36,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-68
+13:03:36,Clos des Capucins,"b',\xc5\xd3328'",3,1,-87
+13:03:37,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:03:37,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-68
+13:03:37,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-69
+13:03:39,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:03:39,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-75
+13:03:39,Modem-SBD,b'\x80\xd0\x9b\xad\xdcq',0,8,-80
+13:03:39,Clos des Capucins,"b',\xc5\xd3328'",3,1,-86
+13:03:39,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-87
+13:03:41,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:03:41,Clos des Capucins,"b""4\x8f'\x11Yh""",3,6,-69
+13:03:41,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-84
+13:03:41,Clos des Capucins,"b',\xc5\xd3328'",3,1,-86
+13:03:43,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:03:43,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-81
+13:03:43,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-96
+13:03:45,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:03:45,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-66
+13:03:45,Modem-SBD,b'\x80\xd0\x9b\xad\xdcq',0,8,-84
+13:03:47,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-33
+13:03:47,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-66
+13:03:49,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:03:49,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-78
+13:03:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:03:51,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-77
+13:03:51,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-86
+13:03:53,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-71
+13:03:53,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-87
+13:03:53,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-88
+13:03:54,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:03:54,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-70
+13:03:56,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:03:56,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-71
+13:03:56,Modem-SBD,b'\x80\xd0\x9b\xad\xdcq',0,8,-87
+13:03:58,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:03:58,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-65
+13:03:58,Clos des Capucins,"b',\xc5\xd33\x05h'",3,1,-88
+13:04:00,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-36
+13:04:00,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-74
+13:04:00,Clos des Capucins,"b',\xc5\xd3328'",3,1,-89
+13:04:02,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:04:02,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-87
+13:04:04,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:04:06,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:04:06,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-57
+13:04:06,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-83
+13:04:08,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:04:08,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-58
+13:04:08,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-81
+13:04:08,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-81
+13:04:08,Clos des Capucins,"b',\xc5\xd33\x05h'",3,1,-86
+13:04:10,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:04:10,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-63
+13:04:10,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-81
+13:04:11,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:04:11,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-58
+13:04:11,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,11,-86
+13:04:13,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:04:13,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-53
+13:04:15,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-32
+13:04:15,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-64
+13:04:17,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:04:17,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-69
+13:04:17,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-90
+13:04:19,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:04:19,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-66
+13:04:19,Clos des Capucins,"b',\xc5\xd3328'",3,1,-92
+13:04:21,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:04:21,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-73
+13:04:23,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:04:23,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-66
+13:04:25,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:04:25,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-80
+13:04:26,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:04:26,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-68
+13:04:26,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-80
+13:04:26,Clos des Capucins,"b',\xc5\xd3328'",3,1,-91
+13:04:28,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:04:28,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-77
+13:04:30,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:04:30,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-68
+13:04:30,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-90
+13:04:32,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:04:32,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-87
+13:04:34,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-72
+13:04:34,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-87
+13:04:36,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:04:36,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-76
+13:04:36,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-86
+13:04:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:04:38,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-73
+13:04:40,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:04:40,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-84
+13:04:40,Bbox-15460B3C,b'\xf8\xab\x05\x04\xa2\xc0',3,6,-96
+13:04:42,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:04:42,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-83
+13:04:42,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-89
+13:04:43,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:04:43,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-81
+13:04:45,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:04:45,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-80
+13:04:45,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-83
+13:04:47,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:04:47,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-78
+13:04:47,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-79
+13:04:49,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:04:49,Livebox-4BD8,b'\x08>]\xd0K\xd8',4,6,-86
+13:04:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:04:51,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-64
+13:04:51,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-82
+13:04:51,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-96
+13:04:53,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:04:53,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-68
+13:04:53,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-75
+13:04:53,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-85
+13:04:53,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-86
+13:04:53,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-86
+13:04:55,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-59
+13:04:55,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-65
+13:04:55,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-81
+13:04:55,Livebox-4BD8,b'\x08>]\xd0K\xd8',4,6,-92
+13:04:57,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:04:57,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-71
+13:04:57,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-76
+13:04:59,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:04:59,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-76
+13:05:00,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-57
+13:05:00,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-66
+13:05:00,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-78
+13:05:00,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-93
+13:05:02,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-51
+13:05:02,GUI AP,b'N\xfb\x1b\x9bb3',3,10,-74
+13:05:02,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-76
+13:05:02,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-90
+13:05:04,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:05:04,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-82
+13:05:04,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-90
+13:05:06,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:05:08,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-55
+13:05:08,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-70
+13:05:10,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:05:12,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:05:12,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-74
+13:05:14,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:05:14,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-86
+13:05:14,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-86
+13:05:14,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-87
+13:05:14,NET-FREEBOX,b'h\xa3x\x03\x19\x94',3,1,-89
+13:05:16,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:05:16,Bbox-15460B3C,b'\xf8\xab\x05\x04\xa2\xc0',3,6,-94
+13:05:17,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:05:17,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-80
+13:05:19,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-31
+13:05:21,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:05:23,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-62
+13:05:23,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-83
+13:05:25,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:05:25,FreeWifi_secure,b'h\xa3x\x03\x19\x96',5,1,-89
+13:05:27,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:05:27,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-84
+13:05:27,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-93
+13:05:27,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-94
+13:05:27,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-94
+13:05:27,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-96
+13:05:29,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-51
+13:05:31,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:05:31,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-87
+13:05:32,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:05:34,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:05:34,NET-FREEBOX,b'h\xa3x\x03\x19\x94',3,1,-82
+13:05:36,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:05:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:05:40,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:05:42,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-52
+13:05:42,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-95
+13:05:42,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-95
+13:05:42,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-95
+13:05:44,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:05:44,SFR_A7F8,b'\x00\x16\xfb\xce\xe5\\',4,11,-80
+13:05:45,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:05:45,Agt-tech,b'hrQ\x80xP',3,2,-93
+13:05:47,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:05:47,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-87
+13:05:47,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-88
+13:05:47,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-88
+13:05:47,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-90
+13:05:49,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:05:49,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-85
+13:05:49,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-85
+13:05:49,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-86
+13:05:49,SFR_A7F8,b'\x00\x16\xfb\xce\xe5\\',4,11,-94
+13:05:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:05:51,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-79
+13:05:51,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-79
+13:05:51,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-79
+13:05:51,HyperLink-1CC3-096839-0003,b'hrQz\x92\x18',3,5,-87
+13:05:53,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:05:53,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-80
+13:05:53,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-80
+13:05:53,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-80
+13:05:55,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:05:55,Freebox-6627ED,b'\xe4\x9e\x12\xa7\x9b8',3,1,-84
+13:05:55,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-90
+13:05:55,SFR_A7F8,b'\x00\x16\xfb\xce\xe5\\',4,11,-92
+13:05:57,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-57
+13:05:57,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-81
+13:05:57,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-82
+13:05:57,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-84
+13:05:57,HyperLink-1CC3-096839-0003,b'hrQz\x92\x18',3,5,-90
+13:05:59,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:05:59,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-83
+13:05:59,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-84
+13:05:59,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-84
+13:05:59,HyperLink-1CC3-096839-0003,b'hrQz\x92\x18',3,5,-93
+13:06:01,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:06:01,HyperLink-1CC3-096839-0003,b'hrQz\x92\x18',3,5,-91
+13:06:03,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:06:03,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-85
+13:06:04,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:06:04,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-90
+13:06:04,FreeWifi_secure,b'\xe4\x9e\x12\xa7\x9b:',5,1,-92
+13:06:06,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:06:06,Freebox-6627ED,b'\xe4\x9e\x12\xa7\x9b8',3,1,-84
+13:06:08,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-56
+13:06:08,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-84
+13:06:08,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-85
+13:06:08,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-85
+13:06:10,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:06:12,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:06:14,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-59
+13:06:16,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:06:16,SFR WiFi FON,b'z\xce}\x93am',0,11,-95
+13:06:16,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-96
+13:06:16,SFR_6168,b'D\xce}\x93al',2,11,-96
+13:06:18,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:06:18,SFR WiFi FON,b'z\xce}\x93am',0,11,-92
+13:06:18,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-92
+13:06:18,SFR_6168,b'D\xce}\x93al',2,11,-93
+13:06:20,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:06:20,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-92
+13:06:20,Bbox-7C458B74,b'\x84\xa1\xd1GSp',4,6,-93
+13:06:21,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-56
+13:06:21,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-86
+13:06:23,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:06:23,Bbox-7C458B74,b'\x84\xa1\xd1GSp',4,6,-86
+13:06:23,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-92
+13:06:25,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:06:25,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-88
+13:06:25,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-89
+13:06:27,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:06:27,Bbox-7C458B74,b'\x84\xa1\xd1GSp',4,6,-80
+13:06:27,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-92
+13:06:29,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:06:29,Bbox-7C458B74,b'\x84\xa1\xd1GSp',4,6,-75
+13:06:29,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-88
+13:06:31,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:06:31,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-83
+13:06:31,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-94
+13:06:31,Livebox-5370_EXT,b'\xdc\xef\t\xd5\xd7\x84',3,1,-95
+13:06:33,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:06:33,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-82
+13:06:35,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:06:35,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-81
+13:06:35,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-84
+13:06:37,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:06:37,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-76
+13:06:37,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-81
+13:06:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-52
+13:06:38,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-87
+13:06:38,SFR WiFi FON,b'z\xce}\x93am',0,11,-87
+13:06:38,SFR_6168,b'D\xce}\x93al',2,11,-88
+13:06:38,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-88
+13:06:38,Livebox-5370_EXT,b'\xdc\xef\t\xd5\xd7\x84',3,1,-91
+13:06:40,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:06:40,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-84
+13:06:40,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-92
+13:06:40,Bbox-CD6AA0C0,b'H\x83\xc7\x11V\xf0',4,11,-93
+13:06:42,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:06:42,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-87
+13:06:42,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-92
+13:06:42,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-95
+13:06:44,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:06:44,SFR WiFi FON,b'z\xce}\x93am',0,11,-83
+13:06:44,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-83
+13:06:44,SFR_6168,b'D\xce}\x93al',2,11,-84
+13:06:44,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-91
+13:06:46,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-51
+13:06:46,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-75
+13:06:46,SFR_6168,b'D\xce}\x93al',2,11,-86
+13:06:46,SFR WiFi FON,b'z\xce}\x93am',0,11,-86
+13:06:46,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-86
+13:06:46,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-87
+13:06:48,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-51
+13:06:48,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-78
+13:06:48,Freebox-6068B4,b'\xdc\x00\xb0\xb2_0',3,6,-80
+13:06:48,SFR WiFi FON,b'z\xce}\x93am',0,11,-83
+13:06:48,SFR_6168,b'D\xce}\x93al',2,11,-83
+13:06:48,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-83
+13:06:48,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-87
+13:06:50,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:06:50,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-72
+13:06:50,Freebox-6068B4,b'\xdc\x00\xb0\xb2_0',3,6,-77
+13:06:50,WIFI YENNE,b'hrQ s4',0,1,-93
+13:06:52,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:06:52,Freebox-6068B4,b'\xdc\x00\xb0\xb2_0',3,6,-73
+13:06:52,"Salle TV.v,",b'\xfa\x8f\xca\x86m?',0,6,-82
+13:06:52,Yvan_2GEXT,b'8\x94\xed~\xe8P',4,11,-86
+13:06:52,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-87
+13:06:52,Livebox-E7C0,b'{\x9e\xfc\x95\xe7\xc0',3,11,-92
+13:06:52,Freebox-3BAB20,b'\xdc\x00\xb0\x82\xc6\x18',3,6,-94
+13:06:54,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:06:54,Yvan_2GEXT,b'8\x94\xed~\xe8P',4,11,-80
+13:06:54,"Salle TV.v,",b'\xfa\x8f\xca\x86m?',0,6,-81
+13:06:54,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-87
+13:06:54,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-88
+13:06:54,Freebox-6068B4,b'\xdc\x00\xb0\xb2_0',3,6,-88
+13:06:56,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:06:56,Freebox-6068B4,b'\xdc\x00\xb0\xb2_0',3,6,-87
+13:06:58,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:06:58,"Salle TV.v,",b'\xfa\x8f\xca\x86m?',0,6,-81
+13:06:58,Bbox-8C37E1F4,b'\x007\xb7Um\x10',4,6,-88
+13:06:58,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-89
+13:07:00,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:07:00,"Salle TV.v,",b'\xfa\x8f\xca\x86m?',0,6,-84
+13:07:00,Bbox-8C37E1F4,b'\x007\xb7Um\x10',4,6,-88
+13:07:00,WIFI YENNE,b'hrQ s4',0,1,-91
+13:07:02,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:07:02,Livebox-6B8B,b'\xa4>QRk\x8b',4,6,-83
+13:07:02,Bbox-8C37E1F4,b'\x007\xb7Um\x10',4,6,-90
+13:07:03,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:07:03,Livebox-6B8B,b'\xa4>QRk\x8b',4,6,-85
+13:07:03,DIRECT-9A-HP OfficeJet 3830,b'\x9c{\xef\xe5\xe6\x9b',3,11,-91
+13:07:05,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:07:05,Livebox-6B8B,b'\xa4>QRk\x8b',4,6,-81
+13:07:05,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-81
+13:07:05,DIRECT-9A-HP OfficeJet 3830,b'\x9c{\xef\xe5\xe6\x9b',3,11,-83
+13:07:05,WIFI YENNE,b'hrQ s4',0,1,-85
+13:07:05,Bbox-8C37E1F4,b'\x007\xb7Um\x10',4,6,-96
+13:07:05,SFR WiFi FON,b'z\xce}\x93am',0,11,-96
+13:07:07,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:07:07,DIRECT-9A-HP OfficeJet 3830,b'\x9c{\xef\xe5\xe6\x9b',3,11,-84
+13:07:07,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-85
+13:07:07,Bbox-17A28AC6,b'\xe8\xbe\x81\x94\xab\x10',4,6,-88
+13:07:07,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-95
+13:07:09,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:07:09,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-76
+13:07:09,DIRECT-9A-HP OfficeJet 3830,b'\x9c{\xef\xe5\xe6\x9b',3,11,-81
+13:07:09,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-82
+13:07:09,Bbox-17A28AC6,b'\xe8\xbe\x81\x94\xab\x10',4,6,-82
+13:07:09,WIFI YENNE,b'hrQ s4',0,1,-86
+13:07:11,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-72
+13:07:11,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-79
+13:07:11,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-80
+13:07:11,Bbox-17A28AC6,b'\xe8\xbe\x81\x94\xab\x10',4,6,-83
+13:07:11,WIFI YENNE,b'hrQ s4',0,1,-86
+13:07:11,DIRECT-9A-HP OfficeJet 3830,b'\x9c{\xef\xe5\xe6\x9b',3,11,-87
+13:07:13,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:07:13,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-69
+13:07:13,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-74
+13:07:13,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-82
+13:07:13,SFR WiFi FON,b'b\xce}\xf9\n\xaf',0,6,-91
+13:07:13,SFR WiFi Mobile,b'b\xce}\xf9\n\xad',5,6,-91
+13:07:15,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-73
+13:07:15,WIFI YENNE,b'hrQ s4',0,1,-81
+13:07:15,SFR WiFi Mobile,b'b\xce}\xf9\n\xad',5,6,-90
+13:07:15,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-93
+13:07:15,freebox_TL,"b""4'\x92\xe1\xdc\xb8""",3,11,-95
+13:07:17,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:07:17,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-79
+13:07:17,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-83
+13:07:17,SFR WiFi FON,b'b\xce}\xf9\n\xaf',0,6,-95
+13:07:19,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-51
+13:07:19,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-86
+13:07:19,Livebox-E3ED,b'L\x1b\x86\x15\xea{',4,1,-88
+13:07:19,SFR WiFi Mobile,b'b\xce}\xf9\n\xad',5,6,-88
+13:07:19,SFR_0AA8,b'D\xce}\xf9\n\xae',4,6,-88
+13:07:19,SFR WiFi FON,b'b\xce}\xf9\n\xaf',0,6,-89
+13:07:21,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-55
+13:07:21,WIFI YENNE,b'hrQ s4',0,1,-80
+13:07:21,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-87
+13:07:21,Livebox-ccc0,b'\\3\x8e\xbe\xa17',4,4,-90
+13:07:23,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:07:23,Livebox-ccc0,b'\\3\x8e\xbe\xa17',4,4,-85
+13:07:23,YENNE GRATUIT,b'hrQ s\xfd',0,1,-88
+13:07:23,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-91
+13:07:23,WIFI YENNE,b'hrQ s4',0,1,-93
+13:07:23,OUI_FEE_256_CHACAL_73,"b',\xfd\xa1\xc44\x10'",3,9,-97
+13:07:25,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:07:25,Livebox-ccc0,b'\\3\x8e\xbe\xa17',4,4,-88
+13:07:25,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-93
+13:07:27,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:07:27,Freebox-3BAB20,b'\xdc\x00\xb0\x82\xc6\x18',3,6,-82
+13:07:27,Livebox-ccc0,b'\\3\x8e\xbe\xa17',4,4,-90
+13:07:29,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:07:29,Livebox-ccc0,b'\\3\x8e\xbe\xa17',4,4,-81
+13:07:29,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-84
+13:07:30,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:07:30,WIFI YENNE,b'hrQ s4',0,1,-81
+13:07:30,SFR WiFi Mobile,b'\xa2\xce}\x97\x19G',5,1,-87
+13:07:30,Livebox-3204,"b'\x18b,\x7f2\x04'",4,1,-91
+13:07:32,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-56
+13:07:32,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-84
+13:07:32,Freebox-A368C6,"b""4'\x92\xea\x8d\xac""",3,6,-94
+13:07:34,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:07:34,Livebox-3204,"b'\x18b,\x7f2\x04'",4,1,-90
+13:07:34,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-90
+13:07:34,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-90
+13:07:36,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:07:36,SFR_1940,b'D\xce}\x97\x19D',2,1,-88
+13:07:36,Livebox-ccc0,b'\\3\x8e\xbe\xa17',4,4,-91
+13:07:36,Bbox-17A28AC6,b'\xe8\xbe\x81\x94\xab\x10',4,6,-95
+13:07:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:07:38,NEUF_61E8,b'\x00%\x15Ya\xec',2,7,-71
+13:07:38,YENNE GRATUIT,b'hrQ s\xfd',0,1,-90
+13:07:40,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:07:40,Freebox-3BAB20,b'\xdc\x00\xb0\x82\xc6\x18',3,6,-81
+13:07:40,NEUF_61E8,b'\x00%\x15Ya\xec',2,7,-82
+13:07:40,WIFI YENNE,b'hrQ s4',0,1,-89
+13:07:42,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:07:42,OUI_FEE_256_CHACAL_73,"b',\xfd\xa1\xc44\x10'",3,9,-95
+13:07:42,Dkr wifi,b'p\xfc\x8f^\xeb\xc3',3,11,-96
+13:07:44,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:07:44,YENNE GRATUIT,b'hrQ s\xfd',0,1,-85
+13:07:46,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:07:46,Bbox-FE116FD2,b'\x08>] h\xb0',4,1,-68
+13:07:46,Freebox-46B7B4,b'p\xfc\x8f\xbaJ\x88',3,11,-94
+13:07:48,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:07:48,WIFI YENNE,b'hrQ s4',0,1,-80
+13:07:49,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:07:49,GRAA-TMV,b'\xd0\xec5m\xa7\x80',5,11,-85
+13:07:49,GRAA-INVITE,b'\xd0\xec5m\xa7\x81',0,11,-86
+13:07:49,GRAA-MOBILE,b'\xd0\xec5m\xa7\x82',5,11,-86
+13:07:49,YENNE GRATUIT,b'hrQ s\xfd',0,1,-87
+13:07:49,SFR_7488,b'`5\xc0\xc9t\x8e',4,11,-90
+13:07:49,Appair-o,b'\xcc-\x1b\x07\xbe\x15',4,6,-91
+13:07:49,SFR WiFi Mobile,b'j5\xc0\xc9t\x8d',5,11,-91
+13:07:49,SFR WiFi FON,b'j5\xc0\xc9t\x8f',0,11,-91
+13:07:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:07:51,SFR WiFi FON,b'j5\xc0\xc9t\x8f',0,11,-73
+13:07:51,SFR_7488,b'`5\xc0\xc9t\x8e',4,11,-73
+13:07:51,SFR WiFi Mobile,b'j5\xc0\xc9t\x8d',5,11,-74
+13:07:51,WIFI_CORPORATE,b'\xd0\xec5m\xa7\x84',5,11,-88
+13:07:51,GRAA-TMV,b'\xd0\xec5m\xa7\x80',5,11,-89
+13:07:51,GRAA-MOBILE,b'\xd0\xec5m\xa7\x82',5,11,-89
+13:07:51,GRAA-INVITE,b'\xd0\xec5m\xa7\x81',0,11,-90
+13:07:51,GRAA-INTERNE,b'\xd0\xec5m\xa7\x83',5,11,-90
+13:07:51,Freebox-46B7B4,b'p\xfc\x8f\xbaJ\x88',3,11,-93
+13:07:53,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:07:53,SFR_7488,b'`5\xc0\xc9t\x8e',4,11,-78
+13:07:53,SFR WiFi FON,b'j5\xc0\xc9t\x8f',0,11,-78
+13:07:53,SFR WiFi Mobile,b'j5\xc0\xc9t\x8d',5,11,-79
+13:07:55,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:07:55,Freebox-1A95E8,b'\xdc\x00\xb0\x88\x1ev',3,11,-82
+13:07:55,GRAA-TMV,b'\xd0\xec5m\xa7\x80',5,11,-83
+13:07:55,GRAA-INVITE,b'\xd0\xec5m\xa7\x81',0,11,-83
+13:07:55,GRAA-MOBILE,b'\xd0\xec5m\xa7\x82',5,11,-83
+13:07:55,GRAA-INTERNE,b'\xd0\xec5m\xa7\x83',5,11,-83
+13:07:55,WIFI_CORPORATE,b'\xd0\xec5m\xa7\x84',5,11,-83
+13:07:55,SFR_7488,b'`5\xc0\xc9t\x8e',4,11,-85
+13:07:55,SFR WiFi FON,b'j5\xc0\xc9t\x8f',0,11,-85
+13:07:55,SFR WiFi Mobile,b'j5\xc0\xc9t\x8d',5,11,-86
+13:07:55,Freebox-0DEFD0,b'\xe4\x9e\x12\r\xef\xd1',3,6,-90
+13:07:55,Livebox-7F5C,b'@\xc7}C\x7f\\',4,11,-93
+13:07:57,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:07:57,WIFI_CORPORATE,b'\xd0\xec5m\xa7\x84',5,11,-87
+13:07:57,Appair-o,b'\xcc-\x1b\x07\xbe\x15',4,6,-88
+13:07:57,GRAA-TMV,b'\xd0\xec5m\xa7\x80',5,11,-88
+13:07:57,GRAA-INVITE,b'\xd0\xec5m\xa7\x81',0,11,-88
+13:07:57,GRAA-INTERNE,b'\xd0\xec5m\xa7\x83',5,11,-88
+13:07:57,GRAA-MOBILE,b'\xd0\xec5m\xa7\x82',5,11,-89
+13:07:57,Freebox-1A95E8,b'\xdc\x00\xb0\x88\x1ev',3,11,-96
+13:07:59,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:07:59,Bbox-0D537B19,b'H\x83\xc7\x1b\xd7`',4,1,-85
+13:07:59,WIFI YENNE,b'hrQ s4',0,1,-88
+13:07:59,Appair-o,b'\xcc-\x1b\x07\xbe\x15',4,6,-88
+13:07:59,Livebox-7F5C,b'@\xc7}C\x7f\\',4,11,-97
+13:08:01,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:08:01,Bbox-0D537B19,b'H\x83\xc7\x1b\xd7`',4,1,-76
+13:08:03,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:08:03,Bbox-0D537B19,b'H\x83\xc7\x1b\xd7`',4,1,-77
+13:08:03,WIFI YENNE,b'hrQ s4',0,1,-83
+13:08:03,Bbox-6D557AB1,"b',y\xd76D '",4,6,-94
+13:08:05,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:08:05,Bbox-0D537B19,b'H\x83\xc7\x1b\xd7`',4,1,-81
+13:08:05,WIFI YENNE,b'hrQ s4',0,1,-87
+13:08:07,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:08:07,Bbox-0D537B19,b'H\x83\xc7\x1b\xd7`',4,1,-88
+13:08:07,Livebox-7F5C,b'@\xc7}C\x7f\\',4,11,-91
+13:08:07,SFR WiFi Mobile,b'r5\xc0\xc5[%',5,6,-92
+13:08:09,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:08:11,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:08:13,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:08:13,WIFI YENNE,b'hrQ s4',0,1,-83
+13:08:13,YENNE GRATUIT,b'hrQ s\xfd',0,1,-85
+13:08:13,DIRECT-E2-HP ENVY 4520 series,b'pZ\x0fq\xbc\xe3',3,11,-85
+13:08:13,laure,b'H\x83\xc7e\xbc\xd8',4,1,-88
+13:08:13,Livebox-7F5C,b'@\xc7}C\x7f\\',4,11,-89
+13:08:15,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:08:15,Livebox-7F5C,b'@\xc7}C\x7f\\',4,11,-79
+13:08:15,WIFI YENNE,b'hrQ s4',0,1,-80
+13:08:15,YENNE GRATUIT,b'hrQ s\xfd',0,1,-80
+13:08:15,DIRECT-E2-HP ENVY 4520 series,b'pZ\x0fq\xbc\xe3',3,11,-85
+13:08:15,Bbox-6D557AB1,"b',y\xd76D '",4,6,-89
+13:08:15,XXXX_12C0,b'`5\xc0\x17\x12\xc6',4,1,-91
+13:08:15,SFR WiFi FON,b'b5\xc0\x17\x12\xc7',0,1,-91
+13:08:15,laure,b'H\x83\xc7e\xbc\xd8',4,1,-92
+13:08:17,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-30
+13:08:17,DIRECT-E2-HP ENVY 4520 series,b'pZ\x0fq\xbc\xe3',3,11,-80
+13:08:17,Livebox-7F5C,b'@\xc7}C\x7f\\',4,11,-84
+13:08:17,SFR WiFi Mobile,b'\xa2~\xcb\xb7\xa4G',5,6,-86
+13:08:17,SFR WiFi FON,b'\xa2~\xcb\xb7\xa4E',0,6,-89
+13:08:17,SFR WiFi FON,b'r5\xc0g\xfe?',0,11,-89
+13:08:17,SFR WiFi Mobile,b'r5\xc0g\xfe:',5,11,-90
+13:08:17,SFR_FE38,b'`5\xc0g\xfe>',4,11,-91
+13:08:19,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:08:19,YENNE GRATUIT,b'hrQ s\xfd',0,1,-80
+13:08:19,Livebox-8768,b'h?}\x14\x87l',4,6,-87
+13:08:19,Livebox-7F5C,b'@\xc7}C\x7f\\',4,11,-89
+13:08:21,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-56
+13:08:21,WIFI YENNE,b'hrQ s4',0,1,-83
+13:08:21,Livebox-8768,b'h?}\x14\x87l',4,6,-83
+13:08:21,YENNE GRATUIT,b'hrQ s\xfd',0,1,-85
+13:08:21,SFR WiFi Mobile,b'b5\xc0\x17\x12\xc5',5,1,-88
+13:08:21,XXXX_12C0,b'`5\xc0\x17\x12\xc6',4,1,-88
+13:08:21,SFR WiFi FON,b'b5\xc0\x17\x12\xc7',0,1,-89
+13:08:21,Bbox-6D557AB1,"b',y\xd76D '",4,6,-93
+13:08:23,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-58
+13:08:23,Livebox-8768,b'h?}\x14\x87l',4,6,-72
+13:08:23,WIFI YENNE,b'hrQ s4',0,1,-86
+13:08:23,Livebox-5442,b'0|\xb2\xceTF',4,1,-89
+13:08:25,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:08:25,Livebox-8768,b'h?}\x14\x87l',4,6,-57
+13:08:25,Bbox-A653996E,b'l\xba\xb8\x05\xe2p',4,11,-76
+13:08:26,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:08:26,Bbox-A653996E,b'l\xba\xb8\x05\xe2p',4,11,-67
+13:08:26,Livebox-8768,b'h?}\x14\x87l',4,6,-81
+13:08:26,SFR_5C10,b'$\x95\x04\x99\\\x14',2,6,-93
+13:08:26,freebox_HGDYKD,b'h\xa3x|}\xda',4,11,-95
+13:08:28,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:08:28,Bbox-A653996E,b'l\xba\xb8\x05\xe2p',4,11,-61
+13:08:28,WIFI YENNE,b'hrQ s4',0,1,-76
+13:08:28,YENNE GRATUIT,b'hrQ s\xfd',0,1,-83
+13:08:28,Livebox-8768,b'h?}\x14\x87l',4,6,-87
+13:08:28,SFR_5C10,b'$\x95\x04\x99\\\x14',2,6,-88
+13:08:28,Livebox-5442,b'0|\xb2\xceTF',4,1,-89
+13:08:30,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:08:30,WIFI YENNE,b'hrQ s4',0,1,-77
+13:08:30,Bbox-A653996E,b'l\xba\xb8\x05\xe2p',4,11,-79
+13:08:30,SFR_5C10,b'$\x95\x04\x99\\\x14',2,6,-82
+13:08:30,Livebox-5442,b'0|\xb2\xceTF',4,1,-92
+13:08:32,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:08:32,WIFI YENNE,b'hrQ s4',0,1,-67
+13:08:32,YENNE GRATUIT,b'hrQ s\xfd',0,1,-72
+13:08:32,Bbox-A653996E,b'l\xba\xb8\x05\xe2p',4,11,-78
+13:08:32,FreeWifi_secure,b'h\xa3x|}\xdc',5,11,-91
+13:08:34,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:08:34,WIFI YENNE,b'hrQ s4',0,1,-66
+13:08:34,Livebox-5442,b'0|\xb2\xceTF',4,1,-85
+13:08:34,Livebox-8768,b'h?}\x14\x87l',4,6,-88
+13:08:36,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:08:36,YENNE GRATUIT,b'hrQ s\xfd',0,1,-70
+13:08:36,Livebox-5442,b'0|\xb2\xceTF',4,1,-79
+13:08:36,Bbox-57B2C7CA,b'\xa0\x1b}\xa9\xf9\x00',4,11,-87
+13:08:36,DIRECT-FB-HP ENVY 5000 series,b'\xae\xe2\xd3\xcc\xf4\xfb',3,1,-91
+13:08:36,Yenne_Optique,b'\xdc\xef\t\xee\xb5v',2,6,-92
+13:08:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:08:38,YENNE GRATUIT,b'hrQ s\xfd',0,1,-77
+13:08:38,Bbox-D26A6A54,b'\x007\xb7vSP',4,11,-96
+13:08:40,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:08:40,WIFI YENNE,b'hrQ s4',0,1,-72
+13:08:40,Freebox-6474D2,"b""4'\x92\xb5\xda\x18""",3,6,-91
+13:08:40,Freebox-78C44B,b'\xe4\x9e\x12\xca\xa4\x88',3,11,-93
+13:08:42,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:08:42,Bbox-D26A6A54,b'\x007\xb7vSP',4,11,-93
+13:08:42,Bbox-57B2C7CA_2GEXT,b'\x9c:\xcf}\xc3\x89',4,11,-95
+13:08:44,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:08:44,WIFI YENNE,b'hrQ s4',0,1,-68
+13:08:44,Bbox-57B2C7CA_2GEXT,b'\x9c:\xcf}\xc3\x89',4,11,-89
+13:08:46,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:08:46,YENNE GRATUIT,b'hrQ s\xfd',0,1,-81
+13:08:46,Bbox-57B2C7CA_2GEXT,b'\x9c:\xcf}\xc3\x89',4,11,-82
+13:08:46,Bbox-D26A6A54,b'\x007\xb7vSP',4,11,-91
+13:08:48,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-56
+13:08:48,Livebox-77d0,b'\xb8f\x85mw\xd4',4,11,-58
+13:08:48,WIFI YENNE,b'hrQ s4',0,1,-67
+13:08:48,Bbox-57B2C7CA_2GEXT,b'\x9c:\xcf}\xc3\x89',4,11,-79
+13:08:48,DIRECT-FB-HP ENVY 5000 series,b'\xae\xe2\xd3\xcc\xf4\xfb',3,1,-88
+13:08:48,SFR_9598,b'$\x95\x04\x9d\x95\x9c',2,1,-89
+13:08:50,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:08:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:08:51,WIFI YENNE,b'hrQ s4',0,1,-60
+13:08:51,YENNE GRATUIT,b'hrQ s\xfd',0,1,-83
+13:08:51,Livebox-59d2,b'h?}\x14Y\xd6',4,6,-89
+13:08:51,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-96
+13:08:53,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:08:53,YENNE GRATUIT,b'hrQ s\xfd',0,1,-78
+13:08:53,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-94
+13:08:53,Livebox-B4D6,b'\xf4k\xef\x12\xb4\xd6',4,11,-95
+13:08:55,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-52
+13:08:55,YENNE GRATUIT,b'hrQ s\xfd',0,1,-69
+13:08:55,WIFI YENNE,b'hrQ s4',0,1,-74
+13:08:55,Livebox-59d2,b'h?}\x14Y\xd6',4,6,-78
+13:08:55,Livebox-31A0,b'\x08\x87\xc6X1\xa0',4,1,-93
+13:08:57,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:08:57,Livebox-59d2,b'h?}\x14Y\xd6',4,6,-78
+13:08:57,WIFI YENNE,b'hrQ s4',0,1,-82
+13:08:57,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-86
+13:08:57,p0rt0pfgh7z3k4y,b'T*\xa2u\n\x0f',5,1,-89
+13:08:57,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-93
+13:08:59,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:08:59,YENNE GRATUIT,b'hrQ s\xfd',0,1,-76
+13:08:59,Livebox-59d2,b'h?}\x14Y\xd6',4,6,-78
+13:08:59,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-81
+13:08:59,p0rt0pfgh7z3k4y,b'T*\xa2u\n\x0f',5,1,-88
+13:08:59,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-89
+13:08:59,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-90
+13:08:59,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-90
+13:08:59,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-92
+13:09:01,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-61
+13:09:01,YENNE GRATUIT,b'hrQ s\xfd',0,1,-73
+13:09:01,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-77
+13:09:01,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-94
+13:09:03,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:09:03,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-75
+13:09:03,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-87
+13:09:03,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-88
+13:09:03,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-90
+13:09:03,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-90
+13:09:05,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:09:05,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-81
+13:09:05,YENNE GRATUIT,b'hrQ s\xfd',0,1,-83
+13:09:05,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-83
+13:09:07,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-53
+13:09:07,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-82
+13:09:07,Livebox-00d6,b'\x08\x87\xc6&\x00\xda',4,6,-88
+13:09:07,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-88
+13:09:09,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:09:09,YENNE GRATUIT,b'hrQ s\xfd',0,1,-75
+13:09:09,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-81
+13:09:09,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-93
+13:09:11,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:09:11,YENNE GRATUIT,b'hrQ s\xfd',0,1,-75
+13:09:11,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-91
+13:09:11,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-91
+13:09:11,Livebox-59d2,b'h?}\x14Y\xd6',4,6,-92
+13:09:11,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-92
+13:09:11,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-94
+13:09:13,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:09:13,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-83
+13:09:15,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:09:15,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-83
+13:09:15,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-84
+13:09:15,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-84
+13:09:15,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-84
+13:09:17,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-56
+13:09:17,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-84
+13:09:17,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-84
+13:09:17,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-85
+13:09:18,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:09:18,YENNE GRATUIT,b'hrQ s\xfd',0,1,-81
+13:09:18,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-83
+13:09:18,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-83
+13:09:18,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-83
+13:09:18,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-83
+13:09:18,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-92
+13:09:18,TERMINAL,b'\x14Y\xc0\xcb\xd9\xb8',4,10,-94
+13:09:20,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:09:20,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-84
+13:09:20,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-84
+13:09:20,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-85
+13:09:20,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-92
+13:09:22,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-36
+13:09:22,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-75
+13:09:22,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-75
+13:09:22,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-75
+13:09:22,offiwireless1,"b'\xec""\x80\xb8\x86\xa0'",2,11,-85
+13:09:24,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:09:24,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-81
+13:09:24,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-82
+13:09:24,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-82
+13:09:26,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-63
+13:09:26,YENNE GRATUIT,b'hrQ s\xfd',0,1,-82
+13:09:26,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-82
+13:09:26,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-82
+13:09:26,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-83
+13:09:28,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-54
+13:09:28,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-75
+13:09:28,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-75
+13:09:28,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-75
+13:09:28,YENNE GRATUIT,b'hrQ s\xfd',0,1,-86
+13:09:28,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-90
+13:09:30,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-35
+13:09:30,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-80
+13:09:30,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-80
+13:09:30,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-80
+13:09:30,LES12DERNIERS,b'\x081\xa4\xee\nQ',3,11,-93
+13:09:32,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:09:32,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-84
+13:09:32,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-84
+13:09:32,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-85
+13:09:32,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-91
+13:09:34,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-52
+13:09:34,HyperLink-1CC3-096839-0006,b'hrQz\x90\xa3',3,4,-85
+13:09:34,LES12DERNIERS,b'\x081\xa4\xee\nQ',3,11,-93
+13:09:36,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:09:36,LES12DERNIERS,b'\x081\xa4\xee\nQ',3,11,-85
+13:09:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:09:38,HyperLink-1CC3-096839-0006,b'hrQz\x90\xa3',3,4,-91
+13:09:38,LES12DERNIERS,b'\x081\xa4\xee\nQ',3,11,-91
+13:09:40,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:09:40,YENNE GRATUIT,b'hrQ s\xfd',0,1,-85
+13:09:40,LES12DERNIERS,b'\x081\xa4\xee\nQ',3,11,-95
+13:09:42,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:09:43,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:09:45,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:09:47,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:09:49,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:09:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:09:51,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-89
+13:09:53,YENNE GRATUIT,b'hrQ s\xfd',0,1,-86
+13:09:53,LES12DERNIERS,b'\x081\xa4\xee\nQ',3,11,-95
+13:09:54,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-83
+13:09:56,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:09:58,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-33
+13:09:58,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-82
+13:09:58,YENNE GRATUIT,b'hrQ s\xfd',0,1,-89
+13:10:00,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:10:00,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-79
+13:10:00,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,11,-94
+13:10:00,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,11,-95
+13:10:00,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,11,-96
+13:10:02,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-61
+13:10:02,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-77
+13:10:04,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:10:04,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-79
+13:10:04,YENNE GRATUIT,b'hrQ s\xfd',0,1,-90
+13:10:06,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-36
+13:10:08,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:10:10,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-70
+13:10:11,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:10:11,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-73
+13:10:13,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:10:15,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-87
+13:10:17,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:10:19,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:10:21,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:10:22,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-57
+13:10:22,p0rt0pfgh7z3k4y,b'T*\xa2u\n\x0f',5,1,-93
+13:10:24,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:10:26,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-36
+13:10:26,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-94
+13:10:28,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-59
+13:10:30,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:10:32,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-51
+13:10:34,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:10:35,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-33
+13:10:37,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:10:39,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:10:41,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-37
+13:10:43,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-55
+13:10:45,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-52
+13:10:47,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:10:48,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-62
+13:10:50,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:10:52,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:10:54,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-59
+13:10:56,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:10:58,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:11:00,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-30
+13:11:01,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:11:03,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-51
+13:11:05,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:11:05,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-92
+13:11:07,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:11:09,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:11:11,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:11:13,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:11:14,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:11:16,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-52
+13:11:16,YENNE GRATUIT,b'hrQ s\xfd',0,1,-95
+13:11:18,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-45
+13:11:18,offiwireless1,b'\x80&\x89\xb5\x97\x10',2,6,-91
+13:11:20,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:11:22,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:11:24,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:11:25,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:11:27,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:11:29,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:11:31,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-49
+13:11:33,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:11:35,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:11:37,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-32
+13:11:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-33
+13:11:40,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-33
+13:11:42,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:11:44,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-34
+13:11:46,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:11:48,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-30
+13:11:50,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:11:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:11:53,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-52
+13:11:55,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:11:57,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:11:59,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:12:01,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-40
+13:12:03,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-36
+13:12:04,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-38
+13:12:06,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-44
+13:12:10,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:12:14,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-32
+13:12:15,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:12:17,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:12:19,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:12:21,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:12:23,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42
+13:12:25,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-94
+13:12:27,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:12:27,freebox_albert,b'p\xfc\x8f9\xf9\xcb',4,3,-93
+13:12:28,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:12:28,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-92
+13:12:30,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:12:34,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:12:36,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:12:38,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-48
+13:12:39,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:12:41,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:12:41,FreeWifi_secure,b'p\xfc\x8f9\xf9\xcd',5,3,-92
+13:12:43,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-55
+13:12:45,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:12:47,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-47
+13:12:49,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-46
+13:12:51,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-50
+13:12:52,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-43
+13:12:54,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-41
+13:12:56,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-39
+13:12:58,iPhone,b'.\x87\xd3j\xcc\x9d',3,6,-42

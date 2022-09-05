@@ -1,0 +1,1002 @@
+Time,ssid,bssid,sec,channel,rssi
+12:55:02,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+12:55:02,HyperLink-1E5E-114445-0001,b'\xf4\x92\xbf\xb0\x08J',3,4,-91
+12:55:02,acofasewifi,b'\x00\x15m\xae\xf2f',2,11,-91
+12:55:04,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+12:55:06,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:55:06,Bbox-666EA184,"b'\xac\x84\xc9\\,P'",4,1,-86
+12:55:08,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+12:55:08,satil,b'\x10\xbe\xf5\xc41\x98',2,6,-87
+12:55:10,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:55:10,Bbox-666EA184,"b'\xac\x84\xc9\\,P'",4,1,-93
+12:55:12,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:55:12,Bureau_Fred_ 2.4Ghz,b'tD\x01\x88\n\x1b',3,6,-91
+12:55:12,HyperLink-1E5E-114445-0001,b'\xf4\x92\xbf\xb0\x08J',3,4,-92
+12:55:13,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+12:55:15,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+12:55:17,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:55:21,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:55:23,iPhone,b'R5\xa9\xce\xcb]',3,6,-34
+12:55:25,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:55:26,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+12:55:28,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:55:30,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:55:32,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:55:34,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+12:55:36,iPhone,b'R5\xa9\xce\xcb]',3,6,-34
+12:55:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:55:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:55:39,PDA,b'\x04\xf0!$_\xe6',3,9,-90
+12:55:41,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:55:43,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:55:45,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:55:47,iPhone,b'R5\xa9\xce\xcb]',3,6,-30
+12:55:49,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:55:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:55:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:55:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+12:55:56,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+12:56:00,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:56:00,Livebox-0faa,b'\xd0W\x94H\x0f\xae',4,1,-76
+12:56:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+12:56:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+12:56:03,Livebox-0faa,b'\xd0W\x94H\x0f\xae',4,1,-94
+12:56:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+12:56:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+12:56:07,TP-Link_Yvan,b'pOWX\x1b\xa8',3,10,-79
+12:56:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:56:09,TP-Link_Yvan,b'pOWX\x1b\xa8',3,10,-84
+12:56:11,iPhone,b'R5\xa9\xce\xcb]',3,6,-21
+12:56:13,iPhone,b'R5\xa9\xce\xcb]',3,6,-19
+12:56:14,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:56:16,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:56:18,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+12:56:20,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:56:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:56:24,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+12:56:26,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+12:56:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+12:56:29,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+12:56:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+12:56:35,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+12:56:37,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:56:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:56:42,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:56:44,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+12:56:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+12:56:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+12:56:51,iPhone,b'R5\xa9\xce\xcb]',3,6,-52
+12:56:53,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:56:55,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+12:56:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:57:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:57:02,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+12:57:04,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+12:57:04,HyperLink-1CC3-096839-0004,"b""\xb4\xfb\xe4\xba'\xdb""",3,5,-93
+12:57:06,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+12:57:08,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:57:10,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:57:12,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+12:57:14,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:57:15,iPhone,b'R5\xa9\xce\xcb]',3,6,-27
+12:57:17,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:57:19,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:57:21,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+12:57:23,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:57:25,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:57:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:57:28,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+12:57:30,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+12:57:32,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:57:34,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+12:57:36,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:57:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:57:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:57:41,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+12:57:43,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+12:57:45,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+12:57:45,YENNE GRATUIT,b'hrQ s\xfd',0,1,-83
+12:57:47,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+12:57:49,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:57:51,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+12:57:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+12:57:52,YENNE GRATUIT,b'hrQ s\xfd',0,1,-80
+12:57:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:57:56,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+12:57:56,offiwireless1,b'\x80&\x89\xb5\x97\x10',2,6,-92
+12:57:56,freebox_albert,b'p\xfc\x8f9\xf9\xcb',4,3,-94
+12:57:58,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:57:58,YENNE GRATUIT,b'hrQ s\xfd',0,1,-83
+12:58:00,iPhone,b'R5\xa9\xce\xcb]',3,6,-54
+12:58:00,YENNE GRATUIT,b'hrQ s\xfd',0,1,-85
+12:58:00,SFR_C308,b'\xe4]Q\x9b\xc3\x0e',4,6,-89
+12:58:00,SFR WiFi Mobile,b'r]Q\x9b\xc3\r',5,6,-91
+12:58:00,SFR WiFi FON,b'r]Q\x9b\xc3\x0f',0,6,-91
+12:58:00,Livebox-59d2,b'h?}\x14Y\xd6',4,6,-92
+12:58:02,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+12:58:04,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+12:58:04,Enowifi,b'h\xa3x\x1ctR',4,1,-90
+12:58:06,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:58:06,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-92
+12:58:06,offiwireless1,b'\x80&\x89\xb5\x97\x10',2,6,-93
+12:58:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+12:58:07,YENNE GRATUIT,b'hrQ s\xfd',0,1,-85
+12:58:07,Freebox-5327FA,"b""p\xfc\x8fS'\xfb""",3,6,-91
+12:58:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-54
+12:58:09,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-83
+12:58:11,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+12:58:11,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-85
+12:58:11,YENNE GRATUIT,b'hrQ s\xfd',0,1,-89
+12:58:11,FreeWifi_secure,"b""p\xfc\x8fS'\xfd""",5,6,-93
+12:58:13,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:58:13,YENNE GRATUIT,b'hrQ s\xfd',0,1,-74
+12:58:13,WIFI YENNE,b'hrQ s4',0,1,-96
+12:58:15,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+12:58:17,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+12:58:17,Livebox-6471,b'0|\xb2Rdq',4,6,-93
+12:58:19,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+12:58:19,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-82
+12:58:21,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+12:58:21,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-74
+12:58:21,Livebox-00d6,b'\x08\x87\xc6&\x00\xda',4,6,-93
+12:58:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:58:22,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-84
+12:58:22,YENNE GRATUIT,b'hrQ s\xfd',0,1,-87
+12:58:24,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:58:26,YENNE GRATUIT,b'hrQ s\xfd',0,1,-81
+12:58:28,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+12:58:28,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-75
+12:58:30,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:58:30,YENNE GRATUIT,b'hrQ s\xfd',0,1,-78
+12:58:30,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-79
+12:58:30,offiwireless1,b'\x80&\x89\xb5\x97\x10',2,6,-90
+12:58:32,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+12:58:32,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-81
+12:58:34,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:58:34,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-73
+12:58:34,Livebox de Kelkun,b'|\xc1w\xc9^\x10',3,11,-98
+12:58:36,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:58:36,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-81
+12:58:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+12:58:38,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-73
+12:58:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+12:58:41,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+12:58:41,offiwireless1,b'\xc0\xc9\xe3\x1fV\x8c',2,6,-92
+12:58:43,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:58:45,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:58:47,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:58:49,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:58:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-56
+12:58:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-52
+12:58:56,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+12:58:56,SFR_8430,b'D\xce}@\x844',2,1,-92
+12:58:58,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:59:00,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:59:02,iPhone,b'R5\xa9\xce\xcb]',3,6,-55
+12:59:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+12:59:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:59:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+12:59:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:59:09,Bbox-6AB71B7F,b'\xac\x84\xc9^^\x80',4,6,-89
+12:59:11,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+12:59:13,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+12:59:15,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+12:59:16,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:59:18,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+12:59:18,SFR_6788,b'0~\xcb\x91g\x8c',2,6,-89
+12:59:20,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+12:59:20,SFR_6788,b'0~\xcb\x91g\x8c',2,6,-89
+12:59:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:59:22,Bbox-9CDE3122,b'\x007\xb7X\x0f\xf0',4,11,-98
+12:59:24,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+12:59:24,SFR WiFi FON,b'b\xce}\xf2O\xaf',0,6,-91
+12:59:24,SFR_4FA8,b'D\xce}\xf2O\xae',4,6,-93
+12:59:24,SFR WiFi Mobile,b'b\xce}\xf2O\xad',5,6,-94
+12:59:26,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+12:59:26,SFR_6788,b'0~\xcb\x91g\x8c',2,6,-89
+12:59:28,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+12:59:30,iPhone,b'R5\xa9\xce\xcb]',3,6,-55
+12:59:31,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+12:59:31,FreeWifi_secure,b'\xd2\xd2h\x8dw\xba',5,1,-94
+12:59:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+12:59:35,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:59:37,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:59:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+12:59:41,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+12:59:43,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+12:59:44,iPhone,b'R5\xa9\xce\xcb]',3,6,-55
+12:59:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+12:59:48,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+12:59:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+12:59:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+12:59:52,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-93
+12:59:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-55
+12:59:55,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+12:59:57,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+12:59:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-66
+13:00:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-72
+13:00:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+13:00:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+13:00:05,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-93
+13:00:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+13:00:08,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:00:10,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:00:10,freebox_TL,"b""4'\x92\xe1\xdc\xb8""",3,11,-88
+13:00:12,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:00:12,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-95
+13:00:14,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:00:18,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:00:18,SFR WiFi FON,"b""r]Q\xef\xb9'""",0,6,-91
+13:00:18,SFR WiFi Mobile,b'r]Q\xef\xb9%',5,6,-92
+13:00:18,SFR_B920,b'\xe4]Q\xef\xb9&',4,6,-92
+13:00:18,Ma-Livebox,b'\x98\xde\xd0\xcb\xea~',4,11,-92
+13:00:20,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:00:21,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:00:23,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+13:00:23,TP-Link_5A30,b'\xd8G2OZ0',4,1,-91
+13:00:23,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-91
+13:00:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:00:29,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:00:29,SFR WiFi FON,b'b\xce}\xf9\n\xaf',0,1,-90
+13:00:29,SFR WiFi Mobile,b'b\xce}\xf9\n\xad',5,1,-90
+13:00:31,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:00:31,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-88
+13:00:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-64
+13:00:33,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-84
+13:00:33,Livebox-89ca,b'|\xc1w\xf5\x89\xce',4,6,-87
+13:00:33,FreeWifi_secure,b'p\xfc\x8f^\xeb\xc5',5,11,-89
+13:00:35,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:00:35,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-80
+13:00:35,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-93
+13:00:36,iPhone,b'R5\xa9\xce\xcb]',3,6,-60
+13:00:36,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-87
+13:00:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:00:38,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-83
+13:00:38,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-86
+13:00:40,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+13:00:40,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-77
+13:00:40,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-90
+13:00:42,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:00:42,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-78
+13:00:42,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-93
+13:00:44,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:00:44,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-75
+13:00:44,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-82
+13:00:44,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-91
+13:00:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:00:46,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-76
+13:00:46,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-76
+13:00:46,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-89
+13:00:46,FreeWifi_secure,b'R\xd2i\xda\x9d\xd6',5,11,-89
+13:00:46,SFR WiFi Mobile,b'\xc2\x95\x04\xf02\xff',5,1,-91
+13:00:46,SFR_32F8,b'$\x95\x04\xf02\xfc',2,1,-92
+13:00:46,SFR WiFi FON,b'\xc2\x95\x04\xf02\xfd',0,1,-92
+13:00:48,iPhone,b'R5\xa9\xce\xcb]',3,6,-61
+13:00:48,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-80
+13:00:48,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-89
+13:00:48,DIRECT-9A-HP OfficeJet 3830,b'\x9c{\xef\xe5\xe6\x9b',3,11,-93
+13:00:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:00:50,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-69
+13:00:50,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-72
+13:00:50,WIFI YENNE,b'hrQ s4',0,1,-78
+13:00:50,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-78
+13:00:50,SFR WiFi Mobile,b'b\xce}\xf9\n\xad',5,1,-88
+13:00:50,SFR WiFi FON,b'b\xce}\xf9\n\xaf',0,1,-88
+13:00:50,SFR_0AA8,b'D\xce}\xf9\n\xae',4,1,-93
+13:00:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:00:52,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-72
+13:00:52,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-86
+13:00:52,DIRECT-9A-HP OfficeJet 3830,b'\x9c{\xef\xe5\xe6\x9b',3,11,-91
+13:00:52,SFR WiFi FON,b'z\xce}\x93am',0,11,-92
+13:00:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:00:54,FreeWifi_secure,"b""4'\x92P\xc7q""",5,11,-73
+13:00:54,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-75
+13:00:56,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:00:56,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-76
+13:00:56,Bbox-17A28AC6,b'\xe8\xbe\x81\x94\xab\x10',4,6,-79
+13:00:58,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:00:58,Livebox-68fe,b'\xb0\xb2\x8f\xa1i\x02',4,6,-81
+13:00:58,SFR WiFi FON,b'z\xce}\x93am',0,11,-86
+13:00:58,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-87
+13:00:58,SFR_6168,b'D\xce}\x93al',2,11,-87
+13:00:58,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-95
+13:00:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-59
+13:00:59,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-85
+13:00:59,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-88
+13:00:59,SFR_6168,b'D\xce}\x93al',2,11,-89
+13:00:59,SFR WiFi FON,b'z\xce}\x93am',0,11,-89
+13:00:59,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-89
+13:01:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-52
+13:01:01,SFR_6168,b'D\xce}\x93al',2,11,-87
+13:01:01,NETGEAR55,b'\xa0\x04`\x8f\xa7\n',3,6,-89
+13:01:01,SFR WiFi FON,b'z\xce}\x93am',0,11,-89
+13:01:01,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-89
+13:01:01,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-94
+13:01:01,freebox_mel1986,"b""4'\x92P\xc7o""",4,11,-95
+13:01:03,Livebox-6B8B,b'\xa4>QRk\x8b',4,6,-82
+13:01:03,SFR WiFi FON,b'z\xce}\x93am',0,11,-90
+13:01:03,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-90
+13:01:03,SFR_6168,b'D\xce}\x93al',2,11,-91
+13:01:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:01:05,Bbox-8C37E1F4,b'\x007\xb7Um\x10',4,6,-89
+13:01:05,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-89
+13:01:05,SFR WiFi FON,b'z\xce}\x93am',0,11,-91
+13:01:05,SFR_6168,b'D\xce}\x93al',2,11,-92
+13:01:05,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-93
+13:01:05,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-95
+13:01:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+13:01:07,Bbox-8C37E1F4,b'\x007\xb7Um\x10',4,6,-74
+13:01:07,SFR WiFi FON,b'z\xce}\x93am',0,11,-87
+13:01:07,SFR_6168,b'D\xce}\x93al',2,11,-88
+13:01:07,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-88
+13:01:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:01:09,Bbox-8C37E1F4,b'\x007\xb7Um\x10',4,6,-81
+13:01:09,Yvan_2GEXT,b'8\x94\xed~\xe8P',4,11,-87
+13:01:09,SFR_6168,b'D\xce}\x93al',2,11,-88
+13:01:09,SFR WiFi FON,b'z\xce}\x93am',0,11,-88
+13:01:09,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-88
+13:01:09,"Salle TV.v,",b'\xfa\x8f\xca\x86m?',0,6,-89
+13:01:11,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:01:11,"Salle TV.v,",b'\xfa\x8f\xca\x86m?',0,6,-74
+13:01:11,SFR WiFi Mobile,b'r]Qh\x04\xfd',5,1,-80
+13:01:11,SFR WiFi FON,b'r]Qh\x04\xff',0,1,-80
+13:01:11,Lena et Flo - WiFi,b'\xe4]Qh\x04\xfe',4,1,-81
+13:01:11,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-85
+13:01:11,Yvan_2GEXT,b'8\x94\xed~\xe8P',4,11,-90
+13:01:11,SFR WiFi FON,b'z\xce}\x93am',0,11,-91
+13:01:11,SFR_6168,b'D\xce}\x93al',2,11,-92
+13:01:11,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-92
+13:01:13,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:01:13,Yvan_2GEXT,b'8\x94\xed~\xe8P',4,11,-77
+13:01:13,SFR WiFi FON,b'z\xce}\x93am',0,11,-81
+13:01:13,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-81
+13:01:13,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-82
+13:01:13,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-83
+13:01:13,SFR_6168,b'D\xce}\x93al',2,11,-83
+13:01:13,"Salle TV.v,",b'\xfa\x8f\xca\x86m?',0,6,-84
+13:01:13,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-90
+13:01:15,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+13:01:15,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-71
+13:01:15,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-74
+13:01:15,SFR_6168,b'D\xce}\x93al',2,11,-75
+13:01:15,SFR WiFi FON,b'z\xce}\x93am',0,11,-75
+13:01:15,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-83
+13:01:15,Yvan_2GEXT,b'8\x94\xed~\xe8P',4,11,-88
+13:01:17,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:01:17,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-75
+13:01:17,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-76
+13:01:17,SFR_6168,b'D\xce}\x93al',2,11,-77
+13:01:17,SFR WiFi FON,b'z\xce}\x93am',0,11,-77
+13:01:17,DIRECT-CC-HP OfficeJet 3830,b'\xf8\xb4jAe\xcd',3,6,-87
+13:01:19,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+13:01:19,SFR_6168,b'D\xce}\x93al',2,11,-74
+13:01:19,SFR WiFi FON,b'z\xce}\x93am',0,11,-74
+13:01:19,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-74
+13:01:19,Philippeollo,"b""4'\x92\xbew\x18""",4,11,-85
+13:01:21,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+13:01:21,SFR WiFi FON,b'z\xce}\x93am',0,11,-82
+13:01:21,SFR_6168,b'D\xce}\x93al',2,11,-83
+13:01:21,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-83
+13:01:21,Freebox-6068B4,b'\xdc\x00\xb0\xb2_0',3,6,-85
+13:01:23,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:01:23,SFR_6168,b'D\xce}\x93al',2,11,-85
+13:01:23,SFR WiFi FON,b'z\xce}\x93am',0,11,-85
+13:01:23,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-86
+13:01:23,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-89
+13:01:25,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+13:01:25,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-80
+13:01:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-67
+13:01:27,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-83
+13:01:27,Livebox-F8D5,b'0|\xb2\x08\xf8\xd5',4,1,-87
+13:01:29,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:01:29,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-84
+13:01:29,SFR WiFi Mobile,b'z\xce}\x93ao',5,11,-92
+13:01:31,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:01:31,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-77
+13:01:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:01:33,Bbox-7C458B74,b'\x84\xa1\xd1GSp',4,6,-88
+13:01:33,for the greater good,b't\xd2\x1dZ\x8fq',3,8,-91
+13:01:33,Livebox-5370_EXT,b'\xdc\xef\t\xd5\xd7\x84',3,1,-93
+13:01:34,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:01:36,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:01:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-72
+13:01:38,Bbox-7C458B74,b'\x84\xa1\xd1GSp',4,6,-85
+13:01:40,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:01:40,Bbox-7C458B74,b'\x84\xa1\xd1GSp',4,6,-88
+13:01:40,FreeWifi_secure,b'\xe4\x9e\x12\xa7\x9b:',5,1,-94
+13:01:42,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:01:44,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:01:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:01:46,Freebox-6627ED,b'\xe4\x9e\x12\xa7\x9b8',3,1,-91
+13:01:47,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:01:49,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-91
+13:01:49,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-94
+13:01:49,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-95
+13:01:49,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-96
+13:01:51,iPhone,b'R5\xa9\xce\xcb]',3,6,-67
+13:01:55,iPhone,b'R5\xa9\xce\xcb]',3,6,-57
+13:01:57,iPhone,b'R5\xa9\xce\xcb]',3,6,-34
+13:01:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:01:59,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-84
+13:01:59,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-84
+13:01:59,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-84
+13:01:59,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-89
+13:01:59,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-90
+13:02:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:02:01,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-84
+13:02:02,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:02:02,Freebox-6627ED,b'\xe4\x9e\x12\xa7\x9b8',3,1,-93
+13:02:04,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:02:04,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-89
+13:02:06,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+13:02:06,HyperLink-1CC3-096839-0002,b'\xb4\xfb\xe4\xba{\xaa',3,6,-92
+13:02:08,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:02:08,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-87
+13:02:10,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+13:02:10,NET-FREEBOX,b'h\xa3x\x03\x19\x94',3,1,-93
+13:02:10,SFR_A7F8,b'\x00\x16\xfb\xce\xe5\\',4,11,-95
+13:02:10,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-99
+13:02:12,iPhone,b'R5\xa9\xce\xcb]',3,6,-63
+13:02:12,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-81
+13:02:14,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-82
+13:02:14,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-88
+13:02:14,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-89
+13:02:14,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-90
+13:02:16,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+13:02:16,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-84
+13:02:17,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:02:19,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:02:19,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-83
+13:02:19,SFR_A7F8,b'0~\xcbz\xa7\xfc',2,11,-90
+13:02:19,SFR WiFi FON,b'\xc2~\xcbz\xa7\xfd',0,11,-91
+13:02:19,SFR WiFi Mobile,b'\xc2~\xcbz\xa7\xff',5,11,-92
+13:02:21,iPhone,b'R5\xa9\xce\xcb]',3,6,-55
+13:02:21,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-89
+13:02:23,iPhone,b'R5\xa9\xce\xcb]',3,6,-64
+13:02:23,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-87
+13:02:25,iPhone,b'R5\xa9\xce\xcb]',3,6,-69
+13:02:25,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-90
+13:02:25,Clos des Capucins,"b',\xc5\xd3328'",3,6,-90
+13:02:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:02:27,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-86
+13:02:29,iPhone,b'R5\xa9\xce\xcb]',3,6,-60
+13:02:29,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-83
+13:02:29,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-92
+13:02:29,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-93
+13:02:31,iPhone,b'R5\xa9\xce\xcb]',3,6,-65
+13:02:31,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-78
+13:02:32,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:02:32,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-80
+13:02:34,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:02:34,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-78
+13:02:34,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-87
+13:02:34,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-88
+13:02:36,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:02:36,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-80
+13:02:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:02:38,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-77
+13:02:38,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-85
+13:02:38,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-85
+13:02:38,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-86
+13:02:40,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:02:40,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-74
+13:02:42,iPhone,b'R5\xa9\xce\xcb]',3,6,-41
+13:02:42,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-69
+13:02:42,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-82
+13:02:42,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-82
+13:02:42,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-88
+13:02:44,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:02:44,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-74
+13:02:44,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-86
+13:02:44,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-87
+13:02:44,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-88
+13:02:44,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-94
+13:02:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:02:46,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-65
+13:02:46,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-91
+13:02:46,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-93
+13:02:48,iPhone,b'R5\xa9\xce\xcb]',3,6,-66
+13:02:48,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-70
+13:02:48,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-88
+13:02:48,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-88
+13:02:48,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-89
+13:02:50,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-68
+13:02:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:02:52,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-68
+13:02:53,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+13:02:53,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-67
+13:02:53,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-85
+13:02:53,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-86
+13:02:53,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-86
+13:02:53,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-95
+13:02:55,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:02:55,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-68
+13:02:55,SFR WiFi FON,b'\xb2\xce}t\xfd\xdd',0,1,-81
+13:02:55,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-82
+13:02:57,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:02:57,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-68
+13:02:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-34
+13:02:59,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-62
+13:02:59,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-91
+13:02:59,SFR WiFi Mobile,b'\xb2\xce}t\xfd\xdf',5,1,-92
+13:02:59,SFR_FDD8,b'D\xce}t\xfd\xdc',2,1,-93
+13:03:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-56
+13:03:01,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-66
+13:03:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:03:03,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-75
+13:03:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:03:05,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-83
+13:03:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:03:07,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-81
+13:03:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:03:09,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-87
+13:03:09,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-91
+13:03:10,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:03:10,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-81
+13:03:10,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-85
+13:03:10,Clos des Capucins,"b',\xc5\xd3328'",3,6,-90
+13:03:12,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:03:12,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-86
+13:03:12,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-89
+13:03:14,iPhone,b'R5\xa9\xce\xcb]',3,6,-52
+13:03:16,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:03:16,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-86
+13:03:16,HyperLink-1E5E-114445-0002,b'\xf4\x92\xbf\xb0\x0b\x15',3,1,-90
+13:03:18,iPhone,b'R5\xa9\xce\xcb]',3,6,-66
+13:03:18,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-93
+13:03:20,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:03:20,Clos des Capucins,"b',\xc5\xd3328'",3,6,-89
+13:03:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:03:24,iPhone,b'R5\xa9\xce\xcb]',3,6,-54
+13:03:25,iPhone,b'R5\xa9\xce\xcb]',3,6,-60
+13:03:25,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-93
+13:03:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:03:29,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:03:31,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:03:31,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-90
+13:03:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-63
+13:03:33,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-79
+13:03:33,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-88
+13:03:33,Clos des Capucins,"b',\xc5\xd33\x05h'",3,9,-91
+13:03:33,Clos des Capucins,"b',\xc5\xd3328'",3,6,-92
+13:03:35,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:03:35,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-80
+13:03:35,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-89
+13:03:37,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:03:37,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-79
+13:03:37,Clos des Capucins,"b',\xc5\xd3328'",3,6,-83
+13:03:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:03:39,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-82
+13:03:39,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-95
+13:03:40,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+13:03:40,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-80
+13:03:40,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-85
+13:03:42,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:03:42,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-75
+13:03:44,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:03:44,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-77
+13:03:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+13:03:46,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-72
+13:03:48,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:03:48,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-74
+13:03:48,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-85
+13:03:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+13:03:50,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-72
+13:03:50,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-92
+13:03:50,Livebox-9a38,b'<\x17\x102\x9a<',4,11,-94
+13:03:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-69
+13:03:52,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-72
+13:03:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:03:54,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-77
+13:03:54,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-88
+13:03:55,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+13:03:55,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-82
+13:03:57,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:03:57,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-87
+13:03:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:03:59,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-67
+13:03:59,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-92
+13:04:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-57
+13:04:01,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-62
+13:04:01,Clos des Capucins,"b',\xc5\xd3328'",3,6,-93
+13:04:01,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-95
+13:04:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-59
+13:04:03,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-64
+13:04:03,Clos des Capucins,b'\x94\xf6e<\xda\x18',3,6,-87
+13:04:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+13:04:05,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-57
+13:04:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:04:07,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-61
+13:04:07,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-89
+13:04:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-30
+13:04:09,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-53
+13:04:09,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-94
+13:04:11,iPhone,b'R5\xa9\xce\xcb]',3,6,-37
+13:04:11,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-51
+13:04:12,iPhone,b'R5\xa9\xce\xcb]',3,6,-34
+13:04:12,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-48
+13:04:14,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:04:14,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-54
+13:04:16,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-43
+13:04:16,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:04:16,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-93
+13:04:18,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:04:18,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-55
+13:04:18,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-79
+13:04:20,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:04:20,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-59
+13:04:20,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-87
+13:04:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:04:22,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-69
+13:04:22,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:04:24,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:04:24,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-67
+13:04:24,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-81
+13:04:26,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:04:26,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-74
+13:04:26,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-86
+13:04:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-19
+13:04:27,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-80
+13:04:27,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-84
+13:04:29,iPhone,b'R5\xa9\xce\xcb]',3,6,-21
+13:04:29,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-70
+13:04:29,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-83
+13:04:29,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-92
+13:04:31,iPhone,b'R5\xa9\xce\xcb]',3,6,-27
+13:04:31,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-73
+13:04:31,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:04:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-29
+13:04:33,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-81
+13:04:33,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-83
+13:04:35,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:04:35,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-66
+13:04:35,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:04:37,iPhone,b'R5\xa9\xce\xcb]',3,6,-27
+13:04:37,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-71
+13:04:37,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:04:37,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-91
+13:04:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:04:39,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-84
+13:04:39,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-94
+13:04:41,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:04:41,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-71
+13:04:41,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-88
+13:04:43,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:04:43,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-69
+13:04:45,iPhone,b'R5\xa9\xce\xcb]',3,6,-34
+13:04:45,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-70
+13:04:45,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-83
+13:04:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+13:04:46,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-86
+13:04:46,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-87
+13:04:48,iPhone,b'R5\xa9\xce\xcb]',3,6,-28
+13:04:48,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-86
+13:04:48,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-88
+13:04:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-27
+13:04:50,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-84
+13:04:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:04:52,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-83
+13:04:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:04:54,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-71
+13:04:54,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-86
+13:04:56,iPhone,b'R5\xa9\xce\xcb]',3,6,-30
+13:04:56,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-83
+13:04:56,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-88
+13:04:56,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-96
+13:04:58,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+13:04:58,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-79
+13:04:58,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:05:00,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:05:00,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-71
+13:05:00,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-86
+13:05:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:05:01,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-79
+13:05:01,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:05:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:05:03,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-86
+13:05:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:05:05,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-66
+13:05:05,Clos des Capucins,"b',\xc5\xd3328'",3,6,-91
+13:05:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:05:07,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-76
+13:05:07,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-84
+13:05:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:05:09,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-72
+13:05:09,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-84
+13:05:09,Clos des Capucins,"b',\xc5\xd3328'",3,6,-92
+13:05:11,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:05:11,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-67
+13:05:11,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-85
+13:05:13,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:05:13,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-73
+13:05:15,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:05:15,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-73
+13:05:17,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:05:17,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-66
+13:05:17,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-85
+13:05:18,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:05:18,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-66
+13:05:18,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-81
+13:05:20,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:05:20,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-73
+13:05:20,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-81
+13:05:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+13:05:22,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-74
+13:05:24,iPhone,b'R5\xa9\xce\xcb]',3,6,-43
+13:05:24,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-73
+13:05:26,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:05:26,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-80
+13:05:26,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-87
+13:05:28,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:05:28,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-72
+13:05:28,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-91
+13:05:30,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:05:30,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-78
+13:05:30,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-81
+13:05:32,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:05:32,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-77
+13:05:32,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-86
+13:05:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:05:33,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-77
+13:05:33,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-81
+13:05:33,Clos des Capucins,"b',\xc5\xd3328'",3,6,-94
+13:05:35,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:05:35,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-79
+13:05:35,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-82
+13:05:37,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:05:37,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-81
+13:05:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:05:39,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:05:39,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-84
+13:05:41,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:05:41,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-76
+13:05:41,Clos des Capucins,"b',\xc5\xd3328'",3,6,-92
+13:05:41,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-94
+13:05:43,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:05:43,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-79
+13:05:43,Clos des Capucins,"b',\xc5\xd3328'",3,6,-86
+13:05:43,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-90
+13:05:45,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:05:45,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-82
+13:05:47,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:05:47,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-79
+13:05:47,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-80
+13:05:49,iPhone,b'R5\xa9\xce\xcb]',3,6,-36
+13:05:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:05:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:05:52,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-86
+13:05:52,Clos des Capucins,"b""4\x8f'\x11{\xe8""",3,11,-96
+13:05:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:05:54,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-85
+13:05:56,iPhone,b'R5\xa9\xce\xcb]',3,6,-29
+13:05:56,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-91
+13:05:58,iPhone,b'R5\xa9\xce\xcb]',3,6,-28
+13:06:00,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+13:06:02,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:06:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-34
+13:06:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-48
+13:06:07,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:06:09,iPhone,b'R5\xa9\xce\xcb]',3,6,-39
+13:06:09,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-79
+13:06:09,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-82
+13:06:11,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-66
+13:06:11,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-79
+13:06:11,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-90
+13:06:11,Clos des Capucins,"b""4\x8f'\x11>\x18""",3,6,-93
+13:06:13,iPhone,b'R5\xa9\xce\xcb]',3,6,-54
+13:06:13,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-54
+13:06:13,Clos des Capucins,"b',\xc5\xd3328'",3,6,-79
+13:06:13,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-84
+13:06:13,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-90
+13:06:15,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:06:15,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-64
+13:06:15,Clos des Capucins,"b',\xc5\xd3328'",3,6,-73
+13:06:15,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:06:15,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-93
+13:06:17,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-49
+13:06:17,iPhone,b'R5\xa9\xce\xcb]',3,6,-63
+13:06:17,Clos des Capucins,"b',\xc5\xd3328'",3,6,-73
+13:06:17,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-86
+13:06:17,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-93
+13:06:19,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-54
+13:06:19,iPhone,b'R5\xa9\xce\xcb]',3,6,-61
+13:06:19,Clos des Capucins,"b',\xc5\xd3328'",3,6,-73
+13:06:21,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:06:21,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-61
+13:06:21,Clos des Capucins,"b',\xc5\xd3328'",3,6,-74
+13:06:21,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-81
+13:06:21,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-87
+13:06:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:06:22,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-66
+13:06:22,Clos des Capucins,"b',\xc5\xd3328'",3,6,-70
+13:06:22,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-96
+13:06:24,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:06:24,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-65
+13:06:24,Clos des Capucins,"b',\xc5\xd3328'",3,6,-73
+13:06:24,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:06:24,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-89
+13:06:26,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+13:06:26,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-57
+13:06:26,Clos des Capucins,"b',\xc5\xd3328'",3,6,-73
+13:06:26,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-88
+13:06:26,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-90
+13:06:26,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-90
+13:06:28,iPhone,b'R5\xa9\xce\xcb]',3,6,-30
+13:06:28,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-61
+13:06:28,Clos des Capucins,"b',\xc5\xd3328'",3,6,-76
+13:06:28,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-90
+13:06:28,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-92
+13:06:30,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:06:30,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-61
+13:06:30,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:06:30,Clos des Capucins,"b""4\x8f'\x11Yh""",3,1,-92
+13:06:32,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+13:06:32,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-60
+13:06:32,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:06:32,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-91
+13:06:34,iPhone,b'R5\xa9\xce\xcb]',3,6,-38
+13:06:34,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
+13:06:34,Clos des Capucins,"b',\xc5\xd3328'",3,6,-78
+13:06:34,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-89
+13:06:36,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:06:36,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-70
+13:06:36,Clos des Capucins,"b',\xc5\xd3328'",3,6,-71
+13:06:38,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:06:38,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:06:38,Clos des Capucins,"b',\xc5\xd3328'",3,6,-69
+13:06:38,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-88
+13:06:38,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-88
+13:06:40,iPhone,b'R5\xa9\xce\xcb]',3,6,-32
+13:06:40,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-66
+13:06:40,Clos des Capucins,"b',\xc5\xd3328'",3,6,-75
+13:06:40,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-79
+13:06:40,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-89
+13:06:42,iPhone,b'R5\xa9\xce\xcb]',3,6,-28
+13:06:42,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-65
+13:06:42,Clos des Capucins,"b',\xc5\xd3328'",3,6,-81
+13:06:42,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:06:42,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-92
+13:06:44,iPhone,b'R5\xa9\xce\xcb]',3,6,-33
+13:06:44,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
+13:06:44,Clos des Capucins,"b',\xc5\xd3328'",3,6,-74
+13:06:44,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-86
+13:06:44,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-92
+13:06:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-35
+13:06:46,Clos des Capucins,"b',\xc5\xd3328'",3,6,-63
+13:06:46,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:06:47,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:06:47,Clos des Capucins,"b',\xc5\xd3328'",3,6,-60
+13:06:47,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:06:47,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-94
+13:06:49,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:06:49,Clos des Capucins,"b',\xc5\xd3328'",3,6,-63
+13:06:49,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-76
+13:06:51,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:06:51,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-65
+13:06:51,Clos des Capucins,"b',\xc5\xd3328'",3,6,-83
+13:06:51,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-90
+13:06:51,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-93
+13:06:53,iPhone,b'R5\xa9\xce\xcb]',3,6,-49
+13:06:53,Clos des Capucins,"b',\xc5\xd3328'",3,6,-71
+13:06:55,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:06:55,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-61
+13:06:55,Clos des Capucins,"b',\xc5\xd3328'",3,6,-78
+13:06:55,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-93
+13:06:57,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+13:06:57,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:06:57,Clos des Capucins,"b',\xc5\xd3328'",3,6,-69
+13:06:57,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-88
+13:06:57,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-89
+13:06:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:06:59,Clos des Capucins,"b',\xc5\xd3328'",3,6,-65
+13:07:01,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:07:01,Clos des Capucins,"b',\xc5\xd3328'",3,6,-62
+13:07:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:07:03,Clos des Capucins,"b',\xc5\xd3328'",3,6,-69
+13:07:03,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-73
+13:07:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-42
+13:07:05,Clos des Capucins,"b',\xc5\xd3328'",3,6,-66
+13:07:05,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-78
+13:07:06,iPhone,b'R5\xa9\xce\xcb]',3,6,-46
+13:07:06,Clos des Capucins,"b',\xc5\xd3328'",3,6,-64
+13:07:08,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:07:08,Clos des Capucins,"b',\xc5\xd3328'",3,6,-66
+13:07:08,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-79
+13:07:08,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-94
+13:07:10,iPhone,b'R5\xa9\xce\xcb]',3,6,-44
+13:07:10,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-74
+13:07:10,Clos des Capucins,"b',\xc5\xd3328'",3,6,-76
+13:07:12,iPhone,b'R5\xa9\xce\xcb]',3,6,-29
+13:07:12,Clos des Capucins,"b',\xc5\xd3328'",3,6,-65
+13:07:12,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-78
+13:07:14,iPhone,b'R5\xa9\xce\xcb]',3,6,-31
+13:07:14,Clos des Capucins,"b',\xc5\xd3328'",3,6,-66
+13:07:14,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-83
+13:07:16,iPhone,b'R5\xa9\xce\xcb]',3,6,-40
+13:07:16,Clos des Capucins,"b',\xc5\xd3328'",3,6,-66
+13:07:16,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
+13:07:18,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:07:18,Clos des Capucins,"b',\xc5\xd3328'",3,6,-63
+13:07:18,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:07:20,iPhone,b'R5\xa9\xce\xcb]',3,6,-47
+13:07:20,Clos des Capucins,"b',\xc5\xd3328'",3,6,-63
+13:07:20,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-72
+13:07:22,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:07:22,Clos des Capucins,"b',\xc5\xd3328'",3,6,-70
+13:07:22,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-84
+13:07:23,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:07:23,Clos des Capucins,"b',\xc5\xd3328'",3,6,-65
+13:07:23,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-81
+13:07:25,iPhone,b'R5\xa9\xce\xcb]',3,6,-56
+13:07:25,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-72
+13:07:25,Clos des Capucins,"b',\xc5\xd3328'",3,6,-75
+13:07:27,iPhone,b'R5\xa9\xce\xcb]',3,6,-45
+13:07:27,Clos des Capucins,"b',\xc5\xd3328'",3,6,-67
+13:07:27,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-73
+13:07:29,iPhone,b'R5\xa9\xce\xcb]',3,6,-59
+13:07:29,Clos des Capucins,"b',\xc5\xd3328'",3,6,-64
+13:07:29,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-74
+13:07:31,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:07:31,Clos des Capucins,"b',\xc5\xd3328'",3,6,-72
+13:07:31,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-75
+13:07:33,iPhone,b'R5\xa9\xce\xcb]',3,6,-63
+13:07:33,Clos des Capucins,"b',\xc5\xd3328'",3,6,-69
+13:07:33,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
+13:07:33,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:07:35,Clos des Capucins,"b',\xc5\xd3328'",3,6,-56
+13:07:35,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:07:35,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-64
+13:07:37,iPhone,b'R5\xa9\xce\xcb]',3,6,-64
+13:07:37,Clos des Capucins,"b',\xc5\xd3328'",3,6,-65
+13:07:37,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:07:37,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:07:39,iPhone,b'R5\xa9\xce\xcb]',3,6,-57
+13:07:39,Clos des Capucins,"b',\xc5\xd3328'",3,6,-65
+13:07:39,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-76
+13:07:39,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-90
+13:07:40,Clos des Capucins,"b',\xc5\xd3328'",3,6,-56
+13:07:40,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:07:40,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-68
+13:07:42,iPhone,b'R5\xa9\xce\xcb]',3,6,-56
+13:07:42,Clos des Capucins,"b',\xc5\xd3328'",3,6,-62
+13:07:42,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:07:42,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-87
+13:07:44,Clos des Capucins,"b',\xc5\xd3328'",3,6,-61
+13:07:44,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:07:46,iPhone,b'R5\xa9\xce\xcb]',3,6,-51
+13:07:46,Clos des Capucins,"b',\xc5\xd3328'",3,6,-60
+13:07:46,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-78
+13:07:46,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-92
+13:07:46,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-95
+13:07:48,iPhone,b'R5\xa9\xce\xcb]',3,6,-57
+13:07:48,Clos des Capucins,"b',\xc5\xd3328'",3,6,-60
+13:07:48,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
+13:07:50,iPhone,b'R5\xa9\xce\xcb]',3,6,-56
+13:07:50,Clos des Capucins,"b',\xc5\xd3328'",3,6,-60
+13:07:50,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
+13:07:50,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-89
+13:07:50,HUAWEIP30,b'R\xee\x96ld\xac',3,1,-94
+13:07:52,iPhone,b'R5\xa9\xce\xcb]',3,6,-58
+13:07:52,Clos des Capucins,"b',\xc5\xd3328'",3,6,-66
+13:07:52,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-75
+13:07:54,iPhone,b'R5\xa9\xce\xcb]',3,6,-52
+13:07:54,Clos des Capucins,"b',\xc5\xd3328'",3,6,-59
+13:07:54,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-70
+13:07:56,iPhone,b'R5\xa9\xce\xcb]',3,6,-50
+13:07:56,Clos des Capucins,"b',\xc5\xd3328'",3,6,-60
+13:07:56,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-80
+13:07:57,iPhone,b'R5\xa9\xce\xcb]',3,6,-53
+13:07:57,Clos des Capucins,"b',\xc5\xd3328'",3,6,-63
+13:07:57,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
+13:07:59,Clos des Capucins,"b',\xc5\xd3328'",3,6,-57
+13:07:59,iPhone,b'R5\xa9\xce\xcb]',3,6,-63
+13:07:59,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-64
+13:08:01,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-67
+13:08:01,Clos des Capucins,"b""4\x8f'\x11L\xf8""",3,3,-84
+13:08:03,iPhone,b'R5\xa9\xce\xcb]',3,6,-60
+13:08:03,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-68
+13:08:05,Clos des Capucins,"b',\xc5\xd3328'",3,6,-59
+13:08:05,iPhone,b'R5\xa9\xce\xcb]',3,6,-62
+13:08:05,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-70
+13:08:07,Clos des Capucins,"b',\xc5\xd3328'",3,6,-66
+13:08:07,Clos des Capucins,"b""4\x8f'\x11K{""",3,11,-71
