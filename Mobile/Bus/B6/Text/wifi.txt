@@ -1,0 +1,173 @@
+Testing SD card write operations: 2022-07-07 09:13:21
+2022-07-07 09:13:22: {'ssid':'iPhone', 'bssid':b':\x04\x0c<\xc3\xb1', 'sec':3, 'channel':6, 'rssi':-28}
+2022-07-07 09:13:22: {'ssid':'Freebox-671764', 'bssid':b'\xdc\x00\xb0\xb0\xb3h', 'sec':3, 'channel':11, 'rssi':-96}
+2022-07-07 09:13:24: {'ssid':'iPhone', 'bssid':b':\x04\x0c<\xc3\xb1', 'sec':3, 'channel':6, 'rssi':-29}
+2022-07-07 09:13:24: {'ssid':'Freebox-40EF6F', 'bssid':b"4'\x92@\xefp", 'sec':3, 'channel':11, 'rssi':-79}
+2022-07-07 09:13:26: {'ssid':'iPhone', 'bssid':b':\x04\x0c<\xc3\xb1', 'sec':3, 'channel':6, 'rssi':-20}
+2022-07-07 09:13:26: {'ssid':'Livebox-4940', 'bssid':b'\xe8\xd2\xff\xdbI@', 'sec':3, 'channel':1, 'rssi':-72}
+2022-07-07 09:13:26: {'ssid':'Livebox-E6D6', 'bssid':b'D\xa6\x1e\xa3\xe6\xd6', 'sec':3, 'channel':6, 'rssi':-84}
+2022-07-07 09:13:26: {'ssid':'Livebox-9442', 'bssid':b'\x84\xa0n\x86\x94F', 'sec':4, 'channel':1, 'rssi':-88}
+2022-07-07 09:13:32: {'ssid':'Livebox-9442', 'bssid':b'\x84\xa0n\x86\x94F', 'sec':4, 'channel':1, 'rssi':-82}
+2022-07-07 09:13:34: {'ssid':'FreeWifi_secure', 'bssid':b"4'\x92\xf0\xb9*", 'sec':5, 'channel':11, 'rssi':-96}
+2022-07-07 09:13:35: {'ssid':'Bbox-8DEC1B70', 'bssid':b'l\xba\xb8\x03f\xc0', 'sec':4, 'channel':1, 'rssi':-93}
+2022-07-07 09:13:37: {'ssid':'Bbox-6DE98A29', 'bssid':b'\xec\xbe\xdd\xe7\xa1\xf0', 'sec':4, 'channel':3, 'rssi':-78}
+2022-07-07 09:13:37: {'ssid':'Livebox-9442', 'bssid':b'\x84\xa0n\x86\x94F', 'sec':4, 'channel':1, 'rssi':-89}
+2022-07-07 09:13:37: {'ssid':'les lapins', 'bssid':b'la\xf4\tbn', 'sec':4, 'channel':6, 'rssi':-89}
+2022-07-07 09:13:37: {'ssid':'SFR WiFi Mobile', 'bssid':b'ra\xf4\tbm', 'sec':5, 'channel':6, 'rssi':-91}
+2022-07-07 09:13:37: {'ssid':'freebox_AVIV', 'bssid':b'\x9a}\xa2V\x98\xcc', 'sec':2, 'channel':11, 'rssi':-93}
+2022-07-07 09:13:39: {'ssid':'Bbox-6DE98A29', 'bssid':b'\xec\xbe\xdd\xe7\xa1\xf0', 'sec':4, 'channel':3, 'rssi':-80}
+2022-07-07 09:13:39: {'ssid':'FreeWifi_secure', 'bssid':b'\xe4\x9e\x12\x82`J', 'sec':5, 'channel':11, 'rssi':-89}
+2022-07-07 09:13:39: {'ssid':'FreeWifi_secure', 'bssid':b'\x9a}\xa2V\x98\xcd', 'sec':5, 'channel':11, 'rssi':-93}
+2022-07-07 09:13:39: {'ssid':'freebox_AVIV', 'bssid':b'\x9a}\xa2V\x98\xcc', 'sec':2, 'channel':11, 'rssi':-96}
+2022-07-07 09:13:41: {'ssid':'Bbox-6DE98A29', 'bssid':b'\xec\xbe\xdd\xe7\xa1\xf0', 'sec':4, 'channel':3, 'rssi':-74}
+2022-07-07 09:13:41: {'ssid':'Not_a_wifi', 'bssid':b'\x08\xb4\xb1yN\x0f', 'sec':3, 'channel':11, 'rssi':-82}
+2022-07-07 09:13:41: {'ssid':'Freebox-826047', 'bssid':b'\xe4\x9e\x12\x82`H', 'sec':3, 'channel':11, 'rssi':-88}
+2022-07-07 09:13:43: {'ssid':'DIRECT-XyC1810 Series', 'bssid':b'2\xcd\xa7\xebE\x99', 'sec':3, 'channel':1, 'rssi':-90}
+2022-07-07 09:13:43: {'ssid':'Bbox-3FCA73E3', 'bssid':b'\xc0<\x04\x99\n\xc0', 'sec':4, 'channel':6, 'rssi':-91}
+2022-07-07 09:13:43: {'ssid':'Livebox-ff28', 'bssid':b'\xb0\xbb\xe5\xd1\xebx', 'sec':4, 'channel':1, 'rssi':-92}
+2022-07-07 09:13:45: {'ssid':'Bbox-6DE98A29', 'bssid':b'\xec\xbe\xdd\xe7\xa1\xf0', 'sec':4, 'channel':3, 'rssi':-80}
+2022-07-07 09:13:45: {'ssid':'Freebox-555676', 'bssid':b"4'\x92\xf0\xb9{", 'sec':3, 'channel':11, 'rssi':-94}
+2022-07-07 09:13:47: {'ssid':'SFR WiFi Mobile', 'bssid':b'ra\xf4\tbm', 'sec':5, 'channel':6, 'rssi':-90}
+2022-07-07 09:13:47: {'ssid':'SFR WiFi FON', 'bssid':b'ra\xf4\tbo', 'sec':0, 'channel':6, 'rssi':-92}
+2022-07-07 09:13:47: {'ssid':'FreeWifi_secure', 'bssid':b"4'\x92@\xefr", 'sec':5, 'channel':11, 'rssi':-92}
+2022-07-07 09:13:49: {'ssid':'freebox_Soifi', 'bssid':b'p\xfc\x8fLZ}', 'sec':4, 'channel':11, 'rssi':-89}
+2022-07-07 09:13:51: {'ssid':'freebox_Soifi', 'bssid':b'p\xfc\x8fLZ}', 'sec':4, 'channel':11, 'rssi':-90}
+2022-07-07 09:13:52: {'ssid':'Bbox-6DE98A29', 'bssid':b'\xec\xbe\xdd\xe7\xa1\xf0', 'sec':4, 'channel':3, 'rssi':-78}
+2022-07-07 09:13:54: {'ssid':'Freebox-555676', 'bssid':b"4'\x92\xf0\xb9{", 'sec':3, 'channel':11, 'rssi':-95}
+2022-07-07 09:13:56: {'ssid':'Freebox-826047', 'bssid':b'\xe4\x9e\x12\x82`H', 'sec':3, 'channel':11, 'rssi':-89}
+2022-07-07 09:13:56: {'ssid':'les lapins', 'bssid':b'la\xf4\tbn', 'sec':4, 'channel':6, 'rssi':-91}
+2022-07-07 09:13:56: {'ssid':'SFR WiFi Mobile', 'bssid':b'ra\xf4\tbm', 'sec':5, 'channel':6, 'rssi':-92}
+2022-07-07 09:13:56: {'ssid':'SFR WiFi FON', 'bssid':b'ra\xf4\tbo', 'sec':0, 'channel':6, 'rssi':-93}
+2022-07-07 09:13:56: {'ssid':'FreeWifi_secure', 'bssid':b'\x9a}\xa2V\x98\xcd', 'sec':5, 'channel':11, 'rssi':-95}
+2022-07-07 09:13:58: {'ssid':'Livebox-9442', 'bssid':b'\x84\xa0n\x86\x94F', 'sec':4, 'channel':1, 'rssi':-84}
+2022-07-07 09:13:58: {'ssid':'les lapins', 'bssid':b'la\xf4\tbn', 'sec':4, 'channel':6, 'rssi':-92}
+2022-07-07 09:13:58: {'ssid':'SFR WiFi FON', 'bssid':b'ra\xf4\tbo', 'sec':0, 'channel':6, 'rssi':-93}
+2022-07-07 09:13:58: {'ssid':'SFR WiFi Mobile', 'bssid':b'ra\xf4\tbm', 'sec':5, 'channel':6, 'rssi':-93}
+2022-07-07 09:14:02: {'ssid':'FreeWifi_secure', 'bssid':b"4'\x92@\xefr", 'sec':5, 'channel':11, 'rssi':-87}
+2022-07-07 09:14:02: {'ssid':'FreeWifi_secure', 'bssid':b"4'\x92\xf0\xb9*", 'sec':5, 'channel':11, 'rssi':-95}
+2022-07-07 09:14:04: {'ssid':'Bbox-6DE98A29', 'bssid':b'\xec\xbe\xdd\xe7\xa1\xf0', 'sec':4, 'channel':3, 'rssi':-92}
+2022-07-07 09:14:04: {'ssid':'freebox_Soifi', 'bssid':b'p\xfc\x8fLZ}', 'sec':4, 'channel':11, 'rssi':-93}
+2022-07-07 09:14:06: {'ssid':'SFR_A63F', 'bssid':b'\xcc\x19\xa8\xa7\xa6@', 'sec':4, 'channel':1, 'rssi':-88}
+2022-07-07 09:14:11: {'ssid':'les lapins', 'bssid':b'la\xf4\tbn', 'sec':4, 'channel':6, 'rssi':-73}
+2022-07-07 09:14:11: {'ssid':'SFR WiFi Mobile', 'bssid':b'ra\xf4\tbm', 'sec':5, 'channel':6, 'rssi':-75}
+2022-07-07 09:14:11: {'ssid':'SFR WiFi FON', 'bssid':b'ra\xf4\tbo', 'sec':0, 'channel':6, 'rssi':-75}
+2022-07-07 09:14:11: {'ssid':'Freebox existence', 'bssid':b'p\xfc\x8f@sl', 'sec':3, 'channel':11, 'rssi':-92}
+2022-07-07 09:14:17: {'ssid':'FreeWifi_secure', 'bssid':b'p\xfc\x8f@sn', 'sec':5, 'channel':11, 'rssi':-94}
+2022-07-07 09:14:20: {'ssid':'SFR WiFi Mobile', 'bssid':b'b5\xc0\xc2\xea\x95', 'sec':5, 'channel':6, 'rssi':-89}
+2022-07-07 09:14:20: {'ssid':'SFR WiFi FON', 'bssid':b'b5\xc0\xc2\xea\x97', 'sec':0, 'channel':6, 'rssi':-89}
+2022-07-07 09:14:20: {'ssid':'Not_a_wifi', 'bssid':b'\x08\xb4\xb1yN\x0f', 'sec':3, 'channel':11, 'rssi':-91}
+2022-07-07 09:14:22: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-89}
+2022-07-07 09:14:24: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-91}
+2022-07-07 09:14:24: {'ssid':'freebox_JWIOLD', 'bssid':b"4'\x92D\xb35", 'sec':4, 'channel':11, 'rssi':-95}
+2022-07-07 09:14:26: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-89}
+2022-07-07 09:14:26: {'ssid':'SFR WiFi FON', 'bssid':b'b5\xc0\xc2\xea\x97', 'sec':0, 'channel':6, 'rssi':-92}
+2022-07-07 09:14:30: {'ssid':'SFR WiFi FON', 'bssid':b'b5\xc0\xc2\xea\x97', 'sec':0, 'channel':6, 'rssi':-86}
+2022-07-07 09:14:31: {'ssid':'SFR_EA90', 'bssid':b'`5\xc0\xc2\xea\x96', 'sec':4, 'channel':6, 'rssi':-91}
+2022-07-07 09:14:31: {'ssid':'SFR WiFi FON', 'bssid':b'b5\xc0\xc2\xea\x97', 'sec':0, 'channel':6, 'rssi':-92}
+2022-07-07 09:14:31: {'ssid':'freebox_AVIV', 'bssid':b'\x9a}\xa2V\x98\xcc', 'sec':2, 'channel':11, 'rssi':-93}
+2022-07-07 09:14:33: {'ssid':'freebox_JWIOLD', 'bssid':b"4'\x92D\xb35", 'sec':4, 'channel':11, 'rssi':-95}
+2022-07-07 09:14:35: {'ssid':'SFR WiFi Mobile', 'bssid':b'b5\xc0\xc2\xea\x95', 'sec':5, 'channel':6, 'rssi':-87}
+2022-07-07 09:14:35: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-91}
+2022-07-07 09:14:41: {'ssid':'SFR WiFi Mobile', 'bssid':b'b5\xc0\xc2\xea\x95', 'sec':5, 'channel':6, 'rssi':-85}
+2022-07-07 09:14:41: {'ssid':'SFR WiFi FON', 'bssid':b'b5\xc0\xc2\xea\x97', 'sec':0, 'channel':6, 'rssi':-86}
+2022-07-07 09:14:43: {'ssid':'freebox_AVIV', 'bssid':b'\x9a}\xa2V\x98\xcc', 'sec':2, 'channel':11, 'rssi':-86}
+2022-07-07 09:14:45: {'ssid':'FreeWifi_secure', 'bssid':b'\x9a}\xa2V\x98\xcd', 'sec':5, 'channel':11, 'rssi':-86}
+2022-07-07 09:14:52: {'ssid':'SFR WiFi Mobile', 'bssid':b'b]Q1\x1bM', 'sec':5, 'channel':1, 'rssi':-95}
+2022-07-07 09:14:56: {'ssid':'FreeWifi_secure', 'bssid':b'\x9a}\xa2V\x98\xcd', 'sec':5, 'channel':11, 'rssi':-90}
+2022-07-07 09:14:56: {'ssid':'STABILO', 'bssid':b'\xe4]Q1\x1bN', 'sec':4, 'channel':1, 'rssi':-93}
+2022-07-07 09:14:56: {'ssid':'SFR WiFi Mobile', 'bssid':b'b]Q1\x1bM', 'sec':5, 'channel':1, 'rssi':-94}
+2022-07-07 09:14:56: {'ssid':'SFR_397F', 'bssid':b'\xcc\x19\xa8r9\x80', 'sec':4, 'channel':11, 'rssi':-96}
+2022-07-07 09:14:57: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-89}
+2022-07-07 09:14:57: {'ssid':'SFR WiFi Mobile', 'bssid':b'b5\xc0\xc2\xea\x95', 'sec':5, 'channel':6, 'rssi':-89}
+2022-07-07 09:14:59: {'ssid':'freebox_AVIV', 'bssid':b'\x9a}\xa2V\x98\xcc', 'sec':2, 'channel':11, 'rssi':-93}
+2022-07-07 09:14:59: {'ssid':'FreeWifi_secure', 'bssid':b'\x9a}\xa2V\x98\xcd', 'sec':5, 'channel':11, 'rssi':-97}
+2022-07-07 09:15:05: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-83}
+2022-07-07 09:15:05: {'ssid':'FreeWifi_secure', 'bssid':b'\x9a}\xa2V\x98\xcd', 'sec':5, 'channel':11, 'rssi':-94}
+2022-07-07 09:15:07: {'ssid':'SFR_EA90', 'bssid':b'`5\xc0\xc2\xea\x96', 'sec':4, 'channel':6, 'rssi':-86}
+2022-07-07 09:15:07: {'ssid':'SFR WiFi Mobile', 'bssid':b'b5\xc0\xc2\xea\x95', 'sec':5, 'channel':6, 'rssi':-87}
+2022-07-07 09:15:07: {'ssid':'SFR WiFi FON', 'bssid':b'b5\xc0\xc2\xea\x97', 'sec':0, 'channel':6, 'rssi':-88}
+2022-07-07 09:15:07: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-90}
+2022-07-07 09:15:07: {'ssid':'SFR WiFi Mobile', 'bssid':b'b]Q1\x1bM', 'sec':5, 'channel':1, 'rssi':-91}
+2022-07-07 09:15:11: {'ssid':'STABILO_EXT', 'bssid':b'\xa0c\x91w\x86@', 'sec':4, 'channel':1, 'rssi':-91}
+2022-07-07 09:15:12: {'ssid':'SFR_1E8F', 'bssid':b'X\xfc _\x1e\x90', 'sec':4, 'channel':1, 'rssi':-86}
+2022-07-07 09:15:12: {'ssid':'POMONE', 'bssid':b'\x08\x87\xc6$^`', 'sec':4, 'channel':1, 'rssi':-87}
+2022-07-07 09:15:12: {'ssid':'STABILO', 'bssid':b'\xe4]Q1\x1bN', 'sec':4, 'channel':1, 'rssi':-91}
+2022-07-07 09:15:16: {'ssid':'SFR-f3e8', 'bssid':b'$\x7f \x90\xf3\xee', 'sec':4, 'channel':6, 'rssi':-94}
+2022-07-07 09:15:25: {'ssid':'DIRECT-A3-HP Officejet 5740', 'bssid':b'\x98\xe7\xf4\x1b\x94\xa6', 'sec':3, 'channel':1, 'rssi':-86}
+2022-07-07 09:15:27: {'ssid':'DIRECT-A3-HP Officejet 5740', 'bssid':b'\x98\xe7\xf4\x1b\x94\xa6', 'sec':3, 'channel':1, 'rssi':-82}
+2022-07-07 09:15:57: {'ssid':'Hotspot8D62', 'bssid':b'\x00T\xaf\x9e\x8db', 'sec':4, 'channel':1, 'rssi':-90}
+2022-07-07 09:16:04: {'ssid':'Freebox-3A39B0', 'bssid':b'\xdc\x00\xb0\xa4\xf4\xd8', 'sec':3, 'channel':6, 'rssi':-92}
+2022-07-07 09:16:08: {'ssid':'Livebox-9926', 'bssid':b'D\xa6\x1e\x90\x99&', 'sec':3, 'channel':11, 'rssi':-91}
+2022-07-07 09:16:09: {'ssid':'SFR WiFi Mobile', 'bssid':b'r-\x1b\xfc\x13\r', 'sec':5, 'channel':1, 'rssi':-93}
+2022-07-07 09:16:11: {'ssid':'HotspotA0A0', 'bssid':b'\x00T\xaf\xef\xa0\xa0', 'sec':4, 'channel':11, 'rssi':-90}
+2022-07-07 09:16:13: {'ssid':'HotspotA0A0', 'bssid':b'\x00T\xaf\xef\xa0\xa0', 'sec':4, 'channel':11, 'rssi':-87}
+2022-07-07 09:16:15: {'ssid':'HotspotA0A0', 'bssid':b'\x00T\xaf\xef\xa0\xa0', 'sec':4, 'channel':11, 'rssi':-78}
+2022-07-07 09:16:37: {'ssid':'Midas-Corporate', 'bssid':b'*\xeeRb`\x9a', 'sec':3, 'channel':11, 'rssi':-77}
+2022-07-07 09:16:37: {'ssid':'MIDAS_FRANCE_TOULOUSE_NARBONNE', 'bssid':b'\x14I\xbcJ\x8e\xa8', 'sec':3, 'channel':6, 'rssi':-92}
+2022-07-07 09:16:39: {'ssid':'Midas-Corporate', 'bssid':b'*\xeeRb`\x9a', 'sec':3, 'channel':11, 'rssi':-79}
+2022-07-07 09:16:39: {'ssid':'MIDAS - WIFI GRATUIT', 'bssid':b'{\xeeRb`\x9a', 'sec':0, 'channel':11, 'rssi':-82}
+2022-07-07 09:16:41: {'ssid':'MIDAS - WIFI GRATUIT', 'bssid':b'{\xeeRb`\x9a', 'sec':0, 'channel':11, 'rssi':-76}
+2022-07-07 09:16:41: {'ssid':'Midas-Corporate', 'bssid':b'*\xeeRb`\x9a', 'sec':3, 'channel':11, 'rssi':-76}
+2022-07-07 09:16:41: {'ssid':'Freebox-40923B', 'bssid':b"4'\x92@\x92<", 'sec':3, 'channel':6, 'rssi':-86}
+2022-07-07 09:16:41: {'ssid':'DIRECT-26-HP OfficeJet 5200', 'bssid':b'\x06\x0e<\\\xa2&', 'sec':3, 'channel':1, 'rssi':-90}
+2022-07-07 09:16:43: {'ssid':'Midas-Corporate', 'bssid':b'*\xeeRb`\x9a', 'sec':3, 'channel':11, 'rssi':-77}
+2022-07-07 09:16:45: {'ssid':'DIRECT-B5-HP OfficeJet Pro 9020', 'bssid':b'J\x9e\xbdf/\xb5', 'sec':3, 'channel':6, 'rssi':-87}
+2022-07-07 09:16:46: {'ssid':'Midas-Corporate', 'bssid':b'*\xeeRb`\x9a', 'sec':3, 'channel':11, 'rssi':-81}
+2022-07-07 09:16:46: {'ssid':'MIDAS - WIFI GRATUIT', 'bssid':b'{\xeeRb`\x9a', 'sec':0, 'channel':11, 'rssi':-82}
+2022-07-07 09:16:48: {'ssid':'MIDAS - WIFI GRATUIT', 'bssid':b'{\xeeRb`\x9a', 'sec':0, 'channel':11, 'rssi':-80}
+2022-07-07 09:16:50: {'ssid':'MIDAS_FRANCE_TOULOUSE_NARBONNE', 'bssid':b'\x14I\xbcJ\x8e\xa8', 'sec':3, 'channel':6, 'rssi':-87}
+2022-07-07 09:16:52: {'ssid':'MIDAS - WIFI GRATUIT', 'bssid':b'{\xeeRb`\x9a', 'sec':0, 'channel':11, 'rssi':-83}
+2022-07-07 09:16:54: {'ssid':'DIRECT-B5-HP OfficeJet Pro 9020', 'bssid':b'J\x9e\xbdf/\xb5', 'sec':3, 'channel':6, 'rssi':-86}
+2022-07-07 09:16:54: {'ssid':'Midas-Corporate', 'bssid':b'*\xeeRb`\x9a', 'sec':3, 'channel':11, 'rssi':-86}
+2022-07-07 09:16:58: {'ssid':'DIRECT-26-HP OfficeJet 5200', 'bssid':b'\x06\x0e<\\\xa2&', 'sec':3, 'channel':1, 'rssi':-82}
+2022-07-07 09:16:58: {'ssid':'My VW 9424', 'bssid':b'\x1aH\xca\x0c\x8d{', 'sec':3, 'channel':6, 'rssi':-91}
+2022-07-07 09:16:58: {'ssid':'FreeWifi_secure', 'bssid':b'\x14\x0cvr\xb9\x06', 'sec':5, 'channel':11, 'rssi':-97}
+2022-07-07 09:16:59: {'ssid':'Bbox-78E9896B', 'bssid':b'l8\xa1\x1dJ\xc8', 'sec':4, 'channel':6, 'rssi':-89}
+2022-07-07 09:17:01: {'ssid':'MIDAS - WIFI GRATUIT', 'bssid':b'{\xeeRb`\x9a', 'sec':0, 'channel':11, 'rssi':-84}
+2022-07-07 09:17:03: {'ssid':'Midas-Corporate', 'bssid':b'*\xeeRb`\x9a', 'sec':3, 'channel':11, 'rssi':-94}
+2022-07-07 09:17:03: {'ssid':'Freebox-4C3B02', 'bssid':b'p\xfc\x8f\xb8\xbf|', 'sec':3, 'channel':11, 'rssi':-95}
+2022-07-07 09:17:05: {'ssid':'Foncia', 'bssid':b'\x9c\x8c\xd8\xf6\xc2\xa3', 'sec':0, 'channel':11, 'rssi':-95}
+2022-07-07 09:17:11: {'ssid':'GaronaImmobilier', 'bssid':b'\xbc\xa5\x11\xbd\xc6`', 'sec':3, 'channel':6, 'rssi':-86}
+2022-07-07 09:17:12: {'ssid':'SFR-5cc8', 'bssid':b'@e\xa3\x0e\\\xce', 'sec':4, 'channel':1, 'rssi':-82}
+2022-07-07 09:17:16: {'ssid':'FreeWifi_secure', 'bssid':b'p\xfc\x8fEg\xfc', 'sec':5, 'channel':8, 'rssi':-92}
+2022-07-07 09:17:18: {'ssid':'Livebox-9250', 'bssid':b'0|\xb2\xea\x92T', 'sec':4, 'channel':1, 'rssi':-84}
+2022-07-07 09:17:20: {'ssid':'SFR WiFi Mobile', 'bssid':b'r5\xc0[\xf9\xe5', 'sec':5, 'channel':1, 'rssi':-90}
+2022-07-07 09:17:20: {'ssid':'SFR_F9E0', 'bssid':b'`5\xc0[\xf9\xe6', 'sec':4, 'channel':1, 'rssi':-90}
+2022-07-07 09:17:20: {'ssid':'SFR WiFi FON', 'bssid':b'r5\xc0[\xf9\xe7', 'sec':0, 'channel':1, 'rssi':-90}
+2022-07-07 09:17:22: {'ssid':'Freebox-8C728A', 'bssid':b'\xe4\x9e\x12\x8cr\x8b', 'sec':3, 'channel':6, 'rssi':-85}
+2022-07-07 09:17:22: {'ssid':'SFR WiFi FON', 'bssid':b'r5\xc0[\xf9\xe7', 'sec':0, 'channel':1, 'rssi':-93}
+2022-07-07 09:17:25: {'ssid':'DIRECT-67-HP OfficeJet 4650', 'bssid':b'\xb0Z\xda\xf6\x04i', 'sec':3, 'channel':6, 'rssi':-90}
+2022-07-07 09:17:25: {'ssid':'Bjx-family', 'bssid':b'|\xc1w\x83\x98P', 'sec':3, 'channel':6, 'rssi':-91}
+2022-07-07 09:17:31: {'ssid':'FreeWifi_secure', 'bssid':b'\xf4\xca\xe5\xf7v\x1a', 'sec':5, 'channel':6, 'rssi':-96}
+2022-07-07 09:17:33: {'ssid':'Express_Yourself', 'bssid':b'p\xfc\x8f\xe4\x9bx', 'sec':4, 'channel':11, 'rssi':-94}
+2022-07-07 09:17:35: {'ssid':'iPhone 8 ', 'bssid':b'\n\xde:\r\x8av', 'sec':3, 'channel':1, 'rssi':-86}
+2022-07-07 09:17:37: {'ssid':'freebox_EQPYXP', 'bssid':b'\xe4\x9e\x12y\x829', 'sec':4, 'channel':11, 'rssi':-79}
+2022-07-07 09:17:37: {'ssid':'iPhone 8 ', 'bssid':b'\n\xde:\r\x8av', 'sec':3, 'channel':1, 'rssi':-88}
+2022-07-07 09:17:40: {'ssid':'freebox_GC', 'bssid':b'\xf4\xca\xe5\xf7v\x18', 'sec':4, 'channel':6, 'rssi':-93}
+2022-07-07 09:17:46: {'ssid':'freebox_GC', 'bssid':b'\xf4\xca\xe5\xf7v\x18', 'sec':4, 'channel':6, 'rssi':-90}
+2022-07-07 09:17:49: {'ssid':'freebox_GC', 'bssid':b'\xf4\xca\xe5\xf7v\x18', 'sec':4, 'channel':6, 'rssi':-87}
+2022-07-07 09:17:49: {'ssid':'Freebox-872C44', 'bssid':b'\xe4\x9e\x12\x87,E', 'sec':3, 'channel':6, 'rssi':-93}
+2022-07-07 09:17:53: {'ssid':'Livebox-F438', 'bssid':b'\x8c\x19\xb5\x9b\xf48', 'sec':3, 'channel':1, 'rssi':-77}
+2022-07-07 09:18:01: {'ssid':'freebox_GC', 'bssid':b'\xf4\xca\xe5\xf7v\x18', 'sec':4, 'channel':6, 'rssi':-94}
+2022-07-07 09:18:12: {'ssid':'SFR-a0a8', 'bssid':b'@e\xa3\x03\xa0\xae', 'sec':4, 'channel':1, 'rssi':-81}
+2022-07-07 09:18:12: {'ssid':'Livebox-F438', 'bssid':b'\x8c\x19\xb5\x9b\xf48', 'sec':3, 'channel':1, 'rssi':-93}
+2022-07-07 09:18:37: {'ssid':'FreeWifi_secure', 'bssid':b'h\xa3x\n^\x95', 'sec':5, 'channel':1, 'rssi':-91}
+2022-07-07 09:18:37: {'ssid':'FreeWifi_secure', 'bssid':b'\x14\x0cv~0\x82', 'sec':5, 'channel':6, 'rssi':-91}
+2022-07-07 09:18:41: {'ssid':'SFR_C3C8', 'bssid':b'\xcc-\x1b\xb0\xc3\xce', 'sec':4, 'channel':6, 'rssi':-93}
+2022-07-07 09:18:45: {'ssid':'FreeWifi_secure', 'bssid':b'p\xfc\x8f>\x0b\xa1', 'sec':5, 'channel':6, 'rssi':-90}
+2022-07-07 09:18:47: {'ssid':'Freebox-563BA2', 'bssid':b'\xe4\x9e\x12g\x16\x98', 'sec':3, 'channel':11, 'rssi':-96}
+2022-07-07 09:18:52: {'ssid':'Freebox-563BA2', 'bssid':b'\xe4\x9e\x12g\x16\x98', 'sec':3, 'channel':11, 'rssi':-92}
+2022-07-07 09:19:05: {'ssid':'SFR WiFi FON', 'bssid':b'b-\x1b\xf3\x81\xf7', 'sec':0, 'channel':1, 'rssi':-93}
+2022-07-07 09:19:05: {'ssid':'FreeWifi_secure', 'bssid':b'\xe4\x9e\x12g\x16\x9a', 'sec':5, 'channel':11, 'rssi':-93}
+2022-07-07 09:19:07: {'ssid':'DIRECT-BMW 86339', 'bssid':b'b\xe6\xf0\xc6\n\xe5', 'sec':3, 'channel':11, 'rssi':-89}
+2022-07-07 09:19:09: {'ssid':'Numericable-df0a', 'bssid':b'\xa0\x1b}}\xdf\x10', 'sec':4, 'channel':6, 'rssi':-92}
+2022-07-07 09:19:09: {'ssid':'Freebox-563BA2', 'bssid':b'\xe4\x9e\x12g\x16\x98', 'sec':3, 'channel':11, 'rssi':-96}
+2022-07-07 09:19:14: {'ssid':'Freebox-563BA2', 'bssid':b'\xe4\x9e\x12g\x16\x98', 'sec':3, 'channel':11, 'rssi':-93}
+2022-07-07 09:19:16: {'ssid':'ups', 'bssid':b'H\x9b\xd5\xfb\xc0\xc1', 'sec':0, 'channel':11, 'rssi':-95}
+2022-07-07 09:19:27: {'ssid':'Freebox-606FDC', 'bssid':b"4'\x92\xed[\x94", 'sec':3, 'channel':1, 'rssi':-85}
+2022-07-07 09:19:36: {'ssid':'Prive', 'bssid':b'\xe6\x8d\x8c\xe00\xc4', 'sec':2, 'channel':1, 'rssi':-91}
+2022-07-07 09:19:38: {'ssid':'Corep', 'bssid':b'\xe4\x8d\x8c\xe00\xc4', 'sec':0, 'channel':1, 'rssi':-92}
+2022-07-07 09:19:38: {'ssid':'Prive', 'bssid':b'\xe6\x8d\x8c\xe00\xc4', 'sec':2, 'channel':1, 'rssi':-92}
+2022-07-07 09:19:40: {'ssid':'Bbox-21351324', 'bssid':b'D\xd4S\xc9\xeap', 'sec':4, 'channel':1, 'rssi':-84}
+
+
