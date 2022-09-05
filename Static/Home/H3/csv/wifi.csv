@@ -1,0 +1,3608 @@
+Time,ssid,bssid,sec,channel,rssi
+08:07:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-57
+08:07:54,iPhone,"b'n""Fe\xedy'",3,6,-62
+08:07:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-56
+08:07:56,iPhone,"b'n""Fe\xedy'",3,6,-63
+08:07:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-92
+08:07:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-94
+08:07:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-53
+08:07:58,iPhone,"b'n""Fe\xedy'",3,6,-62
+08:07:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-51
+08:07:59,iPhone,"b'n""Fe\xedy'",3,6,-63
+08:07:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-92
+08:07:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-93
+08:07:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-93
+08:08:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-52
+08:08:01,iPhone,"b'n""Fe\xedy'",3,6,-61
+08:08:03,iPhone,"b'n""Fe\xedy'",3,6,-64
+08:08:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:08:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:08:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:08:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:08:05,iPhone,"b'n""Fe\xedy'",3,6,-61
+08:08:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-62
+08:08:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-82
+08:08:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-47
+08:08:07,iPhone,"b'n""Fe\xedy'",3,6,-69
+08:08:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-53
+08:08:09,iPhone,"b'n""Fe\xedy'",3,6,-64
+08:08:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-52
+08:08:11,iPhone,"b'n""Fe\xedy'",3,6,-74
+08:08:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-83
+08:08:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-57
+08:08:13,iPhone,"b'n""Fe\xedy'",3,6,-61
+08:08:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-96
+08:08:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-57
+08:08:14,iPhone,"b'n""Fe\xedy'",3,6,-66
+08:08:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-51
+08:08:16,iPhone,"b'n""Fe\xedy'",3,6,-63
+08:08:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:08:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-48
+08:08:18,iPhone,"b'n""Fe\xedy'",3,6,-65
+08:08:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-49
+08:08:20,iPhone,"b'n""Fe\xedy'",3,6,-69
+08:08:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:08:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-92
+08:08:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-93
+08:08:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-49
+08:08:22,iPhone,"b'n""Fe\xedy'",3,6,-66
+08:08:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-49
+08:08:24,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:08:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:08:24,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-92
+08:08:24,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-93
+08:08:24,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-93
+08:08:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-50
+08:08:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-93
+08:08:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-52
+08:08:28,iPhone,"b'n""Fe\xedy'",3,6,-61
+08:08:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:08:30,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:08:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-61
+08:08:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:08:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:08:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:08:30,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:08:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-54
+08:08:32,iPhone,"b'n""Fe\xedy'",3,6,-64
+08:08:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:08:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-57
+08:08:33,iPhone,"b'n""Fe\xedy'",3,6,-61
+08:08:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:08:35,iPhone,"b'n""Fe\xedy'",3,6,-76
+08:08:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:08:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:08:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:08:37,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:08:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:08:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-82
+08:08:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:08:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:08:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:08:39,iPhone,"b'n""Fe\xedy'",3,6,-61
+08:08:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:08:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:08:39,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:08:39,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:08:39,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:08:41,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:08:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:08:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:08:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:08:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:08:43,iPhone,"b'n""Fe\xedy'",3,6,-59
+08:08:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:08:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:08:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:08:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:08:45,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:08:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:08:45,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:08:45,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:08:45,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:08:47,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:08:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:08:49,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:08:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:08:51,iPhone,"b'n""Fe\xedy'",3,6,-59
+08:08:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:08:52,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:08:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:08:54,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:08:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:08:56,iPhone,"b'n""Fe\xedy'",3,6,-62
+08:08:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:08:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:08:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:08:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:08:58,iPhone,"b'n""Fe\xedy'",3,6,-59
+08:08:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:08:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:09:00,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:09:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:09:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:09:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:09:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:09:02,iPhone,"b'n""Fe\xedy'",3,6,-57
+08:09:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:09:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-86
+08:09:04,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:09:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:09:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:09:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:09:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:09:06,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:09:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:09:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:09:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:09:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:09:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:09:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:09:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:09:10,iPhone,"b'n""Fe\xedy'",3,6,-59
+08:09:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:09:11,iPhone,"b'n""Fe\xedy'",3,6,-61
+08:09:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:09:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:09:13,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:09:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:09:15,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:09:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:09:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:09:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:09:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:09:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:09:17,iPhone,"b'n""Fe\xedy'",3,6,-57
+08:09:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:09:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:09:17,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:09:17,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:09:17,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:09:19,iPhone,"b'n""Fe\xedy'",3,6,-59
+08:09:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:09:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:09:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:09:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:09:21,iPhone,"b'n""Fe\xedy'",3,6,-58
+08:09:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-61
+08:09:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:09:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:09:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:09:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:23,iPhone,"b'n""Fe\xedy'",3,6,-62
+08:09:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:09:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:09:25,iPhone,"b'n""Fe\xedy'",3,6,-63
+08:09:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:09:27,iPhone,"b'n""Fe\xedy'",3,6,-60
+08:09:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:09:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:09:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:09:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:09:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:09:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:09:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:09:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:09:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-70
+08:09:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:09:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:09:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:09:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-69
+08:09:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:09:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:09:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:09:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:09:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:09:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:09:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:09:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:09:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:09:44,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:09:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:09:44,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:09:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:09:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:09:46,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:09:46,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:09:46,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:09:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-62
+08:09:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:09:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:09:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:09:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:09:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:09:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:09:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:09:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-62
+08:09:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:09:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:09:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:09:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:09:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:09:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:09:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:09:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:09:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:09:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:10:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:10:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:10:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:10:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:10:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:10:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:10:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:10:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:10:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:10:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:10:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:10:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:10:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:10:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:10:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:10:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:10:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:10:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:10:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:10:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:10:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:10:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:10:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:10:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:10:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:10:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:10:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:10:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:10:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:10:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:10:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-60
+08:10:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:10:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:10:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:10:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:10:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:10:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:10:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:10:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:10:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:10:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:10:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:10:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:10:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:10:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:10:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-61
+08:10:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:10:46,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:10:46,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:10:46,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:10:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:10:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:10:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:10:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:10:50,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:10:50,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:10:50,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:10:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:10:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:10:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:10:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:10:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:10:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:10:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:10:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:10:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:10:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:10:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:10:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:10:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:10:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:10:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:10:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:10:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:01,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:11:01,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:11:01,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:11:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:11:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:11:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:11:07,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:07,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:07,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:11:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:11:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:11:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-83
+08:11:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:11:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:11:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:11:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:11:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:11:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:11:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:11:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:11:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:16,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:16,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:16,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:11:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:11:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:11:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:11:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:11:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:11:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:11:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:11:28,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:28,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:28,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:11:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:11:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:11:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:11:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:11:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:11:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:11:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:11:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:11:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:11:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:11:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:11:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:11:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:11:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:11:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:11:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:11:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:11:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:11:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:11:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:11:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:11:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:11:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:11:50,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:11:50,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:11:50,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:11:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:11:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:11:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:11:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:11:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:11:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:11:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:11:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:11:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:11:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:11:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:11:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:11:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:12:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:12:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:12:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:12:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:12:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:12:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:12:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:12:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:12:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:12:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:12:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-62
+08:12:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:12:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:12:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:12:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:12:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-84
+08:12:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:12:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:12:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:12:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:12:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:12:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:12:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:12:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:12:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:12:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:12:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:12:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:12:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:12:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:12:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:12:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:12:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:12:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:12:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:12:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:12:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:28,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:12:28,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:12:28,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:12:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:12:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:12:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:12:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:12:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:12:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:12:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:12:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:12:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:12:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:12:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:12:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:12:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:12:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:12:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:12:40,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:40,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:40,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:12:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:12:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:12:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:12:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:44,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:44,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:12:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:12:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:12:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:12:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:12:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:12:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:12:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:12:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:12:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:12:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:12:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:12:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:12:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:12:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:12:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:12:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:13:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:13:01,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:13:01,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:13:01,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:13:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:13:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:13:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:13:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-71
+08:13:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:13:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:13:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:13:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:13:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:13:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:13:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:13:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:13:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:13:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:13:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:13:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:13:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:13:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:13:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:13:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:13:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:13:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:13:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:13:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:13:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:13:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:13:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:13:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:13:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:13:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:13:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:13:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:13:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:13:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:13:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:13:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:13:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:13:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:13:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:13:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:13:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:13:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:13:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:13:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:13:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:13:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:13:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:13:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:13:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:13:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:46,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:13:46,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:13:46,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:13:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:13:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:13:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:13:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:13:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:13:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:13:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:13:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:13:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:13:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:13:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:13:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:13:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:14:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:14:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:14:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-61
+08:14:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:14:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:14:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:14:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:14:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:14:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:14:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:14:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:14:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:14:12,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:14:12,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:14:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:14:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:14:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:14:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:14:18,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:14:18,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:14:18,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:14:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:14:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:14:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:14:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:14:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:14:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:14:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:14:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:14:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:14:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:14:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:14:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:14:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:14:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:14:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:14:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:14:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:14:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:14:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:14:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:14:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:14:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:14:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:14:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:14:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:14:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:14:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:14:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:14:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:14:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:14:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:14:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:44,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:14:44,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:14:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:14:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:14:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:14:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:14:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:14:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:14:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:14:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:14:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:50,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:14:50,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:14:50,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:14:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:14:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:14:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:14:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:14:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:14:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:14:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:14:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:14:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:14:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:14:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:14:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:14:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:14:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:14:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:14:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:15:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:15:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:15:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:15:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:02,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:02,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:02,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:15:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:15:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:15:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:15:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:15:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:15:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:15:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:15:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:15:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:15:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:15:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:15:11,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:11,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:15:11,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:15:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:15:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:15:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:15:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:15:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:17,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:15:17,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:15:17,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:15:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:15:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:15:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:15:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:15:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:15:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:15:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:15:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:15:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:15:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:15:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:15:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:15:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:15:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:15:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:15:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:15:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:15:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:15:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:15:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:15:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:15:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:15:40,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:15:40,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:15:40,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:15:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:15:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:15:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:15:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:15:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:15:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:15:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:15:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:15:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:15:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:15:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:15:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:15:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:15:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:15:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:15:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:15:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:15:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:15:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:15:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:15:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:15:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:15:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:15:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:16:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:16:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:16:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:16:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:16:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:16:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:16:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:16:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:16:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:16:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:16:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:16:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:16:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:16:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:16:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:16:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:16:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:16:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:16:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:16:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:16:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:16:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:16:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:16:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:16:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:16:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:16:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:16:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:16:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:16:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:16:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:16:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:16:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:16:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:16:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:16:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:16:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:16:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:16:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:16:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:16:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:16:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:16:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:16:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:16:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:16:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:16:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:16:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:16:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:16:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:16:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:16:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-83
+08:16:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:16:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:16:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:16:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:16:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:16:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:16:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:16:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:16:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:16:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:16:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:16:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:16:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:16:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-85
+08:16:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:16:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:16:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:16:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:16:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:16:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:16:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:16:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:16:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:16:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:16:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:17:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:17:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:17:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:17:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:17:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-85
+08:17:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:17:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:17:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:17:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:17:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:17:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:17:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:17:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:17:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:17:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:17:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:17:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:17:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:17:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:17:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:17:12,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:12,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:17:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:17:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:17:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:17:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:17:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:17:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:18,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:17:18,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:18,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:17:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:17:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:17:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:17:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:17:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:17:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:17:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:17:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:17:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:17:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:17:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:17:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:17:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:17:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:17:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:17:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:17:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:17:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:17:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:17:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:17:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:17:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:17:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:17:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:39,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:17:39,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:17:39,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:17:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:17:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:17:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:17:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:17:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:17:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:17:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:17:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:17:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:17:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:17:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:17:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:17:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:17:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:17:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:17:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:17:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:18:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:18:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:18:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:18:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:18:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:18:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:18:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:18:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:18:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:18:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:18:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:18:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:18:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:18:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:18:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:18:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:18:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:18:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:18:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:18:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:18:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:18:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:18:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:18:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:22,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:18:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:18:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:18:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:18:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:18:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:18:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:18:28,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:28,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:18:28,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:18:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:18:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:18:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:18:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:18:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:18:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:18:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:18:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:18:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:18:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:18:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:18:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:18:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:18:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:18:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:18:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:18:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:18:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:18:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:18:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:18:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:18:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:18:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:18:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:18:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:47,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:18:47,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:18:47,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:18:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:18:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:18:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:18:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:18:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:18:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:18:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:18:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:18:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:18:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:18:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:18:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:18:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:18:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:18:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:18:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:18:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:18:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:18:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:18:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:19:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:19:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:19:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:19:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:19:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:19:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-85
+08:19:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:19:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-80
+08:19:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:19:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:19:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:19:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:19:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:19:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:19:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-91
+08:19:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-88
+08:19:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:19:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-83
+08:19:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:19:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:19:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:19:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:19:17,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:19:17,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:19:17,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:19:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:19:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:19:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:19:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:19:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:19:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:19:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:19:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:19:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:19:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:28,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:19:28,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:19:28,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:19:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:19:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:19:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:19:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:19:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:19:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:19:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:19:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:19:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:19:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:19:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:19:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:19:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:19:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:19:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:19:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:19:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:19:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:19:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:19:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:19:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:19:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:19:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:19:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:19:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:19:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:19:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:47,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:19:47,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:19:47,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:19:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:19:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:19:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:19:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:19:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:19:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:19:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:19:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:19:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:19:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:19:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:19:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:19:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:19:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:19:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:19:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:19:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:19:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:20:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:20:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:20:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:20:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:20:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:20:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:20:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:20:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:20:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-80
+08:20:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:20:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:20:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:20:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:20:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:20:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:20:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:20:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:20:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:20:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:20:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:20:22,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:20:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:20:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:20:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:20:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:20:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:20:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:20:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:20:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:20:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:20:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:20:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:20:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:20:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-80
+08:20:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:20:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:20:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:20:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:20:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:20:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:20:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:20:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:20:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:20:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:20:39,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:20:39,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:20:39,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:20:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:20:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:20:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:20:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:20:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:20:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:20:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:20:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:20:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:20:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:20:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:20:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:20:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:20:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:20:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:20:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:20:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:20:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:20:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:20:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-84
+08:20:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:20:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:20:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:20:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:20:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:20:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:20:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:20:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:21:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:21:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:21:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:21:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:21:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:21:02,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:21:02,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:21:02,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:21:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:21:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:21:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:21:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:21:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:21:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-82
+08:21:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:21:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-80
+08:21:11,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:11,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:11,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:21:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:21:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:21:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:21:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:21:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:21:17,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:17,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:17,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:21:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:21:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:21:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:21:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:21:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:21:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:21:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:21:24,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:21:24,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:21:24,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:21:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:21:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:21:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:21:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:21:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:21:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-86
+08:21:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:21:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:21:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:21:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:21:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:21:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:21:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:21:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:21:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:21:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:45,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:21:45,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:21:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:21:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:21:47,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:47,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:21:47,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:21:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:21:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:21:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:21:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:21:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:21:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:21:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:21:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:21:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:21:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:21:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:21:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:21:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:21:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:21:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:21:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:21:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:22:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:22:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:22:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:22:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:22:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:22:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:22:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:22:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:22:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:22:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:22:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:22:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:22:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:22:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:22:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:22:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:22:12,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:22:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:22:12,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:22:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:22:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:22:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:22:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:22:18,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:22:18,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:22:18,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:22:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:22:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:22:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:22:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:22:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:22:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:22:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:22:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:22:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:22:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:22:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:22:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:22:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:22:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:22:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:22:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:22:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:22:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:22:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:22:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:22:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:22:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:22:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:22:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:22:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:22:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:22:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:22:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:22:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:22:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:22:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:22:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:22:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:22:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:22:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:22:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:44,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:22:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:22:44,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:22:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:22:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:46,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:22:46,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:22:46,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:22:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:22:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:22:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:22:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:22:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:22:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:22:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:22:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:22:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:22:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:22:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:22:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:22:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-84
+08:22:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:22:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:22:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:22:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:22:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:22:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:22:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:22:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-87
+08:23:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:23:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:01,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:23:01,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:23:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:23:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:23:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:23:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:23:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:23:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:23:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:23:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:23:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:23:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:23:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:23:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:23:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:23:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:23:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:23:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:23:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:23:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:23:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:23:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:23:16,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:23:16,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:23:16,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:23:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:23:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:23:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:23:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:23:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-95
+08:23:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-95
+08:23:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:23:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:23:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:23:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:23:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:23:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:23:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:23:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:23:30,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:23:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:23:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:23:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:23:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:23:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:23:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:23:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:23:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:23:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:23:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:23:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:23:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-84
+08:23:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:23:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:23:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:23:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:23:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:23:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:23:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:23:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:23:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:23:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:23:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:23:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:23:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:23:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-62
+08:23:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:23:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:23:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-71
+08:23:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:23:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:23:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:23:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:23:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:23:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:23:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:23:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:23:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:23:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:23:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:23:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:23:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:23:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:23:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:23:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:23:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:23:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:24:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:24:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:24:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:24:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:24:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:24:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:24:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:24:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:24:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:24:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:24:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:24:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:24:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:24:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:24:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:24:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:24:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:24:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:24:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:24:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:24:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:24:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:24:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:24:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:24:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:24:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:24:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:24:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:24:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:24:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-80
+08:24:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:24:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:24:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:24:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-84
+08:24:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:24:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:24:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:24:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:24:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:24:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:24:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:24:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:24:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:24:30,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:24:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:24:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-88
+08:24:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:24:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:24:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:24:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:24:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:24:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:24:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:24:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:24:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:24:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:24:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:24:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:24:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:24:45,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:24:45,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:24:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:24:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:24:47,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:24:47,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:24:47,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:24:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:24:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:24:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:24:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:24:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:24:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:24:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:24:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:24:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:24:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:24:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:24:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:24:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:24:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:24:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:24:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:24:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:24:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:24:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:24:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:24:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:24:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:24:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:25:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:25:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-83
+08:25:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:25:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:25:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:25:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:25:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:25:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:25:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:25:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:25:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:25:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:25:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:25:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:25:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:25:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:25:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:25:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:25:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:25:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:25:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:25:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:16,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:16,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:25:16,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:25:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:25:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:25:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:25:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:25:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:25:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:25:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:22,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:25:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:25:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:25:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:25:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:25:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:25:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:25:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:25:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:25:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:25:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:25:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:25:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:25:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:25:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:25:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:25:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:25:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:25:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:25:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:25:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:25:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:25:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:25:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:25:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:25:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:25:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:25:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:25:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:25:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:25:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:25:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:25:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:25:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:25:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:25:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:25:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:25:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:25:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:50,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:50,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:25:50,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:25:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:25:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:25:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:25:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:25:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:25:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:25:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:25:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:25:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:25:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:25:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:25:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:25:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:25:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:26:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:26:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:26:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:26:02,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:26:02,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:26:02,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:26:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:26:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:26:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:26:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:26:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:26:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:26:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:26:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:26:07,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:26:07,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:26:07,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:26:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:26:11,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:26:11,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:26:11,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:26:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:26:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:26:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:26:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:26:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:26:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:26:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:26:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:26:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:26:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:26:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:26:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:26:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:26:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:26:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:26:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:26:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:26:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:26:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:30,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:26:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:26:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:26:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:26:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:26:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:26:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:26:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:26:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:26:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:26:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:26:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:26:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:26:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:26:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:26:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:26:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:26:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:26:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:26:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:26:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:26:47,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:26:47,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:26:47,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:26:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:26:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:26:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:26:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:26:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:26:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:26:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:26:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:26:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:26:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:26:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:26:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:26:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:26:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:26:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:26:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:26:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:26:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:26:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:26:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:27:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:27:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:27:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:27:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:27:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:27:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:27:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:27:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:27:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:27:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:27:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:27:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:27:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:27:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:27:16,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:16,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:16,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:27:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:18,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:18,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:27:18,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:27:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:27:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:27:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:27:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:27:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:27:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:27:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:27:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:27:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:27:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:27:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:27:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:27:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:27:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:27:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:27:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:27:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-71
+08:27:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:27:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:27:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:27:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:27:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:27:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:27:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:27:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:27:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:27:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:40,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:27:40,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-84
+08:27:40,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:27:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:27:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:27:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:27:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:27:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:27:44,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:27:44,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:27:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:27:46,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:27:46,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:27:46,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:27:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:27:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:27:50,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:50,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:50,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:27:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:27:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:27:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:27:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:27:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:27:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:27:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:27:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:27:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:27:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:27:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:27:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:27:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:28:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:28:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:28:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:02,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:28:02,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:02,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:28:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:28:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:28:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:28:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:28:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:28:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:28:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:07,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:28:07,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:28:07,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:28:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:28:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:28:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:28:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:28:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:11,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:28:11,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:28:11,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:28:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:28:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:28:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:28:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:28:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:28:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:28:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:28:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:28:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:28:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:28:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:28:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:28:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:28:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:28:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:28:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:28:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:28:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:28:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:28:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:28:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:28:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:28:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:28:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:28:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:28:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:28:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:28:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:28:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:28:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:28:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:28:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:28:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:28:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:28:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:28:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:28:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:28:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:28:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:28:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:28:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:28:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:28:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:28:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:28:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:28:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:28:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:28:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:28:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:28:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:28:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:28:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:28:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:28:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:28:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:28:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:28:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:28:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:28:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:28:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:28:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:29:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:29:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:02,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:29:02,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:02,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:29:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:29:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:29:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:29:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:29:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:29:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:29:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:29:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:29:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:29:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:29:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:29:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:12,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:12,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:29:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:29:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:29:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:29:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:29:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:29:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:29:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:29:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:29:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:29:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:29:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:29:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:29:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:29:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:29:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:29:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:29:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:29:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:29:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:29:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:29:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:29:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:29:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:29:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:29:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:29:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:29:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:29:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:29:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:29:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:29:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:29:44,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:29:44,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:29:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:29:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:29:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:29:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:29:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:29:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:50,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:29:50,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:29:50,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:29:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:29:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:29:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:29:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:29:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:29:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:29:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:29:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:29:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-84
+08:29:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:29:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:29:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:29:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:29:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:29:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:29:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:29:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:30:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:30:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:30:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:30:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:30:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:30:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:30:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:07,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:30:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:30:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:30:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:30:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:30:12,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:30:12,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:30:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:30:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:30:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:30:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:30:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:30:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:30:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:30:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:30:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:30:22,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:30:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:30:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:24,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:30:24,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:30:24,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:30:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:30:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:30:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:30:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:30:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:30:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:30:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:30:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:30:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:30:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:30:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:30:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:30:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:30:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:30:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:30:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:30:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:30:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:30:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:30:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:30:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:30:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:30:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:30:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:30:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:30:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:30:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:30:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:30:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:30:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:30:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:30:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:30:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:30:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:30:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:30:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:30:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:30:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:30:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:30:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:31:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:31:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:31:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:31:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:31:01,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:31:01,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:31:01,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:31:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:31:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:31:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:31:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:31:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:31:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:31:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:31:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:31:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:31:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:31:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:31:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:31:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:31:11,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:31:11,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:31:11,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:31:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:31:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:31:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:31:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:31:17,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:31:17,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:31:17,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:31:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:31:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:31:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:31:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:31:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:31:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:31:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:31:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:31:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:31:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:31:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:31:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:31:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:31:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:31:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:31:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:31:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:31:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:31:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:31:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:31:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:31:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:31:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:31:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:31:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:31:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:31:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:31:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:39,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-84
+08:31:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:31:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:31:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:31:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:31:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:31:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:31:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:31:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:31:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:31:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:31:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:31:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:31:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:31:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:31:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:31:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:31:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:31:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:31:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:31:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:32:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:32:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:32:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:32:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:32:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:32:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:32:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:32:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:32:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:32:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:32:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:32:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:32:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:32:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:32:07,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:32:07,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:32:07,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:32:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:32:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:32:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:32:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:32:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:32:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:32:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:32:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:32:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:32:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:32:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:32:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:32:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:32:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:32:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:32:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:32:22,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:32:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:32:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:32:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:32:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:32:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:32:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:32:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:32:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:32:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:32:30,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:32:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:32:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:32:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:32:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:32:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:32:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:32:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:32:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:32:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:32:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:32:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:32:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:32:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:32:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:32:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:32:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:32:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:32:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:32:45,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:32:45,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:32:45,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:32:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:32:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:32:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:32:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:32:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:32:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:32:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:32:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:32:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:32:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:32:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:32:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-78
+08:32:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:32:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:32:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:32:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:32:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:32:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:32:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:32:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:32:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:33:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:33:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:33:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:33:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:33:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:33:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:33:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:33:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:33:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:33:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:33:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:33:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:33:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:33:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:33:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:33:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:33:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:33:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:33:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:33:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:33:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:33:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:33:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:33:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:33:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:33:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:33:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:33:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:33:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:33:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:33:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:33:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:33:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:33:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:33:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:33:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:33:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:33:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:33:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:33:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:33:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:33:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:33:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:33:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:33:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:33:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:33:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:33:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:33:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:33:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:33:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:33:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:33:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:33:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:34:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:34:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:34:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:34:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:34:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:34:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:34:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-85
+08:34:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:34:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:34:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:34:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:34:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:34:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:34:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:34:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:12,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:12,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:34:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:34:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:34:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:34:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:34:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:34:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:34:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:34:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:34:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:34:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:34:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:34:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:34:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:34:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:34:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:34:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:34:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:34:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:34:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:34:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:34:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:34:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:34:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:34:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:40,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:34:40,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:40,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:34:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:34:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:34:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:34:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:34:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:34:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:34:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:34:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:34:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:34:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:34:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:34:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:34:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:34:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:34:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:34:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:34:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:34:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:34:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:34:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:34:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:34:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:35:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:35:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:35:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:35:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:35:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:35:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:35:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:35:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:35:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:35:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-62
+08:35:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:12,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:35:12,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:35:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:35:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:16,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:35:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:35:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:35:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:35:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-62
+08:35:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:35:24,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:35:24,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:35:24,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:35:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:35:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:35:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:35:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:35:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:35:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:35:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:35:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:35:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:35:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:35:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:35:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:35:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:35:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:35:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:35:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:35:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:39,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:39,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:35:39,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:35:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:35:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:35:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:43,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:35:43,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:35:43,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:35:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:44,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:35:44,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:44,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:35:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:35:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:35:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:35:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:35:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:35:50,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:35:50,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:50,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:35:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:35:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:35:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:35:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:35:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:35:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:35:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:35:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:35:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:35:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:36:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:00,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:36:00,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:36:00,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:36:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:36:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:36:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:36:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:36:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:36:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:36:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:36:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:36:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:36:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:36:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:36:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:36:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:36:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:36:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:36:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:36:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:36:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:36:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:22,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:36:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:36:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:36:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:36:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:24,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:36:24,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:36:24,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:36:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:36:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:36:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:36:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:36:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:36:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:34,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:36:34,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:36:34,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:36:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:36:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:36:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:36:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:36:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:36:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:39,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:36:39,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:36:39,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:36:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:36:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:36:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:45,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:36:45,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:36:45,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:36:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:36:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:36:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:36:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:36:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:36:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:36:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:36:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:36:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:36:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:36:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:36:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:36:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:36:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:36:58,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:36:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:36:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:37:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:37:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:37:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:37:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:37:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:37:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:37:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:37:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-79
+08:37:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-94
+08:37:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-94
+08:37:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-94
+08:37:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:37:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:37:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:37:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:37:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-92
+08:37:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:37:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:37:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:37:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:37:12,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-91
+08:37:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:37:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:37:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:37:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:37:15,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:37:15,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:37:15,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:37:17,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:17,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:37:17,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:37:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:37:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:37:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:37:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:37:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:37:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:37:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:37:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:37:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:37:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:37:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:37:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:37:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:37:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:37:30,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:37:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:37:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:37:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:37:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:37:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:37:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:37:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:37:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:37:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:37:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:37:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:37:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-85
+08:37:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:37:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:37:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:37:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:37:45,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:45,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:37:45,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:37:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:37:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:37:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:37:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:37:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:37:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:37:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:37:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:37:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:37:53,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:53,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:37:53,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:37:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:37:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:37:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:37:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:37:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:37:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:37:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:37:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:37:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:38:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:38:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:04,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:38:04,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:04,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:38:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:38:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:38:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:38:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:38:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:38:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:38:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:38:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:38:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:38:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:19,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:38:19,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:19,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:38:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:38:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:38:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:38:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:38:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:38:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:38:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:38:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:38:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:38:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:38:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:38:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:38:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:38:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:38:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:38:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:38:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:38:38,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:38:38,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:38:38,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:38:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:40,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:38:40,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:38:40,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:38:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:38:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:38:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:44,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:38:46,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:46,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:46,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:38:46,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:38:48,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:38:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:38:50,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:52,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:38:52,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:38:52,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-86
+08:38:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:38:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:38:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:38:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:38:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:38:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:38:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:38:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:39:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:39:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:39:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:39:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:39:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:39:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:39:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:39:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:39:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:39:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:39:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:39:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:39:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:39:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:39:16,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:16,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:39:16,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:39:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:39:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:39:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:39:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:39:22,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:22,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:22,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:39:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:39:24,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:39:24,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:39:24,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:26,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:39:26,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:39:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:39:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:39:32,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:39:32,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:32,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:39:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:39:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:39:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:39:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:39:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:39:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:39:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:39:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:39:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:39:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:39:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:39:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:39:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:47,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:47,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:47,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:39:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:39:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:39:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:39:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:39:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:51,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:39:51,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:39:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:39:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:39:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:39:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:39:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:39:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:39:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:39:56,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:39:56,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:39:56,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:39:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:39:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:00,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:40:00,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:40:02,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:40:02,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:02,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:40:02,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:40:02,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:04,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:04,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:06,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:40:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:40:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:40:08,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:10,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:40:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:40:12,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:40:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:40:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:40:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:40:15,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:40:15,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:40:17,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:17,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:19,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:40:19,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:21,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:40:21,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:21,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:21,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:40:21,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:40:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:23,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:40:23,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:23,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:40:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:40:25,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:40:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:40:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:40:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:40:29,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:40:29,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:40:29,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:40:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:40:31,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-64
+08:40:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:34,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:40:34,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:36,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:40:36,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:36,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:40:36,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:36,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:40:38,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:40:38,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:40,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:40:40,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:40,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:40:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:40:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:40:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:40:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:40:47,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:40:47,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:40:47,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:40:47,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:40:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:40:49,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:49,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:40:49,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:40:49,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:40:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:40:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:53,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:40:53,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:40:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:40:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:40:55,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-87
+08:40:55,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:40:55,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:40:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:40:57,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:40:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-85
+08:40:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:40:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-86
+08:40:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:40:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:40:59,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:40:59,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:40:59,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:41:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:41:01,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:41:01,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:41:01,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:41:01,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:41:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:41:03,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:41:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:41:06,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:41:06,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:41:06,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:41:06,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:41:08,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:41:08,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:41:08,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:41:08,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:41:10,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:41:10,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:41:10,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:41:10,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:41:12,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:41:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:41:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:41:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:41:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:41:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:41:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:41:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:41:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-76
+08:41:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:41:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:41:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:41:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:41:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:41:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:41:23,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:41:23,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-78
+08:41:25,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:41:25,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-86
+08:41:25,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:41:25,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:41:27,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:41:27,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:41:27,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:41:27,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:41:27,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:41:29,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:41:29,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:41:31,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:41:31,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:41:31,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:41:31,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:41:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-81
+08:41:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:41:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:41:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:41:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-65
+08:41:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-88
+08:41:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:41:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:41:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-87
+08:41:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-88
+08:41:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-88
+08:41:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:41:40,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:41:40,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:41:42,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:41:42,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:41:42,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:41:42,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:41:42,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:41:44,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:41:46,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-63
+08:41:48,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:41:48,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:41:48,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:41:48,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:41:50,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:41:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:41:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-66
+08:41:54,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:41:54,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:41:54,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-91
+08:41:55,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:41:55,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:41:57,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-77
+08:41:57,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:41:57,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:41:57,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-91
+08:41:59,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:41:59,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:42:01,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-67
+08:42:03,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:42:03,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-87
+08:42:03,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:03,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:05,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:42:05,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:05,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:42:05,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:05,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:07,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:42:07,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:09,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:42:09,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:42:09,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:42:09,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:09,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:11,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:11,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:42:11,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:11,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:11,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:13,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:42:13,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:13,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:13,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:13,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:14,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:42:14,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:14,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:14,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:14,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:42:16,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:42:16,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:18,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:42:18,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:18,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:42:18,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:18,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:20,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:42:20,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:20,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:20,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:20,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:22,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:42:22,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:24,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:42:24,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:26,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
+08:42:26,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:26,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-91
+08:42:28,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:42:28,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:30,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:42:30,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-72
+08:42:30,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:42:30,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:30,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:42:32,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-70
+08:42:32,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:33,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:42:33,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:33,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:42:33,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:33,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:35,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-71
+08:42:35,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:35,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:35,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-91
+08:42:35,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-91
+08:42:37,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:42:37,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:37,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:42:37,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:37,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:39,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:42:39,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:41,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-68
+08:42:41,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:41,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:42:41,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:41,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:43,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:42:43,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:45,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-69
+08:42:45,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-75
+08:42:45,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-89
+08:42:45,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-90
+08:42:45,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-90
+08:42:47,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:49,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:42:51,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-73
+08:42:51,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:51,SFR WiFi Mobile,b'r-\x1b\xb3\xfd\x9d',5,11,-90
+08:42:52,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-76
+08:42:52,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-77
+08:42:54,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-72
+08:42:54,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:56,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-73
+08:42:56,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-75
+08:42:58,Livebox-D770,b'\x98Be\xe8\xd7p',3,1,-74
+08:42:58,Livebox-61C0,b'\x98Be\xe9a\xc0',3,6,-74
+08:42:58,SFR_FD98,b'\xcc-\x1b\xb3\xfd\x9e',4,11,-89
+08:42:58,SFR WiFi FON,b'r-\x1b\xb3\xfd\x9f',0,11,-89
