@@ -1,0 +1,199 @@
+Time,ssid,bssid,sec,channel,rssi
+13:20:37,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:20:39,iPhone,b'rkW\x06|k',3,6,-44
+13:20:39,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-75
+13:20:41,iPhone,b'rkW\x06|k',3,6,-43
+13:20:41,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:20:43,iPhone,b'rkW\x06|k',3,6,-35
+13:20:43,abo wesam,b'P\x0f\xf5\x8f\xcc\xe0',4,1,-94
+13:20:45,iPhone,b'rkW\x06|k',3,6,-35
+13:20:45,omt,b'\x10\xfe\xed@W\x0c',3,2,-95
+13:20:45,66,b'd\xee\xb7]\x7f\xba',4,11,-96
+13:20:47,iPhone,b'rkW\x06|k',3,6,-34
+13:20:47,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-75
+13:20:47,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:20:49,iPhone,b'rkW\x06|k',3,6,-49
+13:20:49,omt,b'\x10\xfe\xed@W\x0c',3,2,-85
+13:20:49,Caffe Ajami,b'\x04\x95\xe6\xb0\x04\x98',4,4,-93
+13:20:49,66,b'd\xee\xb7]\x7f\xba',4,11,-96
+13:20:50,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-78
+13:20:50,abo wesam,b'P\x0f\xf5\x8f\xcc\xe0',4,1,-91
+13:20:50,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:20:52,iPhone,b'rkW\x06|k',3,6,-35
+13:20:52,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-79
+13:20:52,MohamadAli,b'\xc8:5\x03\xaa{',4,5,-94
+13:20:54,iPhone,b'rkW\x06|k',3,6,-35
+13:20:54,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-80
+13:20:54,Kiro1,b'P\x0f\xf5\xc5\n\xd0',4,5,-89
+13:20:54,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:20:58,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:20:58,66,b'd\xee\xb7]\x7f\xba',4,11,-95
+13:21:00,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:21:00,Abo Hussein,b'd\xee\xb7\xd7\x8bN',4,11,-95
+13:21:02,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:21:02,Caffe Ajami,b'\x04\x95\xe6\xb0\x04\x98',4,4,-90
+13:21:04,MohamadAli,b'\xc8:5\x03\xaa{',4,5,-93
+13:21:05,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-78
+13:21:07,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-80
+13:21:07,MESSI,b'P\x0f\xf5\xc7\xfe\xe0',4,3,-93
+13:21:07,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:21:09,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:21:11,MohamadAli,b'\xc8:5\x03\xaa{',4,5,-92
+13:21:11,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:21:13,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-81
+13:21:13,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:21:17,66,b'd\xee\xb7]\x7f\xba',4,11,-92
+13:21:17,abo wesam,b'P\x0f\xf5\x8f\xcc\xe0',4,1,-94
+13:21:19,MohamadAli,b'\xc8:5\x03\xaa{',4,5,-92
+13:21:20,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-77
+13:21:22,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:21:22,TP-LINK_CE4B5A,b'`\xa4\xb7\xceKZ',3,4,-92
+13:21:26,Kiro1,b'P\x0f\xf5\xc5\n\xd0',4,5,-91
+13:21:26,Blink54CB95,b'\xc4\xea\x1dT\xcb\x95',4,6,-91
+13:21:26,2edara,b'{V\x828\xbe\x8f',4,6,-92
+13:21:26,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:21:26,abo wesam,b'P\x0f\xf5\x8f\xcc\xe0',4,1,-94
+13:21:28,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-77
+13:21:28,2edara,b'{V\x828\xbe\x8f',4,6,-88
+13:21:28,Kiro1,b'P\x0f\xf5\xc5\n\xd0',4,5,-91
+13:21:28,abo wesam,b'P\x0f\xf5\x8f\xcc\xe0',4,1,-93
+13:21:30,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:21:32,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-84
+13:21:34,Kiro1,b'P\x0f\xf5\xc5\n\xd0',4,5,-90
+13:21:35,66,b'd\xee\xb7]\x7f\xba',4,11,-95
+13:21:37,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-78
+13:21:45,Caffe Ajami,b'\x04\x95\xe6\xb0\x04\x98',4,4,-92
+13:21:45,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:21:48,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:21:50,66,b'd\xee\xb7]\x7f\xba',4,11,-92
+13:21:52,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-81
+13:21:52,Kiro1,b'P\x0f\xf5\xc5\n\xd0',4,5,-89
+13:21:52,Abo Hussein,b'd\xee\xb7\xd7\x8bN',4,11,-95
+13:21:54,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:21:58,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:22:00,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-75
+13:22:00,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:22:01,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:22:01,2edara,b'{V\x828\xbe\x8f',4,6,-88
+13:22:01,Kiro1,b'P\x0f\xf5\xc5\n\xd0',4,5,-89
+13:22:01,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:22:01,Abo Hussein,b'd\xee\xb7\xd7\x8bN',4,11,-96
+13:22:03,2edara,b'{V\x828\xbe\x8f',4,6,-92
+13:22:03,66,b'd\xee\xb7]\x7f\xba',4,11,-95
+13:22:05,66,b'd\xee\xb7]\x7f\xba',4,11,-95
+13:22:07,66,b'd\xee\xb7]\x7f\xba',4,11,-94
+13:22:09,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-83
+13:22:11,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-80
+13:22:11,66,b'd\xee\xb7]\x7f\xba',4,11,-93
+13:22:13,2edara,b'{V\x828\xbe\x8f',4,6,-89
+13:22:13,abo wesam,b'P\x0f\xf5\x8f\xcc\xe0',4,1,-93
+13:22:15,MohamadAli,b'\xc8:5\x03\xaa{',4,5,-95
+13:22:18,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:22:20,MESSI,b'P\x0f\xf5\xc7\xfe\xe0',4,3,-96
+13:22:22,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:22:24,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-78
+13:22:24,Kiro1,b'P\x0f\xf5\xc5\n\xd0',4,5,-93
+13:22:26,Caffe Ajami,b'\x04\x95\xe6\xb0\x04\x98',4,4,-93
+13:22:29,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-80
+13:22:40,Caffe Ajami,b'\x04\x95\xe6\xb0\x04\x98',4,4,-92
+13:22:44,MohamadAli,b'\xc8:5\x03\xaa{',4,5,-94
+13:22:53,Caffe Ajami,b'\x04\x95\xe6\xb0\x04\x98',4,4,-92
+13:23:03,omt,b'\x10\xfe\xed@W\x0c',3,2,-82
+13:23:06,Kiro,b'P\x0f\xf5\xc5\tX',4,5,-76
+13:23:17,omt,b'\x10\xfe\xed@W\x0c',3,2,-88
+13:23:27,omt,b'\x10\xfe\xed@W\x0c',3,2,-90
+13:23:30,omt,b'\x10\xfe\xed@W\x0c',3,2,-93
+13:23:36,omt,b'\x10\xfe\xed@W\x0c',3,2,-88
+13:23:41,omt,b'\x10\xfe\xed@W\x0c',3,2,-90
+13:23:49,Caffe Ajami,b'\x04\x95\xe6\xb0\x04\x98',4,4,-90
+13:23:52,Abo Hussein,b'd\xee\xb7\xd7\x8bN',4,11,-94
+13:23:54,66,b'd\xee\xb7]\x7f\xba',4,11,-89
+13:26:09,iPhone,b'\xaa\xdb\x12\x04\x91\x07',3,6,-51
+13:26:11,iPhone,b'\xaa\xdb\x12\x04\x91\x07',3,6,-50
+13:26:13,iPhone,b'\xaa\xdb\x12\x04\x91\x07',3,6,-46
+13:26:15,iPhone,b'\xaa\xdb\x12\x04\x91\x07',3,6,-47
+13:26:16,iPhone,b'\xaa\xdb\x12\x04\x91\x07',3,6,-48
+13:26:18,iPhone,b'\xaa\xdb\x12\x04\x91\x07',3,6,-48
+13:26:20,iPhone,b'\xaa\xdb\x12\x04\x91\x07',3,6,-45
+13:26:28,Ali,b'\x00rc\xb0\xdb\x1f',4,9,-89
+13:26:29,Tenda,b'd\xee\xb7\\u\xc0',4,9,-96
+13:26:31,Danell,b'\xb0Hz\x97\x1ap',4,4,-86
+13:26:37,Tenda_26B170,b'\xc8:5&\xb1p',2,1,-91
+13:27:39,Bonjour,b'xDv\xf2\xd4x',4,7,-76
+13:27:39,Arcadia,b'\xbcb\xce-\xab\x8f',3,10,-96
+13:27:41,Bonjour,b'xDv\xf2\xd4x',4,7,-74
+13:27:41,Arcadia,b'\xbcb\xce-\xab\x8f',3,10,-88
+13:27:43,Bonjour,b'xDv\xf2\xd4x',4,7,-91
+13:28:55,ali,b'\x00rc97_',4,1,-80
+13:28:57,ali,b'\x00rc97_',4,1,-81
+13:28:57,LILI - SISI,b'd\xee\xb7\x02\t\xc2',4,1,-92
+13:29:15,Tenda_4C1498 0 0 0,b'\xc8:5L\x14\x98',2,1,-77
+13:29:17,Tenda_4C1498 0 0 0,b'\xc8:5L\x14\x98',2,1,-88
+13:29:55,HUAWEI-B525-D2F1,b'\xdc\x90\x88\x10\xd2\xf1',3,9,-84
+13:29:57,HUAWEI-B525-D2F1,b'\xdc\x90\x88\x10\xd2\xf1',3,9,-81
+13:30:17,Abo raed,b'\x00rcO\x94g',4,11,-90
+13:30:27,Fahes1,b'\xa0\x9f\x10\x91K\x8f',4,7,-90
+13:30:29,Modi,b'\xd8\r\x17\xb2IB',3,2,-90
+13:30:30,Modi,b'\xd8\r\x17\xb2IB',3,2,-84
+13:30:41,Halawi Cell,b'd\xee\xb7:\xd44',3,8,-90
+13:30:43,Halawi Cell,b'd\xee\xb7:\xd44',3,8,-72
+13:30:49,netis_9D26A0,b'\xbcb\xce\x9d&\xa0',4,11,-92
+13:30:56,R.S,b'\x04\x95\xe6?\xa5\xb0',4,5,-90
+13:31:00,DolphiNet-K1,"b'\x00\'""\xee\xc0\xa2'",1,4,-81
+13:31:07,Tenda_89B9C8,b'\xc8:5\x89\xb9\xc8',2,11,-82
+13:31:16,hasouna,b'd\xee\xb7\x01Gq',4,5,-84
+13:31:26,DolphiNet-K1,"b'\x00\'""\xee\xc0\xa2'",1,4,-93
+13:31:31,wissam,b'\xc8:5&\xbd\xd0',2,1,-93
+13:31:33,ZK,b'\xbcb\xceR3N',4,9,-89
+13:31:46,Saji,b'd\xee\xb7\\\xeai',4,9,-93
+13:32:02,Loulou,b'\xe2\x19]3\x00\xbc',3,6,-89
+13:32:12,. ,b'\xd8\r\x17dU ',3,4,-75
+13:32:14,. ,b'\xd8\r\x17dU ',3,4,-68
+13:32:17,HUAWEI-B525-2FE1,b'\x00rc\xb0N\\',3,9,-89
+13:32:52,ALI HALAWI,b'd\xee\xb7\x9e\xee\xee',4,1,-93
+13:32:54,ALI HALAWI,b'd\xee\xb7\x9e\xee\xee',4,1,-78
+13:33:00,ALI HALAWI,b'd\xee\xb7\x9e\xee\xee',4,1,-91
+13:33:03,ALI HALAWI,b'd\xee\xb7\x9e\xee\xee',4,1,-93
+13:33:25,Bassam,b'd\xee\xb7\x9fT\xe2',4,5,-88
+13:33:27,Bassam,b'd\xee\xb7\x9fT\xe2',4,5,-81
+13:36:14,RESTAURANT-NAJJAR,b'@?\x8c\xdd!~',3,3,-91
+13:36:49,PTZ,b'\xbcb\xce\xb0\xd8\xdf',4,2,-90
+13:36:51,K6,b'\x04^\xa4\xf3\x0e\xe6',4,11,-90
+13:37:11,litany nahr,b'\x00rc9%!',4,11,-92
+13:37:44,TP-Link_6CBA,b'\xd8\r\x176l\xba',3,2,-89
+13:37:48,TP-Link_6CBA,b'\xd8\r\x176l\xba',3,2,-93
+13:37:50,TP-Link_6CBA,b'\xd8\r\x176l\xba',3,2,-89
+13:37:56,TP-Link_6CBA,b'\xd8\r\x176l\xba',3,2,-88
+13:38:03,TP-Link_6CBA,b'\xd8\r\x176l\xba',3,2,-80
+13:38:05,TP-Link_6CBA,b'\xd8\r\x176l\xba',3,2,-86
+13:38:07,TP-Link_6CBA,b'\xd8\r\x176l\xba',3,2,-88
+13:38:08,RR807836,b'\x94\xb8m\xc86\xbf',3,1,-88
+13:38:16,Tenda_880C18,b'P\x0f\xf5\x88\x0c\x18',4,11,-92
+13:38:20,Kalaat_al7jeer,b'\xbcb\xce\xb1\x13\xdb',4,6,-88
+13:38:23,Kalaat_al7jeer,b'\xbcb\xce\xb1\x13\xdb',4,6,-89
+13:38:25,Kalaat_al7jeer,b'\xbcb\xce\xb1\x13\xdb',4,6,-92
+13:40:46,TECNO SPARK 6,b'\xe29\x93\x0c@j',3,1,-84
+13:48:57,Arch Almoulouk_office,b'd\xee\xb7\x01>\x8e',4,5,-93
+13:50:07,TP-Link_3E6C,b'\x00_g\x1a>l',3,10,-91
+13:53:07,1&2&3,b'\xc4\x86\xe9o\x14\x89',3,11,-91
+13:53:40,Cafe Ghandour,"b""\xe4\xbe\xedB\x9b'""",4,4,-84
+13:53:42,Cafe Ghandour,"b""\xe4\xbe\xedB\x9b'""",4,4,-65
+13:55:59,mmmmm,b'\xb0\xe1~\xad\t\x8f',3,1,-91
+13:57:31,Jwad,b'd\xee\xb7\\\x0ei',4,5,-89
+13:57:35,Jwad,b'd\xee\xb7\\\x0ei',4,5,-86
+13:57:37,Jwad,b'd\xee\xb7\\\x0ei',4,5,-68
+13:57:39,Jwad,b'd\xee\xb7\\\x0ei',4,5,-69
+13:57:40,Jwad,b'd\xee\xb7\\\x0ei',4,5,-84
+13:57:42,Jwad,b'd\xee\xb7\\\x0ei',4,5,-89
+13:57:46,Jwad,b'd\xee\xb7\\\x0ei',4,5,-90
+13:59:25,Hussein net,b'\xbcb\xce\xb1\t\xa4',4,3,-86
+13:59:25,DPL OSMAT,b'd\xee\xb7\x9fp&',4,3,-87
+13:59:25,Q9321097233204,b'\xc6[\xbeJ\xdb\xc8',4,3,-91
+14:00:20,Kawthar,b'\xbcb\xce\x15\x9d\xc2',4,11,-84
+14:00:22,Kawthar,b'\xbcb\xce\x15\x9d\xc2',4,11,-81
+14:00:26,Kawthar,b'\xbcb\xce\x15\x9d\xc2',4,11,-94
+14:00:42,DPL SHQRA 07450772/03153212,b'L^\x0c\x81\xe6\x9e',0,11,-96
+14:00:55,Q0022523361454,b'6\xab\x95$\x92\xda',4,9,-88
+14:00:57,Q0022523361454,b'6\xab\x95$\x92\xda',4,9,-88
+14:03:07,Abo haysam,b'\x00rc9G\xc7',4,11,-94
+14:03:31,X,b'd\xee\xb7\x9f\xcd\xd2',4,1,-95

@@ -1,0 +1,199 @@
+Testing SD card write operations: 2022-08-13 13:20:36
+2022-08-13 13:20:37: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:20:39: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-44}
+2022-08-13 13:20:39: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-75}
+2022-08-13 13:20:41: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-43}
+2022-08-13 13:20:41: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:20:43: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-35}
+2022-08-13 13:20:43: {'ssid':'abo wesam', 'bssid':b'P\x0f\xf5\x8f\xcc\xe0', 'sec':4, 'channel':1, 'rssi':-94}
+2022-08-13 13:20:45: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-35}
+2022-08-13 13:20:45: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-95}
+2022-08-13 13:20:45: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-96}
+2022-08-13 13:20:47: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-34}
+2022-08-13 13:20:47: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-75}
+2022-08-13 13:20:47: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:20:49: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-49}
+2022-08-13 13:20:49: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-85}
+2022-08-13 13:20:49: {'ssid':'Caffe Ajami', 'bssid':b'\x04\x95\xe6\xb0\x04\x98', 'sec':4, 'channel':4, 'rssi':-93}
+2022-08-13 13:20:49: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-96}
+2022-08-13 13:20:50: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-78}
+2022-08-13 13:20:50: {'ssid':'abo wesam', 'bssid':b'P\x0f\xf5\x8f\xcc\xe0', 'sec':4, 'channel':1, 'rssi':-91}
+2022-08-13 13:20:50: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:20:52: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-35}
+2022-08-13 13:20:52: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-79}
+2022-08-13 13:20:52: {'ssid':'MohamadAli', 'bssid':b'\xc8:5\x03\xaa{', 'sec':4, 'channel':5, 'rssi':-94}
+2022-08-13 13:20:54: {'ssid':'iPhone', 'bssid':b'rkW\x06|k', 'sec':3, 'channel':6, 'rssi':-35}
+2022-08-13 13:20:54: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-80}
+2022-08-13 13:20:54: {'ssid':'Kiro1', 'bssid':b'P\x0f\xf5\xc5\n\xd0', 'sec':4, 'channel':5, 'rssi':-89}
+2022-08-13 13:20:54: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:20:58: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:20:58: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-95}
+2022-08-13 13:21:00: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:21:00: {'ssid':'Abo Hussein', 'bssid':b'd\xee\xb7\xd7\x8bN', 'sec':4, 'channel':11, 'rssi':-95}
+2022-08-13 13:21:02: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:21:02: {'ssid':'Caffe Ajami', 'bssid':b'\x04\x95\xe6\xb0\x04\x98', 'sec':4, 'channel':4, 'rssi':-90}
+2022-08-13 13:21:04: {'ssid':'MohamadAli', 'bssid':b'\xc8:5\x03\xaa{', 'sec':4, 'channel':5, 'rssi':-93}
+2022-08-13 13:21:05: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-78}
+2022-08-13 13:21:07: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-80}
+2022-08-13 13:21:07: {'ssid':'MESSI', 'bssid':b'P\x0f\xf5\xc7\xfe\xe0', 'sec':4, 'channel':3, 'rssi':-93}
+2022-08-13 13:21:07: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:21:09: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:21:11: {'ssid':'MohamadAli', 'bssid':b'\xc8:5\x03\xaa{', 'sec':4, 'channel':5, 'rssi':-92}
+2022-08-13 13:21:11: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:21:13: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-81}
+2022-08-13 13:21:13: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:21:17: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-92}
+2022-08-13 13:21:17: {'ssid':'abo wesam', 'bssid':b'P\x0f\xf5\x8f\xcc\xe0', 'sec':4, 'channel':1, 'rssi':-94}
+2022-08-13 13:21:19: {'ssid':'MohamadAli', 'bssid':b'\xc8:5\x03\xaa{', 'sec':4, 'channel':5, 'rssi':-92}
+2022-08-13 13:21:20: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-77}
+2022-08-13 13:21:22: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:21:22: {'ssid':'TP-LINK_CE4B5A', 'bssid':b'`\xa4\xb7\xceKZ', 'sec':3, 'channel':4, 'rssi':-92}
+2022-08-13 13:21:26: {'ssid':'Kiro1', 'bssid':b'P\x0f\xf5\xc5\n\xd0', 'sec':4, 'channel':5, 'rssi':-91}
+2022-08-13 13:21:26: {'ssid':'Blink54CB95', 'bssid':b'\xc4\xea\x1dT\xcb\x95', 'sec':4, 'channel':6, 'rssi':-91}
+2022-08-13 13:21:26: {'ssid':'2edara', 'bssid':b'{V\x828\xbe\x8f', 'sec':4, 'channel':6, 'rssi':-92}
+2022-08-13 13:21:26: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:21:26: {'ssid':'abo wesam', 'bssid':b'P\x0f\xf5\x8f\xcc\xe0', 'sec':4, 'channel':1, 'rssi':-94}
+2022-08-13 13:21:28: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-77}
+2022-08-13 13:21:28: {'ssid':'2edara', 'bssid':b'{V\x828\xbe\x8f', 'sec':4, 'channel':6, 'rssi':-88}
+2022-08-13 13:21:28: {'ssid':'Kiro1', 'bssid':b'P\x0f\xf5\xc5\n\xd0', 'sec':4, 'channel':5, 'rssi':-91}
+2022-08-13 13:21:28: {'ssid':'abo wesam', 'bssid':b'P\x0f\xf5\x8f\xcc\xe0', 'sec':4, 'channel':1, 'rssi':-93}
+2022-08-13 13:21:30: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:21:32: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-84}
+2022-08-13 13:21:34: {'ssid':'Kiro1', 'bssid':b'P\x0f\xf5\xc5\n\xd0', 'sec':4, 'channel':5, 'rssi':-90}
+2022-08-13 13:21:35: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-95}
+2022-08-13 13:21:37: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-78}
+2022-08-13 13:21:45: {'ssid':'Caffe Ajami', 'bssid':b'\x04\x95\xe6\xb0\x04\x98', 'sec':4, 'channel':4, 'rssi':-92}
+2022-08-13 13:21:45: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:21:48: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:21:50: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-92}
+2022-08-13 13:21:52: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-81}
+2022-08-13 13:21:52: {'ssid':'Kiro1', 'bssid':b'P\x0f\xf5\xc5\n\xd0', 'sec':4, 'channel':5, 'rssi':-89}
+2022-08-13 13:21:52: {'ssid':'Abo Hussein', 'bssid':b'd\xee\xb7\xd7\x8bN', 'sec':4, 'channel':11, 'rssi':-95}
+2022-08-13 13:21:54: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:21:58: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:22:00: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-75}
+2022-08-13 13:22:00: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:22:01: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:22:01: {'ssid':'2edara', 'bssid':b'{V\x828\xbe\x8f', 'sec':4, 'channel':6, 'rssi':-88}
+2022-08-13 13:22:01: {'ssid':'Kiro1', 'bssid':b'P\x0f\xf5\xc5\n\xd0', 'sec':4, 'channel':5, 'rssi':-89}
+2022-08-13 13:22:01: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:22:01: {'ssid':'Abo Hussein', 'bssid':b'd\xee\xb7\xd7\x8bN', 'sec':4, 'channel':11, 'rssi':-96}
+2022-08-13 13:22:03: {'ssid':'2edara', 'bssid':b'{V\x828\xbe\x8f', 'sec':4, 'channel':6, 'rssi':-92}
+2022-08-13 13:22:03: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-95}
+2022-08-13 13:22:05: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-95}
+2022-08-13 13:22:07: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:22:09: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-83}
+2022-08-13 13:22:11: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-80}
+2022-08-13 13:22:11: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-93}
+2022-08-13 13:22:13: {'ssid':'2edara', 'bssid':b'{V\x828\xbe\x8f', 'sec':4, 'channel':6, 'rssi':-89}
+2022-08-13 13:22:13: {'ssid':'abo wesam', 'bssid':b'P\x0f\xf5\x8f\xcc\xe0', 'sec':4, 'channel':1, 'rssi':-93}
+2022-08-13 13:22:15: {'ssid':'MohamadAli', 'bssid':b'\xc8:5\x03\xaa{', 'sec':4, 'channel':5, 'rssi':-95}
+2022-08-13 13:22:18: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:22:20: {'ssid':'MESSI', 'bssid':b'P\x0f\xf5\xc7\xfe\xe0', 'sec':4, 'channel':3, 'rssi':-96}
+2022-08-13 13:22:22: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:22:24: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-78}
+2022-08-13 13:22:24: {'ssid':'Kiro1', 'bssid':b'P\x0f\xf5\xc5\n\xd0', 'sec':4, 'channel':5, 'rssi':-93}
+2022-08-13 13:22:26: {'ssid':'Caffe Ajami', 'bssid':b'\x04\x95\xe6\xb0\x04\x98', 'sec':4, 'channel':4, 'rssi':-93}
+2022-08-13 13:22:29: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-80}
+2022-08-13 13:22:40: {'ssid':'Caffe Ajami', 'bssid':b'\x04\x95\xe6\xb0\x04\x98', 'sec':4, 'channel':4, 'rssi':-92}
+2022-08-13 13:22:44: {'ssid':'MohamadAli', 'bssid':b'\xc8:5\x03\xaa{', 'sec':4, 'channel':5, 'rssi':-94}
+2022-08-13 13:22:53: {'ssid':'Caffe Ajami', 'bssid':b'\x04\x95\xe6\xb0\x04\x98', 'sec':4, 'channel':4, 'rssi':-92}
+2022-08-13 13:23:03: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-82}
+2022-08-13 13:23:06: {'ssid':'Kiro', 'bssid':b'P\x0f\xf5\xc5\tX', 'sec':4, 'channel':5, 'rssi':-76}
+2022-08-13 13:23:17: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-88}
+2022-08-13 13:23:27: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-90}
+2022-08-13 13:23:30: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-93}
+2022-08-13 13:23:36: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-88}
+2022-08-13 13:23:41: {'ssid':'omt', 'bssid':b'\x10\xfe\xed@W\x0c', 'sec':3, 'channel':2, 'rssi':-90}
+2022-08-13 13:23:49: {'ssid':'Caffe Ajami', 'bssid':b'\x04\x95\xe6\xb0\x04\x98', 'sec':4, 'channel':4, 'rssi':-90}
+2022-08-13 13:23:52: {'ssid':'Abo Hussein', 'bssid':b'd\xee\xb7\xd7\x8bN', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 13:23:54: {'ssid':'66', 'bssid':b'd\xee\xb7]\x7f\xba', 'sec':4, 'channel':11, 'rssi':-89}
+2022-08-13 13:26:09: {'ssid':'iPhone', 'bssid':b'\xaa\xdb\x12\x04\x91\x07', 'sec':3, 'channel':6, 'rssi':-51}
+2022-08-13 13:26:11: {'ssid':'iPhone', 'bssid':b'\xaa\xdb\x12\x04\x91\x07', 'sec':3, 'channel':6, 'rssi':-50}
+2022-08-13 13:26:13: {'ssid':'iPhone', 'bssid':b'\xaa\xdb\x12\x04\x91\x07', 'sec':3, 'channel':6, 'rssi':-46}
+2022-08-13 13:26:15: {'ssid':'iPhone', 'bssid':b'\xaa\xdb\x12\x04\x91\x07', 'sec':3, 'channel':6, 'rssi':-47}
+2022-08-13 13:26:16: {'ssid':'iPhone', 'bssid':b'\xaa\xdb\x12\x04\x91\x07', 'sec':3, 'channel':6, 'rssi':-48}
+2022-08-13 13:26:18: {'ssid':'iPhone', 'bssid':b'\xaa\xdb\x12\x04\x91\x07', 'sec':3, 'channel':6, 'rssi':-48}
+2022-08-13 13:26:20: {'ssid':'iPhone', 'bssid':b'\xaa\xdb\x12\x04\x91\x07', 'sec':3, 'channel':6, 'rssi':-45}
+2022-08-13 13:26:28: {'ssid':'Ali', 'bssid':b'\x00rc\xb0\xdb\x1f', 'sec':4, 'channel':9, 'rssi':-89}
+2022-08-13 13:26:29: {'ssid':'Tenda', 'bssid':b'd\xee\xb7\\u\xc0', 'sec':4, 'channel':9, 'rssi':-96}
+2022-08-13 13:26:31: {'ssid':'Danell', 'bssid':b'\xb0Hz\x97\x1ap', 'sec':4, 'channel':4, 'rssi':-86}
+2022-08-13 13:26:37: {'ssid':'Tenda_26B170', 'bssid':b'\xc8:5&\xb1p', 'sec':2, 'channel':1, 'rssi':-91}
+2022-08-13 13:27:39: {'ssid':'Bonjour', 'bssid':b'xDv\xf2\xd4x', 'sec':4, 'channel':7, 'rssi':-76}
+2022-08-13 13:27:39: {'ssid':'Arcadia', 'bssid':b'\xbcb\xce-\xab\x8f', 'sec':3, 'channel':10, 'rssi':-96}
+2022-08-13 13:27:41: {'ssid':'Bonjour', 'bssid':b'xDv\xf2\xd4x', 'sec':4, 'channel':7, 'rssi':-74}
+2022-08-13 13:27:41: {'ssid':'Arcadia', 'bssid':b'\xbcb\xce-\xab\x8f', 'sec':3, 'channel':10, 'rssi':-88}
+2022-08-13 13:27:43: {'ssid':'Bonjour', 'bssid':b'xDv\xf2\xd4x', 'sec':4, 'channel':7, 'rssi':-91}
+2022-08-13 13:28:55: {'ssid':'ali', 'bssid':b'\x00rc97_', 'sec':4, 'channel':1, 'rssi':-80}
+2022-08-13 13:28:57: {'ssid':'ali', 'bssid':b'\x00rc97_', 'sec':4, 'channel':1, 'rssi':-81}
+2022-08-13 13:28:57: {'ssid':'LILI - SISI', 'bssid':b'd\xee\xb7\x02\t\xc2', 'sec':4, 'channel':1, 'rssi':-92}
+2022-08-13 13:29:15: {'ssid':'Tenda_4C1498 0 0 0', 'bssid':b'\xc8:5L\x14\x98', 'sec':2, 'channel':1, 'rssi':-77}
+2022-08-13 13:29:17: {'ssid':'Tenda_4C1498 0 0 0', 'bssid':b'\xc8:5L\x14\x98', 'sec':2, 'channel':1, 'rssi':-88}
+2022-08-13 13:29:55: {'ssid':'HUAWEI-B525-D2F1', 'bssid':b'\xdc\x90\x88\x10\xd2\xf1', 'sec':3, 'channel':9, 'rssi':-84}
+2022-08-13 13:29:57: {'ssid':'HUAWEI-B525-D2F1', 'bssid':b'\xdc\x90\x88\x10\xd2\xf1', 'sec':3, 'channel':9, 'rssi':-81}
+2022-08-13 13:30:17: {'ssid':'Abo raed', 'bssid':b'\x00rcO\x94g', 'sec':4, 'channel':11, 'rssi':-90}
+2022-08-13 13:30:27: {'ssid':'Fahes1', 'bssid':b'\xa0\x9f\x10\x91K\x8f', 'sec':4, 'channel':7, 'rssi':-90}
+2022-08-13 13:30:29: {'ssid':'Modi', 'bssid':b'\xd8\r\x17\xb2IB', 'sec':3, 'channel':2, 'rssi':-90}
+2022-08-13 13:30:30: {'ssid':'Modi', 'bssid':b'\xd8\r\x17\xb2IB', 'sec':3, 'channel':2, 'rssi':-84}
+2022-08-13 13:30:41: {'ssid':'Halawi Cell', 'bssid':b'd\xee\xb7:\xd44', 'sec':3, 'channel':8, 'rssi':-90}
+2022-08-13 13:30:43: {'ssid':'Halawi Cell', 'bssid':b'd\xee\xb7:\xd44', 'sec':3, 'channel':8, 'rssi':-72}
+2022-08-13 13:30:49: {'ssid':'netis_9D26A0', 'bssid':b'\xbcb\xce\x9d&\xa0', 'sec':4, 'channel':11, 'rssi':-92}
+2022-08-13 13:30:56: {'ssid':'R.S', 'bssid':b'\x04\x95\xe6?\xa5\xb0', 'sec':4, 'channel':5, 'rssi':-90}
+2022-08-13 13:31:00: {'ssid':'DolphiNet-K1', 'bssid':b'\x00\'"\xee\xc0\xa2', 'sec':1, 'channel':4, 'rssi':-81}
+2022-08-13 13:31:07: {'ssid':'Tenda_89B9C8', 'bssid':b'\xc8:5\x89\xb9\xc8', 'sec':2, 'channel':11, 'rssi':-82}
+2022-08-13 13:31:16: {'ssid':'hasouna', 'bssid':b'd\xee\xb7\x01Gq', 'sec':4, 'channel':5, 'rssi':-84}
+2022-08-13 13:31:26: {'ssid':'DolphiNet-K1', 'bssid':b'\x00\'"\xee\xc0\xa2', 'sec':1, 'channel':4, 'rssi':-93}
+2022-08-13 13:31:31: {'ssid':'wissam', 'bssid':b'\xc8:5&\xbd\xd0', 'sec':2, 'channel':1, 'rssi':-93}
+2022-08-13 13:31:33: {'ssid':'ZK', 'bssid':b'\xbcb\xceR3N', 'sec':4, 'channel':9, 'rssi':-89}
+2022-08-13 13:31:46: {'ssid':'Saji', 'bssid':b'd\xee\xb7\\\xeai', 'sec':4, 'channel':9, 'rssi':-93}
+2022-08-13 13:32:02: {'ssid':'Loulou', 'bssid':b'\xe2\x19]3\x00\xbc', 'sec':3, 'channel':6, 'rssi':-89}
+2022-08-13 13:32:12: {'ssid':'. ', 'bssid':b'\xd8\r\x17dU ', 'sec':3, 'channel':4, 'rssi':-75}
+2022-08-13 13:32:14: {'ssid':'. ', 'bssid':b'\xd8\r\x17dU ', 'sec':3, 'channel':4, 'rssi':-68}
+2022-08-13 13:32:17: {'ssid':'HUAWEI-B525-2FE1', 'bssid':b'\x00rc\xb0N\\', 'sec':3, 'channel':9, 'rssi':-89}
+2022-08-13 13:32:52: {'ssid':'ALI HALAWI', 'bssid':b'd\xee\xb7\x9e\xee\xee', 'sec':4, 'channel':1, 'rssi':-93}
+2022-08-13 13:32:54: {'ssid':'ALI HALAWI', 'bssid':b'd\xee\xb7\x9e\xee\xee', 'sec':4, 'channel':1, 'rssi':-78}
+2022-08-13 13:33:00: {'ssid':'ALI HALAWI', 'bssid':b'd\xee\xb7\x9e\xee\xee', 'sec':4, 'channel':1, 'rssi':-91}
+2022-08-13 13:33:03: {'ssid':'ALI HALAWI', 'bssid':b'd\xee\xb7\x9e\xee\xee', 'sec':4, 'channel':1, 'rssi':-93}
+2022-08-13 13:33:25: {'ssid':'Bassam', 'bssid':b'd\xee\xb7\x9fT\xe2', 'sec':4, 'channel':5, 'rssi':-88}
+2022-08-13 13:33:27: {'ssid':'Bassam', 'bssid':b'd\xee\xb7\x9fT\xe2', 'sec':4, 'channel':5, 'rssi':-81}
+2022-08-13 13:36:14: {'ssid':'RESTAURANT-NAJJAR', 'bssid':b'@?\x8c\xdd!~', 'sec':3, 'channel':3, 'rssi':-91}
+2022-08-13 13:36:49: {'ssid':'PTZ', 'bssid':b'\xbcb\xce\xb0\xd8\xdf', 'sec':4, 'channel':2, 'rssi':-90}
+2022-08-13 13:36:51: {'ssid':'K6', 'bssid':b'\x04^\xa4\xf3\x0e\xe6', 'sec':4, 'channel':11, 'rssi':-90}
+2022-08-13 13:37:11: {'ssid':'litany nahr', 'bssid':b'\x00rc9%!', 'sec':4, 'channel':11, 'rssi':-92}
+2022-08-13 13:37:44: {'ssid':'TP-Link_6CBA', 'bssid':b'\xd8\r\x176l\xba', 'sec':3, 'channel':2, 'rssi':-89}
+2022-08-13 13:37:48: {'ssid':'TP-Link_6CBA', 'bssid':b'\xd8\r\x176l\xba', 'sec':3, 'channel':2, 'rssi':-93}
+2022-08-13 13:37:50: {'ssid':'TP-Link_6CBA', 'bssid':b'\xd8\r\x176l\xba', 'sec':3, 'channel':2, 'rssi':-89}
+2022-08-13 13:37:56: {'ssid':'TP-Link_6CBA', 'bssid':b'\xd8\r\x176l\xba', 'sec':3, 'channel':2, 'rssi':-88}
+2022-08-13 13:38:03: {'ssid':'TP-Link_6CBA', 'bssid':b'\xd8\r\x176l\xba', 'sec':3, 'channel':2, 'rssi':-80}
+2022-08-13 13:38:05: {'ssid':'TP-Link_6CBA', 'bssid':b'\xd8\r\x176l\xba', 'sec':3, 'channel':2, 'rssi':-86}
+2022-08-13 13:38:07: {'ssid':'TP-Link_6CBA', 'bssid':b'\xd8\r\x176l\xba', 'sec':3, 'channel':2, 'rssi':-88}
+2022-08-13 13:38:08: {'ssid':'RR807836', 'bssid':b'\x94\xb8m\xc86\xbf', 'sec':3, 'channel':1, 'rssi':-88}
+2022-08-13 13:38:16: {'ssid':'Tenda_880C18', 'bssid':b'P\x0f\xf5\x88\x0c\x18', 'sec':4, 'channel':11, 'rssi':-92}
+2022-08-13 13:38:20: {'ssid':'Kalaat_al7jeer', 'bssid':b'\xbcb\xce\xb1\x13\xdb', 'sec':4, 'channel':6, 'rssi':-88}
+2022-08-13 13:38:23: {'ssid':'Kalaat_al7jeer', 'bssid':b'\xbcb\xce\xb1\x13\xdb', 'sec':4, 'channel':6, 'rssi':-89}
+2022-08-13 13:38:25: {'ssid':'Kalaat_al7jeer', 'bssid':b'\xbcb\xce\xb1\x13\xdb', 'sec':4, 'channel':6, 'rssi':-92}
+2022-08-13 13:40:46: {'ssid':'TECNO SPARK 6', 'bssid':b'\xe29\x93\x0c@j', 'sec':3, 'channel':1, 'rssi':-84}
+2022-08-13 13:48:57: {'ssid':'Arch Almoulouk_office', 'bssid':b'd\xee\xb7\x01>\x8e', 'sec':4, 'channel':5, 'rssi':-93}
+2022-08-13 13:50:07: {'ssid':'TP-Link_3E6C', 'bssid':b'\x00_g\x1a>l', 'sec':3, 'channel':10, 'rssi':-91}
+2022-08-13 13:53:07: {'ssid':'1&2&3', 'bssid':b'\xc4\x86\xe9o\x14\x89', 'sec':3, 'channel':11, 'rssi':-91}
+2022-08-13 13:53:40: {'ssid':'Cafe Ghandour', 'bssid':b"\xe4\xbe\xedB\x9b'", 'sec':4, 'channel':4, 'rssi':-84}
+2022-08-13 13:53:42: {'ssid':'Cafe Ghandour', 'bssid':b"\xe4\xbe\xedB\x9b'", 'sec':4, 'channel':4, 'rssi':-65}
+2022-08-13 13:55:59: {'ssid':'mmmmm', 'bssid':b'\xb0\xe1~\xad\t\x8f', 'sec':3, 'channel':1, 'rssi':-91}
+2022-08-13 13:57:31: {'ssid':'Jwad', 'bssid':b'd\xee\xb7\\\x0ei', 'sec':4, 'channel':5, 'rssi':-89}
+2022-08-13 13:57:35: {'ssid':'Jwad', 'bssid':b'd\xee\xb7\\\x0ei', 'sec':4, 'channel':5, 'rssi':-86}
+2022-08-13 13:57:37: {'ssid':'Jwad', 'bssid':b'd\xee\xb7\\\x0ei', 'sec':4, 'channel':5, 'rssi':-68}
+2022-08-13 13:57:39: {'ssid':'Jwad', 'bssid':b'd\xee\xb7\\\x0ei', 'sec':4, 'channel':5, 'rssi':-69}
+2022-08-13 13:57:40: {'ssid':'Jwad', 'bssid':b'd\xee\xb7\\\x0ei', 'sec':4, 'channel':5, 'rssi':-84}
+2022-08-13 13:57:42: {'ssid':'Jwad', 'bssid':b'd\xee\xb7\\\x0ei', 'sec':4, 'channel':5, 'rssi':-89}
+2022-08-13 13:57:46: {'ssid':'Jwad', 'bssid':b'd\xee\xb7\\\x0ei', 'sec':4, 'channel':5, 'rssi':-90}
+2022-08-13 13:59:25: {'ssid':'Hussein net', 'bssid':b'\xbcb\xce\xb1\t\xa4', 'sec':4, 'channel':3, 'rssi':-86}
+2022-08-13 13:59:25: {'ssid':'DPL OSMAT', 'bssid':b'd\xee\xb7\x9fp&', 'sec':4, 'channel':3, 'rssi':-87}
+2022-08-13 13:59:25: {'ssid':'Q9321097233204', 'bssid':b'\xc6[\xbeJ\xdb\xc8', 'sec':4, 'channel':3, 'rssi':-91}
+2022-08-13 14:00:20: {'ssid':'Kawthar', 'bssid':b'\xbcb\xce\x15\x9d\xc2', 'sec':4, 'channel':11, 'rssi':-84}
+2022-08-13 14:00:22: {'ssid':'Kawthar', 'bssid':b'\xbcb\xce\x15\x9d\xc2', 'sec':4, 'channel':11, 'rssi':-81}
+2022-08-13 14:00:26: {'ssid':'Kawthar', 'bssid':b'\xbcb\xce\x15\x9d\xc2', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 14:00:42: {'ssid':'DPL SHQRA 07450772/03153212', 'bssid':b'L^\x0c\x81\xe6\x9e', 'sec':0, 'channel':11, 'rssi':-96}
+2022-08-13 14:00:55: {'ssid':'Q0022523361454', 'bssid':b'6\xab\x95$\x92\xda', 'sec':4, 'channel':9, 'rssi':-88}
+2022-08-13 14:00:57: {'ssid':'Q0022523361454', 'bssid':b'6\xab\x95$\x92\xda', 'sec':4, 'channel':9, 'rssi':-88}
+2022-08-13 14:03:07: {'ssid':'Abo haysam', 'bssid':b'\x00rc9G\xc7', 'sec':4, 'channel':11, 'rssi':-94}
+2022-08-13 14:03:31: {'ssid':'X', 'bssid':b'd\xee\xb7\x9f\xcd\xd2', 'sec':4, 'channel':1, 'rssi':-95}
