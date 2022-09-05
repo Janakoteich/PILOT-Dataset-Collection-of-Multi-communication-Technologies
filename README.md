@@ -16,16 +16,9 @@ Others:
 Dataset Guide: The dataset is composed of two main scenarios: Static and Mobile.
 
 Static:
-Office
-Home
-Restaurent
-University
+Office, Home, Restaurent, University
 
 Mobile:
-Pedestrian
-Bus
-Car
-Train
-Metro
+Pedestrian, Bus, Car, Train, Metro
 
 More details regarding each scanned file can be found in the 'Dataset guide' file.
