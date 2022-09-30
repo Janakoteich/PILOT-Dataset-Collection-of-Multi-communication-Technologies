@@ -1,4 +1,4 @@
-# Wireless-networks-scanning-Dataset-WBL-
+# PILOT Dataset
 
 
 In this repository you can find a dataset for the collected traces from scanning, by using FiPy microcontroller from Pycom. In each text file there is the output of the collected data. For each wireless technology the following features are collected:
