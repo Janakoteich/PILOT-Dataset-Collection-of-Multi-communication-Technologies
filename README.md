@@ -12,6 +12,7 @@ LoRa: {time-stamp, spreading_factor, data, frequency, bandwidth, rx_timestamp, r
 Others:
 {time-stamp, Acceleration, Roll, battery_voltage, battery_percentage, Pitch}
 
+The dataset is scanned using FiPy microcontrollers from pycom.
 
 Dataset Guide: The dataset is composed of two main scenarios: Static and Mobile.
 
@@ -21,4 +22,4 @@ Office, Home, Restaurent, University
 Mobile:
 Pedestrian, Bus, Car, Train, Metro
 
-More details regarding each scanned file can be found in the 'Dataset guide' file.
+More details regarding each scanned file can be found in the 'Dataset guide' file. 
