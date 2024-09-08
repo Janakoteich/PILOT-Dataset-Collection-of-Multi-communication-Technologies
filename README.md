@@ -22,4 +22,5 @@ Office, Home, Restaurent, University
 Mobile:
 Pedestrian, Bus, Car, Train, Metro
 
-More details regarding each scanned file can be found in the 'Dataset guide' file. 
+More details about the dataset are presented in the following article: https://inria.hal.science/hal-04524617/file/2024111813%20%284%29.pdf
+
