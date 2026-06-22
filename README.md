@@ -76,7 +76,7 @@ The dataset covers 11 labeled scenarios divided into two top-level categories:
 | T1 | Train (TER) | Regional train between two cities |
 | T2 | Train (TGV) | High-speed train |
 
-Data was collected across France (including TGV, TER, and RER lines, and various urban and rural environments) and in South Africa. Several scenarios include repeated collection sessions to ensure behavioral consistency across files.
+Data was collected across France (including TGV, TER, and RER lines, and various urban and rural environments).
 
 ---
 
