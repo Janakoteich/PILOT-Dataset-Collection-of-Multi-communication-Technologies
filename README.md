@@ -17,7 +17,7 @@ The dataset is intended for research in **human mobility classification**, **con
 - ~200 MB total size
 - 120 labeled log files across 11 mobility scenarios
 - Collected in France
-- 
+
 **Reference paper:**  
 J. Koteich and N. Mitton, *"Dataset Collection of Multi-Communication Technologies Monitored in Different Mobility Contexts,"* in *20th IEEE International Wireless Communications and Mobile Computing Conference (IWCMC)*, 2024.  
 DOI: [10.1109/IWCMC61514.2024.10592486](https://doi.org/10.1109/IWCMC61514.2024.10592486) · Open access: [HAL](https://inria.hal.science/hal-04524617)
