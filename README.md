@@ -166,7 +166,7 @@ Monitored frequencies (EU868 band): 863–869 MHz across 15 frequency slots.
 This dataset complies with the **General Data Protection Regulation (GDPR)**, which classifies MAC addresses and device names as personal data.
 
 **Anonymization approach:**  
-The dataset is organized into files corresponding to independent time windows (10 minutes to ~3 hours each). For each file, MAC addresses are transformed into pseudonymous device identifiers using **HMAC-SHA-256** with a randomly generated secret key. The key is unique per file and discarded after processing, ensuring that device identifiers cannot be linked across files. Device names are replaced with random symbols, and LoRa packet payloads are fully masked.
+The dataset is organized into files corresponding to independent time windows (10 minutes to ~3 hours each). For each file, MAC addresses are transformed into pseudonymous device identifiers using **HMAC-SHA-256** with a randomly generated secret key. The key is unique per file and discarded after processing, ensuring that device identifiers cannot be linked across files. Device names are replaced with random symbols.
 
 ---
 
