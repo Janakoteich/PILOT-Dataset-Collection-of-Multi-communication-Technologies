@@ -8,7 +8,7 @@
 
 ## Overview
 
-The **PILOT dataset** is a labeled, multi-technology wireless sensing dataset collected across a range of real-life mobility scenarios. It jointly captures traces from three wireless communication technologies — **WiFi**, **BLE (Bluetooth Low Energy)**, and **LoRa** — alongside inertial sensor measurements (acceleration, roll, pitch), all recorded simultaneously using Pycom FiPy microcontrollers.
+The **PILOT dataset** is a labeled, multi-technology wireless sensing dataset collected across a range of real-life mobility scenarios. It jointly captures traces from three wireless communication technologies, **WiFi**, **BLE (Bluetooth Low Energy)**, and **LoRa**, alongside inertial sensor measurements (acceleration, roll, pitch), all recorded simultaneously using Pycom FiPy microcontrollers.
 
 The dataset is intended for research in **human mobility classification**, **context-aware sensing**, and **IoT data analysis**. It is the first publicly available labeled dataset combining multi-technology wireless traces and inertial measurements across diverse mobility contexts.
 
